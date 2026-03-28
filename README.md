@@ -1,15 +1,14 @@
-# Zpěvník (lepší)
+# Zpěvník
 
-## Zdroje
+Toto je již několikátá verze našeho zpěvníku,
+nyní přepsaná do Typstu :)
 
-Vytuněné vykreslování akordů: https://typst.app/universe/package/conchord/
-^^^^ Určitě použít tohle - dělá to všechno a ještě víc
+## Kompilace
 
-Vykreslování akordů: https://typst.app/universe/package/chordx/
-Vykreslování akordů (automaticky): https://typst.app/universe/package/conchord/
-Polozpěvník template: https://typst.app/universe/package/chordish/
-Zpěvínk template: https://typst.app/universe/package/songb
+Pro kompilaci je nutné mít nainstalovaný
+balíček [`crumblysong`](https://github.com/CrumblyLiquid/crumblysong/).
 
-Linebreaky:
-https://github.com/typst/typst/issues/710
-https://forum.typst.app/t/how-to-force-line-breaks-without-extra-spaces/4091/10
+Následně stačí jen spustit Typst kompilátor:
+```bash
+typst compile main.typ
+```
