@@ -1,0 +1,64 @@
+# Seznam písniček, které bych chtěl přidat
+
+České:
+- [ ] 1. signální
+- [ ] 5 ježibab na koštěti
+- [ ] Amazonka
+- [ ] Amerika
+- [ ] Ani k stáru
+- [ ] Blaženo
+- [ ] Carpe diem
+- [ ] Co bylo dál?
+- [ ] Co z tebe bude
+- [ ] Černej pasažér
+- [ ] Dajána
+- [ ] Drobná paralela
+- [ ] Dva havrani
+- [ ] Fajn džob
+- [ ] Huddsonské šífy
+- [ ] Hvězdář
+- [ ] Chci ti říct
+- [ ] Chci zas v tobě spát
+- [ ] Jelen
+- [ ] Jaro (Fešáci)
+- [ ] Jdem zpátky do lesů
+- [ ] Krajina posedlá tmou
+- [ ] Král a klaun
+- [ ] Lásko (Kryl)
+- [ ] Lodníkův lament
+- [ ] Mackie Messer
+- [ ] Magdaléna
+- [ ] Malagelo
+- [ ] Malotraktorem
+- [ ] Malování
+- [ ] Marie
+- [ ] Medvědi nevědí
+- [ ] Na vodě
+- [ ] Nebe peklo ráj
+- [ ] Nilský krokodýl
+- [ ] Pavilon č. 5
+- [ ] Píseň Leontýnky
+- [ ] Po schodoch
+- [ ] Pojď se mnou lásko má
+- [ ] Pověsteho vejš
+- [ ] První signální
+- [ ] Rozvíjej se poupátko
+- [ ] Síla starejch vín
+- [ ] Snadné je žít
+- [ ] Sovy v mazutu
+- [ ] Svaz českých bohémů
+- [ ] Šrouby a matice
+- [ ] V 7:25
+- [ ] Včelín
+- [ ] Veď mě dál
+- [ ] Víno
+- [ ] Vlaštovky
+- [ ] Vlak v 0.5
+- [ ] Voda už je svařená
+- [ ] Z diplomky nemám nic
+- [ ] Zakázané uvolnění
+
+Anglické:
+- [ ] House of the rising sun
+- [ ] Fly me to the moon
+- [ ] Pompey
