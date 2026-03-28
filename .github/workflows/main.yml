@@ -1,0 +1,32 @@
+name: Render songbook
+on:
+  push:
+    branches:
+      - main
+jobs:
+  render-songbook:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Setup Typst
+        uses: typst-community/setup-typst@v5
+        with:
+          zip-packages: requirements.json
+      - name: Compile
+        run: typst compile main.typ zpevnik.pdf
+      - name: Upload
+        uses: actions/upload-artifact@v6
+        with:
+          name: zpevnik
+          path: zpevnik.pdf
+      - name: Create or Update Draft Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release upload latest zpevnik.pdf --clobber || \
+          gh release create latest zpevnik.pdf \
+            --title "Pracovní verze" \
+            --notes "Toto je nejnovější pracovní verze zpěvníku."

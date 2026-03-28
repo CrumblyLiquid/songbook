@@ -70,7 +70,6 @@
   #set page(margin: (x: 1.0cm, rest: 0pt), paper: "a4")
 
   #set align(center)
-  #set text(font: "Noto Serif Dives Akuru")
 
   #grid(
     // fill: (x, y) => { if calc.odd(y) { blue } else { green } },
@@ -118,7 +117,7 @@
   #set page(margin: (x: 1.0cm, rest: 0pt), paper: "a4")
 
   #set align(center)
-  #set text(font: "Noto Serif Dives Akuru")
+  // #set text(font: "Noto Serif Dives Akuru")
 
   #grid(
     rows: (auto, 1fr, auto),
