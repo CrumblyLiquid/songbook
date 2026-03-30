@@ -21,7 +21,7 @@
   jsi prezident a já tvé spojené státy.
 ]
 
-#solo[G D Em C ~~ G D Em C _(sólo housle)_]
+#solo[G D Emi C ~~ G D Emi C _(sólo housle)_]
 
 #verse[
   Přines jsem Ti kytku, no co koukáš, to se má,\
@@ -34,7 +34,7 @@
   Jsi lokomotiva...
 ]
 
-#solo[G D Em C ~~ G D Em C _(sólo trumpeta)_]
+#solo[G D Emi C ~~ G D Emi C _(sólo trumpeta)_]
 
 #verse[
   Každej příběh má svůj konec, ale né, ten náš,\
@@ -47,7 +47,7 @@
   Jsi lokomotiva...
 ]
 
-#solo[G D Em C ~~ G D Em C _(sólo banjo)_]
+#solo[G D Emi C ~~ G D Emi C _(sólo banjo)_]
 
 #verse[
   Dětem dáme jména Jessie, Jared, Jack a John,\
