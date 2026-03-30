@@ -67,6 +67,7 @@
 #include "trpaslici_svatba.typ"
 #include "tygr.typ"
 #include "vceli_medvidci.typ"
+#include "vcelin.typ"
 #include "voda_vodenka.typ"
 #include "voda_ziva.typ"
 #include "v_mori_je_mista_dost.typ"
