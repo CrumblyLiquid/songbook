@@ -45,7 +45,7 @@
     #set text(size: 1.7em)
     _Kuba, Žužu a spol._
   ],
-  top_text: [Řekni věž...],
+  top_text: [Do prdele běž.],
   main_text: [
     #set text(size: 1.7em)
     #block(width: 82.5%)[
