@@ -2,6 +2,8 @@
   = České písničky
 ]
 
+#set text(lang: "cs")
+
 #include "africancata.typ"
 // #include "az.typ"
 #include "barbora_pise_z_tabora.typ"

@@ -2,6 +2,8 @@
   = Anglické písničky
 ]
 
+#set text(lang: "en")
+
 #include "aberdeen.typ"
 #include "all_my_loving.typ"
 #include "blue.typ"
