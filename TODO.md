@@ -23,12 +23,12 @@
 - [ ] Jaro (Fešáci)
 - [ ] Jdem zpátky do lesů
 - [ ] Krajina posedlá tmou
-- [ ] Král a klaun
+- [x] Král a klaun
 - [ ] Lásko (Kryl)
 - [ ] Lodníkův lament
 - [ ] Mackie Messer
 - [ ] Magdaléna
-- [ ] Malagelo
+- [x] Malagelo
 - [ ] Malotraktorem
 - [ ] Malování
 - [ ] Marie
