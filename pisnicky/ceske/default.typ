@@ -35,6 +35,7 @@
 #include "kocka_na_okne.typ"
 #include "kolik_je_na_svete.typ"
 // #include "komari_se_zenili.typ"
+#include "kral_a_klaun.typ"
 #include "lokomotiva.typ"
 #include "male_kote.typ"
 #include "mam_doma_kocku.typ"
