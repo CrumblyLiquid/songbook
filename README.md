@@ -7,6 +7,8 @@ nyní přepsaná do Typstu :)
 
 #### [Pracovní verze zpěvníku](https://github.com/CrumblyLiquid/songbook/releases/download/latest/zpevnik.pdf)
 
+[![Download](./static/download.png)](https://github.com/CrumblyLiquid/songbook/releases/download/latest/zpevnik.pdf)
+
 #### [Historie verzí zpěvníku](https://github.com/CrumblyLiquid/songbook/releases)
 
 ## Kompilace
