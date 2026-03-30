@@ -2,15 +2,16 @@
 
 #show: doc => song(
   title: [Eldorádo],
-  author: [],
+  author: [Waldemar Matuška],
   font_size: 0.99em,
   doc,
 )
 
 #verse[
-  #d[Ami]V dálných #c[G]dálkách zámo#c[Ami]ří, #c[Ami]ční prý #c[G]zlaté poho#c[Ami]ří,\
+  #d[Ami]V dálných #c[G]dálkách zámo#c[Ami][ří,] #c[Ami]ční prý #c[G]zlaté poho#c[Ami]ří,\
   #d[Ami]přícho#c[C]zího pohos#c[D]tí, #c[F]nádhe#c[C]rou a hojnos#c[G]tí.#c[E]
 ]
+
 #verse[
   Dík těm svůdným pověstím, zástupy šly za štěstím,\
   chátra i ti bohatí, s vírou, že se vyplatí...
