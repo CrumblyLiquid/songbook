@@ -4,7 +4,7 @@
 - [ ] 1. signální
 - [ ] 5 ježibab na koštěti
 - [ ] Amazonka
-- [ ] Amerika
+- [x] Amerika
 - [ ] Ani k stáru
 - [ ] Blaženo
 - [ ] Carpe diem

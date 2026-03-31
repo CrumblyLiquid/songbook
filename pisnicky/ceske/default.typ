@@ -5,6 +5,7 @@
 #set text(lang: "cs")
 
 #include "africancata.typ"
+#include "amerika.typ"
 // #include "az.typ"
 #include "barbora_pise_z_tabora.typ"
 // #include "beskyde_beskyde.typ"
