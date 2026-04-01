@@ -40,6 +40,7 @@
 // #include "komari_se_zenili.typ"
 #include "kral_a_klaun.typ"
 #include "lokomotiva.typ"
+#include "magdalena.typ"
 #include "malagelo.typ"
 #include "male_kote.typ"
 #include "mam_doma_kocku.typ"

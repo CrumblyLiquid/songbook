@@ -27,7 +27,7 @@
 - [ ] Lásko (Kryl)
 - [ ] Lodníkův lament
 - [ ] Mackie Messer
-- [ ] Magdaléna
+- [x] Magdaléna
 - [x] Malagelo
 - [ ] Malotraktorem
 - [ ] Malování
