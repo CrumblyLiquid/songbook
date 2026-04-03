@@ -22,6 +22,7 @@
 - [ ] Jelen
 - [ ] Jaro (Fešáci)
 - [ ] Jdem zpátky do lesů
+- [ ] Kujme pikle
 - [ ] Krajina posedlá tmou
 - [x] Král a klaun
 - [ ] Lásko (Kryl)
@@ -33,6 +34,7 @@
 - [ ] Malování
 - [ ] Marie
 - [ ] Medvědi nevědí
+- [ ] Miluju a maluju
 - [ ] Na vodě
 - [ ] Nebe peklo ráj
 - [ ] Nilský krokodýl
