@@ -19,6 +19,7 @@
 - [ ] Hvězdář
 - [ ] Chci ti říct
 - [ ] Chci zas v tobě spát
+- [ ] Chválím tě země má
 - [ ] Jelen
 - [ ] Jaro (Fešáci)
 - [ ] Jdem zpátky do lesů
@@ -35,12 +36,15 @@
 - [ ] Marie
 - [ ] Medvědi nevědí
 - [ ] Miluju a maluju
+- [ ] Mlýny
 - [ ] Na vodě
 - [ ] Nebe peklo ráj
+- [ ] Nechte zvony znít
 - [ ] Nilský krokodýl
 - [ ] Pavilon č. 5
 - [ ] Píseň Leontýnky
 - [ ] Po schodoch
+- [ ] Pod dubem, za dubem
 - [ ] Pojď se mnou lásko má
 - [ ] Pověsteho vejš
 - [ ] První signální
@@ -50,6 +54,7 @@
 - [ ] Sovy v mazutu
 - [ ] Svaz českých bohémů
 - [ ] Šrouby a matice
+- [ ] To ta Heľpa
 - [ ] V 7:25
 - [ ] Včelín
 - [ ] Veď mě dál
@@ -58,6 +63,7 @@
 - [ ] Vlak v 0.5
 - [ ] Voda už je svařená
 - [ ] Z diplomky nemám nic
+- [ ] Za svou pravdou stát
 - [ ] Zakázané uvolnění
 
 Anglické:
