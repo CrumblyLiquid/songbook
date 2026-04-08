@@ -67,6 +67,8 @@
 - [ ] Zakázané uvolnění
 
 Anglické:
+- [ ] All eyes on me
 - [ ] House of the rising sun
 - [ ] Fly me to the moon
 - [ ] Pompey
+- [ ] Welcome to the internet
