@@ -1,5 +1,8 @@
 #import "@local/crumblysong:0.1.0": *;
 
+#import "/style.typ": style
+#show: style
+
 #show: doc => song(
   title: [Mravenčí ukolébavka],
   author: [Zdeněk Svěrák a Jaroslav Uhlíř],
