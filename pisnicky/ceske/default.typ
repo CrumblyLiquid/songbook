@@ -47,6 +47,7 @@
 #include "mam_jizvu_na_rtu.typ"
 #include "medvidek.typ"
 #include "mikymauz.typ"
+#include "mlyny.typ"
 #include "mravenci_ukolebavka.typ"
 #include "na_hotelu_v_olomouci.typ"
 // #include "nahrobni_kamen.typ"
