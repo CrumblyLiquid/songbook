@@ -10,8 +10,7 @@
 )
 
 #verse[
-  #d[C]Slunce šlo #c[G]spát\
-  #d[F]za hromádku #c[G]klád\
+  #d[C]Slunce šlo #c[G]spát #c[F]za hromádku #c[G]klád\
   #d[C]na nebi #c[F]hvězdy klí#c[G][čí.]~\
   #d[C]Už nepra#c[G]cuj, #c[F]mravenečku #c[G]můj,\
   #d[C]schovej se #c[F]do je#c[G]hli#c[C]čí.
@@ -25,8 +24,7 @@
 ]
 
 #verse[
-  Spinká a sní\
-  mravenec lesní\
+  Spinká a sní mravenec lesní\
   v hromádce u kapradí.\
   Nespinká sám, s maminkou je tam,\
   tykadlama ho hladí.
@@ -37,8 +35,7 @@
 ]
 
 #verse[
-  Spinká a sní\
-  mravenec lesní\
+  Spinká a sní mravenec lesní\
   v hromádce u kapradí.\
   Nespinká sám, s maminkou je tam,\
   tykadlama ho hladí.

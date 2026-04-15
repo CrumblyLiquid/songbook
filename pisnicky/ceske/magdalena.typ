@@ -13,8 +13,8 @@
 
 #verse[
   #d[A]Zapal ten oheň ve mně. #c[D]Čeho se bojíš? #c[A]Zápalkou škrtni jemně.#c[D]\
-  Zapal ten oheň ve mně. Čeho se bojíš? Zimou se celá třeseš, proč venku stojíš.
-  Pojď dál, prosím tě nenech se, prosit se dá-ál -- nenech se!\
+  Zapal ten oheň ve mně. Čeho se bojíš? Zimou se celá třeseš, proč venku stojíš.\
+  Pojď dál, prosím tě nenech se, prosit se dá-ál -- nenech se!
 ]
 
 #bridge[
