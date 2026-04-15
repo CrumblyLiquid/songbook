@@ -50,7 +50,7 @@
 ]
 
 #chorus[
-  [: We could've had it all... :] 2x
+  #rep[We could've had it all...]
 ]
 
 #bridge[
@@ -68,6 +68,6 @@
 ]
 
 #chorus[
-  [: We could've had it all... :] 2x
+  #rep[We could've had it all...]
 ]
 

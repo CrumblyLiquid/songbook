@@ -8,10 +8,9 @@
 )
 
 // https://www.youtube.com/watch?v=bQchpOrl-PM\
-#intro(text_style: doc => {
-  doc
-})[Ariel, listen to me. OO languages? It's a mess.\
-  Programming in C is better than anything they've got over there!
+#section[
+  _Ariel, listen to me. OO languages? It's a mess.\
+  Programming in C is better than anything they've got over there!_
 ]
 
 #verse[

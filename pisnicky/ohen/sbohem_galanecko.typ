@@ -13,17 +13,17 @@
   #d[C]podalas' mně #c[Dmi]k #c[G~~]pi#w[C]tí. :]
 ]
 #verse[
-  [: Sbohem, galánečko, rozlučme sa v pánu, :]\
+  #rep[Sbohem, galánečko, rozlučme sa v pánu,]\
   [: kyselé vínečko, kyselé vínečko,\
   podalas' mně v džbánu. :]
 ]
 #verse[
-  [: Ač bylo kyselé, přecaj sem sa opil, :]\
+  #rep[Ač bylo kyselé, přecaj sem sa opil,]\
   [: eště včil sa stydím, eště včil sa stydím,\
   co sem všecko tropil. :]
 ]
 #verse[
-  [: Ale sa něhněvám, žes' mňa ošidila, :]\
+  #rep[Ale sa něhněvám, žes' mňa ošidila,]\
   [: to ta moja žízeň, to ta moja žízeň,\
   ta to zavinila. :]
 ]

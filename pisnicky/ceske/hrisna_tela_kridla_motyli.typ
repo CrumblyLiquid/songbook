@@ -10,7 +10,7 @@
 
 // TODO: Pozice akordů v druhé části
 
-#intro[H Hsus2 H Hsus2]
+#solo[H Hsus2 H Hsus2]
 
 #verse[
   #c[H]Jednou už tě málem měla #c[F\#]a už zase by tě chtěla\

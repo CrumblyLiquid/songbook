@@ -7,13 +7,13 @@
 )
 
 #verse[
-  [: #c[C]Skřítkové #c[F]tesaři #c[C]vylezte #c[G]z mechu. :]\
-  [: #c[C]chopte se #c[C7]náčiní, #c[F]postavte #c[G]střechu. :]
+  #rep[#c[C]Skřítkové #c[F]tesaři #c[C]vylezte #c[G]z mechu.]\
+  #rep[#c[C]chopte se #c[C7]náčiní, #c[F]postavte #c[G]střechu.]
 ]
 
 #verse[
-  [: Skřítkové ze skal a skřítkové z lesa. :]\
-  [: Pila ať pracuje, sekera tesá. :]
+  #rep[Skřítkové ze skal a skřítkové z lesa.]\
+  #rep[Pila ať pracuje, sekera tesá.]
 ]
 
 #chorus[
@@ -27,11 +27,11 @@
   #c[F]Nebozíz#c[G]kem #c[C]vrtá.
 ]
 
-#bridge[
-  #c[F]Ať mistr šindelář koná své dílo.\
+#section[
+  _#c[F]Ať mistr šindelář koná své dílo.\
   #c[C]Střechu nám pokryje, kdyby snad lilo.\
   #c[F]Držte si klobouky, nasaďte helmy,\
-  #c[D7]mistr to provede #c[G7]způsobem střelným.
+  #c[D7]mistr to provede #c[G7]způsobem střelným._
 ]
 
 #chorus[
@@ -39,13 +39,13 @@
 ]
 
 #verse[
-  [: Skřítkové, zedníci zanechte spánku. :]\
-  [: Vezměte kladívko, lžíci a fanku. :]
+  #rep[Skřítkové, zedníci zanechte spánku.]\
+  #rep[Vezměte kladívko, lžíci a fanku.]
 ]
 
 #verse[
-  [: Písek se červená, vápno se bělá. :]\
-  [: Brána je zřícená, ať stojí celá. :]
+  #rep[Písek se červená, vápno se bělá.]\
+  #rep[Brána je zřícená, ať stojí celá.]
 ]
 
 #chorus[

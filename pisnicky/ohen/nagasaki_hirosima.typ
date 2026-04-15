@@ -31,6 +31,6 @@
   Tramvají dvojkou jezdíval jsem do Židenic,\
   z tak velký lásky většinou nezbyde nic,\
   z takový lásky jsou kruhy pod očima,\
-  [: a dvě spálený srdce – Nagasaki, Hirošima :]
+  #rep[a dvě spálený srdce – Nagasaki, Hirošima]
 ]
 

@@ -21,9 +21,9 @@
 ]
 
 #chorus[
-  Pořád jen [: #c[F]na kolena, na kolena, :] #c[C]jé jé jé,\
-  pořád jen [: #c[F]na kolena, na kolena, :] #c[C]jé jé jé,\
-  pořád jen [: #c[F]na kolena, na kolena, :] #c[C]je to #c[Ami]tak,\
+  Pořád jen #rep[#c[F]na kolena, na kolena,] #c[C]jé jé jé,\
+  pořád jen #rep[#c[F]na kolena, na kolena,] #c[C]jé jé jé,\
+  pořád jen #rep[#c[F]na kolena, na kolena,] #c[C]je to #c[Ami]tak,\
   a vaše #c[F]saka vám posere #c[G]pták.
 ]
 

@@ -18,7 +18,7 @@
   #d[Ami]hlubokou šachtou padá #c[H7]zdviž, já říkám "kiš-kiš",\
   #d[Emi]navrch má vždycky těžký #c[F\#]kámen\
   #d[H7]a my jsme v koncích čím dál #c[Emi H7][blíž,]\
-  [: #d[Emi]a me tu ha nadži vava #c[Ami]jaj dari dari #c[H7]daj. :]
+  #rep[#d[Emi]a me tu ha nadži vava #c[Ami]jaj dari dari #c[H7]daj.]
 ]
 
 #verse[
@@ -44,7 +44,7 @@
   hlubokou šachtou padá zdviž, co čumíš, kiš-kiš,\
   navrch má vždycky těžký kámen\
   a my jsme v koncích čím dál blíž,\
-  [: a me tu ha nadži vava jaj dari dari daj. :]\
+  #rep[a me tu ha nadži vava jaj dari dari daj.]\
   [: Navrch má vždycky těžký kámen\
   a my jsme v koncích čím dál blíž... :]
 ]

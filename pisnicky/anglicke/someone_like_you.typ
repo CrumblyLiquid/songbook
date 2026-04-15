@@ -8,7 +8,7 @@
   doc,
 )
 
-#intro[G Hmi/F\# Emi C]
+#solo[G Hmi/F\# Emi C]
 
 #verse[
   #c[G]I heard that you're #c[Hmi/F\#]settled down,
@@ -30,7 +30,7 @@
   #c[G]Never mind, I'll #c[D]find someone like #c[Emi C]you,#h(1em)
   I wish #c[G]nothing but the #c[D]best for #c[Emi]you, #c[C]too\
   "Don't for#c[G]get me," I #c[D]beg, I'll re#c[Emi]member you #c[C]said\
-  [: "Sometimes it #c[G]lasts in love, but #c[D]sometimes it hurts in#c[Emi]st#w[C]ead" :]
+  #rep["Sometimes it #c[G]lasts in love, but #c[D]sometimes it hurts in#c[Emi]st#w[C]ead"]
 ]
 
 #verse[
@@ -74,6 +74,6 @@
   I wish nothing but the best for you, too\
   "Don't forget me, " I beg,
   I remember you said\
-  [: "Sometimes it lasts in love, but sometimes it hurts instead" :]
+  #rep["Sometimes it lasts in love, but sometimes it hurts instead"]
 ]
 

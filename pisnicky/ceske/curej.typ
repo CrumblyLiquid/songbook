@@ -7,7 +7,7 @@
   doc,
 )
 
-#intro[D G D D G D]
+#solo[D G D D G D]
 
 #verse[
   Čůrej sem a čůrej #c[D]tam #c[G D]\

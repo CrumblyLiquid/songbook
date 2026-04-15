@@ -6,7 +6,7 @@
   doc,
 )
 
-#intro[C G Ami F C G F C Dmi C]
+#solo[C G Ami F C G F C Dmi C]
 
 #verse[
   When I #c[C]find myself in #c[G]times of trouble, #c[Ami]Mother Mary #c[F]comes to me\

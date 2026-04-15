@@ -38,6 +38,6 @@
   Když se zamiluje kůň tam někde v pastvinách,\
   láskou hlubokou jak tůň tam někde v pastvinách,\
   když se zamiluje kůň koňskou láskou,\
-  [: zpívejte písničku pro jeho klisničku, nechte ho jít. :]
+  #rep[zpívejte písničku pro jeho klisničku, nechte ho jít.]
 ]
 

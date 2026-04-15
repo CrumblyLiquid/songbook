@@ -7,7 +7,7 @@
 )
 
 #verse[
-  #d[Ami]Větr sněh #c[A2]zanésl #c[Ami]z hor do po#c[A2]lí, #c[Ami]já idu #c[A]přes kopce, #c[G]přes údo#c[Ami]lí,\
+  #d[Ami]Větr sněh #c[A2]zanésl #c[Ami]z hor do po#c[A2]lí, #c[Ami]já idu #c[C]přes kopce, #c[G]přes údo#c[Ami]lí,\
   #d[C]idu k Tvej #c[G]dědině zatúla#c[C]nej, #c[F]cestičky #c[C]sněhem sú #c[E]zafúka#c[Ami A2 Ami]né.
 ]
 
@@ -26,7 +26,7 @@
 ]
 
 #chorus[
-  [: Zafúkané, zafúkané, okénko k Tobě je zafúkané. :]
+  #rep[Zafúkané, zafúkané, okénko k Tobě je zafúkané.]
 ]
 
 #solo[
@@ -39,7 +39,7 @@
 ]
 
 #chorus[
-  [: Zafúkané, zafúkané, mé stopy k Tobě sú zafúkané. :]
+  #rep[Zafúkané, zafúkané, mé stopy k Tobě sú zafúkané.]
 ]
 
 #solo[

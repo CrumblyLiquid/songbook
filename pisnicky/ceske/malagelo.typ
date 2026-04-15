@@ -11,7 +11,7 @@
   doc,
 )
 
-#solo[\[: G C D :\] 3x]
+#solo[#rep(repeat: 3)[G C D]]
 
 #verse[
   Já #d[G]potkal jsem Tě na ulici, #c[C]byla jsi #c[D]jako #c[G]dělo#c[C D]\
@@ -47,7 +47,7 @@
 ]
 
 
-#solo[\[: G C D :\] 4x]
+#solo[#rep(repeat: 4)[G C D]]
 
 #verse[
   Já potkal jsem Tě na ulici, byla jsi zase jako dělo\
@@ -61,14 +61,14 @@
 
 #bridge[
   Tak puč mi puč, Malagelo,\
-  \[: puč mi puč, Malagelo :\] 3x\
+  #rep(repeat: 3)[puč mi puč, Malagelo]\
 ]
 
 #chorus[
   Mala, mala, mala, mala, mala, Malagelo,\
   mala a mala, mala, Malagelo,\
-  \[: mala, mala, mala, Malagelo, :\] 2x\
-  \[: mala a mala, Malagelo, :\] 2x\
+  #rep(repeat: 2)[mala, mala, mala, Malagelo,]\
+  #rep(repeat: 2)[mala a mala, Malagelo,]\
   mala, mala, mala, mala, Malagééééélóóó.
 ]
 

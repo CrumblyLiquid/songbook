@@ -42,7 +42,7 @@
 ]
 
 #chorus[
-  \[: Hodiny se zastaví... :\] 2x
+  #rep[Hodiny se zastaví...]
 ]
 
 #chorus[

@@ -27,8 +27,10 @@
   Sloni a hroši půjdou jako vlajkonoši na čele průvodu.\
   Výpravě z Česka bouřlivě se bude tleskat,\
   až přejde přes vodu.\
-  [: Mé bílé holubice poleťte sem,\
-  od Ruska k Americe dolů na Ohňovou zem.\
-  Vousatý Noe už volá hoe-hoe a točí kompasem. :]
+  #rep[
+    Mé bílé holubice poleťte sem,\
+    od Ruska k Americe dolů na Ohňovou zem.\
+    Vousatý Noe už volá hoe-hoe a točí kompasem.
+  ]
 ]
 

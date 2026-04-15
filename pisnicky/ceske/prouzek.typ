@@ -48,6 +48,6 @@
 
 #chorus[
   Někdo škrtne sirkou...\
-  [: jedna holka, co mám rád :]
+  #rep[jedna holka, co mám rád]
 ]
 

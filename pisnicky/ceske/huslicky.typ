@@ -17,21 +17,21 @@
 #verse[
   \[: A kdože tu trávu tak zválal,\
   aj modré fialy, :\]\
-  \[: že ste, husličky, samé :\]\
+  #rep[že ste, husličky, samé]\
   na světě zostaly?
 ]
 
 #verse[
   \[: A který tu muzikant usnul\
   a co sa mu přišlo zdát, :\]\
-  \[: co sa mu enem zdálo, bože :\]\
+  #rep[co sa mu enem zdálo, bože]\
   že už vjec nechtěl hrát?
 ]
 
 #verse[
   \[: Zahrajte, husličky, samy,\
   zahrajte zvesela, :\]\
-  \[: až sa tá bude trápit, :\]\
+  #rep[až sa tá bude trápit,]\
   která ho nechtěla.
 ]
 

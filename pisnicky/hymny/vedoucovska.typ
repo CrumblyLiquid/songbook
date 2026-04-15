@@ -45,6 +45,6 @@
   tak konečně už šly ty děti spát.
 
   Však #d[G]přes noc dobijí #c[D]baterky...\
-  \[: a #d[A]zítra zase #c[E]budou řádit #c[D]dál :\]#c[(A)]
+  #rep[a #d[A]zítra zase #c[E]budou řádit #c[D]dál]#c[(A)]
 ]
 

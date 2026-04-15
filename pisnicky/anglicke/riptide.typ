@@ -8,7 +8,7 @@
   doc,
 )
 
-#intro[Ami G C Ami G C]
+#solo[Ami G C Ami G C]
 
 #verse[
   #d[Ami]I was scared of #c[G]dentists and the #c[C]dark\
@@ -57,6 +57,6 @@
 ]
 
 #chorus[
-  [: Lady, running down to the riptide... :] 3x
+  #rep(repeat: 3)[Lady, running down to the riptide...]
 ]
 

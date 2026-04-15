@@ -35,11 +35,11 @@
 ]
 
 // TODO: Recitation block
-#verse(counter: none, numbered: false, prefix: [Rec:])[
-  #c[Ami]Protože my už dávno víme, že nad zlato a #c[G]bohatství je moudrost a uvážlivý čin,\
+#section[
+  _#c[Ami]Protože my už dávno víme, že nad zlato a #c[G]bohatství je moudrost a uvážlivý čin,\
   #c[C]že Eldorádo není kdesi v #c[D]dálce, ale docela #c[G]blízko, v našich\
   srdcích #c[E]a v našem myšlení. #c[Ami]A že pravé jméno je svoboda, #c[G]pravda a porozumění\
-  Nosíme je v sobě #c[C]a ptát se na ně #c[D]je naše přirozená #c[Emi]povinnost.
+  Nosíme je v sobě #c[C]a ptát se na ně #c[D]je naše přirozená #c[Emi]povinnost._
 ]
 
 #chorus[

@@ -99,6 +99,6 @@
 ]
 
 #chorus[
-  [: We didn't start the fire... :] 3x
+  #rep(repeat: 3)[We didn't start the fire...]
 ]
 

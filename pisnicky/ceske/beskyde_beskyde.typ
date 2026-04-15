@@ -8,26 +8,26 @@
 
 #verse[
   #d[D]Beskyde, Besky#c[A]de, kdo po tobě i#c[D]de?\
-  \[: #d[G]Černooký bača #c[D]ovečky #c[A]za#c[A7][tá]#c[D]čá. :\]
+  #rep[#d[G]Černooký bača #c[D]ovečky #c[A]za#c[A7][tá]#c[D]čá.]
 ]
 
 #verse[
   Aj, bačo, bačo náš, černů košulku máš,\
-  \[: kdo ti ju vypere, dyž maměnky nemáš? :\]
+  #rep[kdo ti ju vypere, dyž maměnky nemáš?]
 ]
 
 #verse[
   Já nemám maměnku, ale mám galánku\
-  \[: a ta mi vypere černů košulenku. :\]
+  #rep[a ta mi vypere černů košulenku.]
 ]
 
 #verse[
   Všeci sa starajů o moju chudobu,\
-  \[: a já sa nestarám, chvála pánu bohu. :\]
+  #rep[a já sa nestarám, chvála pánu bohu.]
 ]
 
 #verse[
   Všeci sa ženíja, vojny sa bojíja,\
-  \[: a já sa nežením, vojny sa nebojím. :\]
+  #rep[a já sa nežením, vojny sa nebojím.]
 ]
 

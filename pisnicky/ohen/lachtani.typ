@@ -9,7 +9,7 @@
 #set text(size: 0.9em)
 
 #chorus[
-  [: #c[C]Lach, lach, #c[F]jé#c[C]jé, #c[Ami]lach, lach, #c[G]jé#c[C]jé :]
+  #rep[#c[C]Lach, lach, #c[F]jé#c[C]jé, #c[Ami]lach, lach, #c[G]jé#c[C]jé]
 ]
 
 #verse[

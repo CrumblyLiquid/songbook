@@ -6,7 +6,7 @@
   doc,
 )
 
-#intro[Ami G Emi F]
+#solo[Ami G Emi F]
 
 #verse[
   #c[Ami]Can I get your hand to write on. #c[G]Just a piece of leg to bite on\

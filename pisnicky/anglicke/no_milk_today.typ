@@ -69,6 +69,8 @@
 ]
 
 #chorus[
-  [: But all that's left is a place dark and lonely\
-  A terraced house in a mean street back of town :] 3x
+  #rep(repeat: 3)[
+    But all that's left is a place dark and lonely\
+    A terraced house in a mean street back of town
+  ]
 ]

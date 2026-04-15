@@ -58,6 +58,6 @@
 ]
 
 #chorus[
-  [: Dej mi ruku svou... :]
+  #rep[Dej mi ruku svou...]
 ]
 

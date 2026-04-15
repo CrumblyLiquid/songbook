@@ -14,7 +14,7 @@
 ]
 
 #chorus[
-  [: #d[Dmi]Na, #c[Ami]na, #c[C G]na... :] 3x\
+  #rep(repeat: 3)[#d[Dmi]Na, #c[Ami]na, #c[C G]na...]\
   #c[Dmi]Na, #c[F]na, #c[C G]na...
 ]
 
@@ -37,7 +37,7 @@
 ]
 
 #chorus[
-  [: #d[Emi]Na, #c[Hmi]na, #c[D A]na... :] 3x\
+  #rep(repeat: 3)[#d[Emi]Na, #c[Hmi]na, #c[D A]na...]\
   #c[Emi]Na, #c[G]na, #c[D A]na...
 ]
 
