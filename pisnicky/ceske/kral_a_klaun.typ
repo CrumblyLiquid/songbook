@@ -5,7 +5,6 @@
   author: [Karel Kryl],
   line_spacing: 0.5em,
   font_size: 0.90em,
-  transpose: 2,
   doc,
 )
 

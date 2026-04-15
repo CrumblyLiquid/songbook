@@ -6,7 +6,6 @@
 #show: doc => song(
   title: [Magdaléna],
   author: [Jelen],
-  transpose: -4,
   doc,
 )
 
