@@ -6,12 +6,14 @@
 - [ ] Amazonka
 - [x] Amerika
 - [ ] Ani k stáru
+- [ ] Až se k nám právo vrátí
 - [ ] Blaženo
 - [ ] Carpe diem
 - [ ] Co bylo dál?
 - [ ] Co z tebe bude
 - [ ] Černej pasažér
 - [ ] Dajána
+- [ ] Divokej horskej tymián
 - [ ] Drobná paralela
 - [ ] Dva havrani
 - [ ] Fajn džob
@@ -23,9 +25,11 @@
 - [ ] Jelen
 - [ ] Jaro (Fešáci)
 - [ ] Jdem zpátky do lesů
-- [ ] Kujme pikle
+- [ ] Jericho
+- [ ] Konvička
 - [ ] Krajina posedlá tmou
 - [x] Král a klaun
+- [ ] Kujme pikle
 - [ ] Lásko (Kryl)
 - [ ] Lodníkův lament
 - [ ] Mackie Messer
@@ -36,27 +40,35 @@
 - [ ] Marie
 - [ ] Medvědi nevědí
 - [ ] Miluju a maluju
-- [ ] Mlýny
+- [x] Mlýny
+- [ ] Mraky
 - [ ] Na vodě
 - [ ] Nebe peklo ráj
 - [ ] Nechte zvony znít
 - [ ] Nilský krokodýl
+- [ ] Pár havraních copánků
 - [ ] Pavilon č. 5
 - [ ] Píseň Leontýnky
 - [ ] Po schodoch
 - [ ] Pod dubem, za dubem
 - [ ] Pojď se mnou lásko má
-- [ ] Pověsteho vejš
+- [x] Pověste ho vejš
+- [ ] Proklínám
 - [ ] První signální
+- [ ] Ráno jedu dál
 - [ ] Rozvíjej se poupátko
+- [ ] Sedmnáct dnů
 - [ ] Síla starejch vín
 - [ ] Snadné je žít
 - [ ] Sovy v mazutu
+- [ ] Studený nohy
 - [ ] Svaz českých bohémů
+- [ ] Svobodná zem
 - [ ] Šrouby a matice
 - [ ] To ta Heľpa
+- [ ] Topič u piána
 - [ ] V 7:25
-- [ ] Včelín
+- [x] Včelín
 - [ ] Veď mě dál
 - [ ] Víno
 - [ ] Vlaštovky
@@ -65,6 +77,7 @@
 - [ ] Z diplomky nemám nic
 - [ ] Za svou pravdou stát
 - [ ] Zakázané uvolnění
+- [ ] Zpátky do lesů
 
 Anglické:
 - [ ] All eyes on me
