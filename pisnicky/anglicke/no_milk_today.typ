@@ -1,18 +1,24 @@
 #import "@local/crumblysong:0.1.0": *;
 
+#import "/style.typ": style
+#show: style
+
 #show: doc => song(
   title: [No Milk Today],
   author: [Herman's Hermits],
-  font_size: 0.8em,
+  font_size: 0.9em,
   doc,
 )
 
 #verse[
   #d[Ami]No milk today, my #c[C]love has gone away.\
   The #d[E]bottle stands for#c[Ami]lorn, a #c[E]symbol of the #c[Ami]dawn.\
-  #d[Ami]No milk today, it #c[C]seems a common sight,\
-  But #d[E]people passing #c[Ami]by don't #c[E]know the reason #c[Ami]why.
-]
+]<love>
+
+#verse[
+  No milk today, it seems a common sight,\
+  But people passing by don't know the reason why.
+]<common-sight>
 
 #bridge[
   #d[A]How could they know just #c[G]what this message means,\
@@ -24,7 +30,7 @@
 #verse[
   No milk today, it wasn't always so,\
   The company was gay, we turn'd night into day.
-]
+]<gay>
 
 #chorus[
   #d[A] But all that's #c[E]left is a #c[F\#mi]place dark and #c[E]lonely\
@@ -33,9 +39,11 @@
   #d[D]Just two up two #c[E]down.
 ]
 
+#verse(ref: <gay>)[
+  No milk today, it wasn't always so...
+]
+
 #verse[
-  No milk today, it wasn't always so,\
-  The company was gay, we turn'd night into day.\
   As music played the faster did we dance\
   We felt it both at once, the start of our romance.
 ]
@@ -44,28 +52,28 @@
   How could they know...
 ]
 
-#verse[
-  No milk today, my love has gone away.\
-  The bottle stands forlorn, a symbol of the dawn.
+#verse(ref: <love>)[
+  No milk today, my love has gone away...
 ]
 
 #chorus[
   But all that's left...
 ]
-#verse[
-  No milk today, my love has gone away.\
-  The bottle stands forlorn, a symbol of the dawn.\
-  No milk today, it seems a common sight,\
-  But people passing by don't know the reason why.
+
+#verse(ref: <love>)[
+  No milk today, my love has gone away...
+]
+
+#verse(ref: <common-sight>)[
+  No milk today, it seems a common sight...
 ]
 
 #bridge[
   How could they know..
 ]
 
-#verse[
-  No milk today, it wasn't always so,\
-  The company was gay, we turn'd night into day.
+#verse(ref: <gay>)[
+  No milk today, it wasn't always so...
 ]
 
 #chorus[
