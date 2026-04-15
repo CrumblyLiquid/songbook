@@ -9,21 +9,27 @@
 #verse[
   #d[F]Kdybys měla, má panenko, #rep[sto ovec,]\
   #d[C7]a já jenom za kloboukem #rep[jalovec,]\
-  [: #d[F]nebudeš má, #c[C7]není možná,\
-  #d[F]ani mi to, má panenko, #c[Gmi]pán #c[C7]bůh ne#c[F]dá! :]
+  #rep[
+    #d[F]nebudeš má, #c[C7]není možná,\
+    #d[F]ani mi to, má panenko, #c[Gmi]pán #c[C7]bůh ne#c[F]dá!
+  ]
 ]
 
 #verse[
   Kdybys měla, má panenko, #rep[celý lán,]\
   a já jenom zahrádečku #rep[jako dlaň,]\
-  [: nebudeš má, není možná,\
-  ani mi to, má panenko, pán bůh nedá! :]
+  #rep[
+    nebudeš má, není možná,\
+    ani mi to, má panenko, pán bůh nedá!
+  ]
 ]
 
 #verse[
   Kdybys měla, má panenko, #rep[sto dvorů,]\
   a já jenom otrhanou #rep[stodolu,]\
-  [: nebudeš má, není možná,\
-  ani mi to, má panenko, pán bůh nedá! :]
+  #rep[
+    nebudeš má, není možná,\
+    ani mi to, má panenko, pán bůh nedá!
+  ]
 ]
 

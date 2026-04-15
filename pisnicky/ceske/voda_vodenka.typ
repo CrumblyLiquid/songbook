@@ -9,40 +9,50 @@
 #verse[
   #d[C]Voda, #c[G]voděn#c[Ami][ka]~\
   #d[F]hladí #c[C]obláz#c[G][ky.]~\
-  [: #d[C]Takové je #c[C7]pohlazení,\
-  #d[F]takové je pohlazení\
-  #d[C]od #c[G]lás#c[C]ky. :]
+  #rep[
+    #d[C]Takové je #c[C7]pohlazení,\
+    #d[F]takové je pohlazení\
+    #d[C]od #c[G]lás#c[C]ky.
+  ]
 ]
 
 #verse[
   Kdo se té vody\
   jednou napije,\
-  [: ten své srdce neuhlídá,\
-  ten své srdce neuhlídá,\
-  ztratí je. :]
+  #rep[
+    ten své srdce neuhlídá,\
+    ten své srdce neuhlídá,\
+    ztratí je.
+  ]
 ]
 
 #verse[
   #d[D]Když se #c[A]dvě srd#c[Hmi][ce]~\
   #d[G]šťastně #c[D]potka#c[A][jí,]~\
-  [: #d[D]na voděnce #c[D7]chladné ledy,\
-  #d[G]na voděnce chladné ledy\
-  #d[D]pu#c[A]ka#c[D]jí. :]
+  #rep[
+    #d[D]na voděnce #c[D7]chladné ledy,\
+    #d[G]na voděnce chladné ledy\
+    #d[D]pu#c[A]ka#c[D]jí.
+  ]
 ]
 
 #verse[
   Větře, větříčku,\
   běžíš po poli,\
-  [: pofoukej mi mou hlavičku.\
-  pofoukej mi mou hlavičku,\
-  ať nebolí. :]
+  #rep[
+    pofoukej mi mou hlavičku.\
+    pofoukej mi mou hlavičku,\
+    ať nebolí.
+  ]
 ]
 
 #verse[
   Já jsem tvá milá,\
   ty jsi můj milý,\
-  [: co bychom se o samotě,\
-  co bychom se o samotě\
-  trápili. :]
+  #rep[
+    co bychom se o samotě,\
+    co bychom se o samotě\
+    trápili.
+  ]
 ]
 

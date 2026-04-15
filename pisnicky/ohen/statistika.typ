@@ -11,8 +11,10 @@
   a #d[C]i když je tma jako #c[Ami]v ranci, noc #c[C]nemá celkem žádnou #c[Ami]šanci.
 ]
 #chorus[
-  [: Statis#d[F]tika nuda #c[G]je, má však #c[E7]cenné úda#c[Ami]je,\
-  nekle#d[F]sejte na mys#c[G]li, ona #c[F]nám to vyčís#c[C]lí. :]
+  #rep[
+    Statis#d[F]tika nuda #c[G]je, má však #c[E7]cenné úda#c[Ami]je,\
+    nekle#d[F]sejte na mys#c[G]li, ona #c[F]nám to vyčís#c[C]lí.
+  ]
 ]
 #verse[
   Když drak si z nosu síru pouští a Honza na něj číhá v houští,\

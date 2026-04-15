@@ -13,7 +13,7 @@
 #let nchorus = chorus.with(
   numbered: true,
   numbering: "1",
-  ribbon: (paint: navy, dash: (array: (8pt, 3pt, "dot", 3pt), phase: 0pt)),
+  // ribbon: (paint: navy, dash: (array: (8pt, 3pt, "dot", 3pt), phase: 0pt)),
 )
 
 #section[

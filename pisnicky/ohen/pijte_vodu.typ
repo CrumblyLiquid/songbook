@@ -7,8 +7,10 @@
 )
 
 #chorus[
-  [: #d[C]Pijte vodu, pijte pitnou vodu,\
-  #d[C]pijte vodu a #c[G]nepijte #c[C]rum! :]
+  #rep[
+    #d[C]Pijte vodu, pijte pitnou vodu,\
+    #d[C]pijte vodu a #c[G]nepijte #c[C]rum!
+  ]
 ]
 
 #verse[

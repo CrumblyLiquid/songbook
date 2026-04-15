@@ -13,9 +13,11 @@
 ]
 
 #chorus[
-  [: #d[C]Lásku moji #c[Dmi]kníže I#c[E]gor si bere,\
-  #d[F]nad sklenkou vodky #c[H7]hraju si #c[E]s revolverem,\
-  #d[Ami]havran usedá na střechy Petěrburgu, #c[F]čert a#c[E]by to #c[Ami]spral. :]
+  #rep[
+    #d[C]Lásku moji #c[Dmi]kníže I#c[E]gor si bere,\
+    #d[F]nad sklenkou vodky #c[H7]hraju si #c[E]s revolverem,\
+    #d[Ami]havran usedá na střechy Petěrburgu, #c[F]čert a#c[E]by to #c[Ami]spral.
+  ]
 ]
 
 #verse[
@@ -24,8 +26,10 @@
 ]
 
 #chorus[
-  [: Mému žalu na světě není rovno,\
-  vy jste tím vinna, Naděždo Ivanovno,\
-  vy jste tím vinna, až mě zítra najdou s dírou ve spánku. :]
+  #rep[
+    Mému žalu na světě není rovno,\
+    vy jste tím vinna, Naděždo Ivanovno,\
+    vy jste tím vinna, až mě zítra najdou s dírou ve spánku.
+  ]
 ]
 

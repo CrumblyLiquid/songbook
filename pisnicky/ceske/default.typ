@@ -24,7 +24,7 @@
 #include "hlavne_ze_jsme_na_vzduchu.typ"
 #include "hlupaku_najdu_te.typ"
 #include "hrisna_tela_kridla_motyli.typ"
-// #include "huslicky.typ"
+#include "huslicky.typ"
 #include "igelit.typ"
 #include "jaro_dela_pokusy.typ"
 #include "je_mi_to_bracha.typ"

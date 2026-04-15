@@ -13,8 +13,10 @@
 ]
 
 #chorus[
-  [: #d[A]Planeta Hegéééš, #c[G]planeta #c[A]Hegéééš,\
-  #d[A]planeta Hegéééš, #c[D]planeta #c[E]Hegéééš. :]
+  #rep[
+    #d[A]Planeta Hegéééš, #c[G]planeta #c[A]Hegéééš,\
+    #d[A]planeta Hegéééš, #c[D]planeta #c[E]Hegéééš.
+  ]
 ]
 
 #verse[

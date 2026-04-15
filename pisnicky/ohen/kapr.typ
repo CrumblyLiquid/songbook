@@ -12,8 +12,10 @@
 ]
 
 #chorus[
-  [: #c[C]Šplouchy-šplouchy, štika žere mou#c[Dmi]chy,\
-  žbluňky-žbluň#c[G7]ky, a kapr meruň#c[C]ky. :]
+  #rep[
+    #c[C]Šplouchy-šplouchy, štika žere mou#c[Dmi]chy,\
+    žbluňky-žbluň#c[G7]ky, a kapr meruň#c[C]ky.
+  ]
 ]
 
 #verse[

@@ -14,8 +14,10 @@
   "#d[Ami]Sbal se, jedem #c[Dmi]na velryby, #c[G7]prej až za po#c[C]lár."
 ]
 #chorus[
-  [: Výprava #d[C]velrybářská #c[F]kolem Grónska #c[G7]nezdařila #c[C]se,\
-  protože #d[Ami]nejeli jsme #c[Dmi]na velryby, #c[G7]ale na mro#c[C]že. :]
+  #rep[
+    Výprava #d[C]velrybářská #c[F]kolem Grónska #c[G7]nezdařila #c[C]se,\
+    protože #d[Ami]nejeli jsme #c[Dmi]na velryby, #c[G7]ale na mro#c[C]že.
+  ]
 ]
 #verse[
   Briga zvaná Malá Kitty kotví v zátoce,\

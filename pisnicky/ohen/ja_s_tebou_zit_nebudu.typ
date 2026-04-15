@@ -45,7 +45,9 @@
   navrch má vždycky těžký kámen\
   a my jsme v koncích čím dál blíž,\
   #rep[a me tu ha nadži vava jaj dari dari daj.]\
-  [: Navrch má vždycky těžký kámen\
-  a my jsme v koncích čím dál blíž... :]
+  #rep[
+    Navrch má vždycky těžký kámen\
+    a my jsme v koncích čím dál blíž...
+  ]
 ]
 

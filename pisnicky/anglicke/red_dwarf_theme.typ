@@ -36,7 +36,9 @@
 ]
 
 #chorus[
-  Fun, fun, fun... (2x)
+  Fun, fun, fun...
 ]
 
-
+#chorus[
+  Fun, fun, fun...
+]

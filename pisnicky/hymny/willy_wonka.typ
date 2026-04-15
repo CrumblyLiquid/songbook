@@ -9,35 +9,35 @@
   #d[G]Lilly Wonka, Lilly Wonka, tvůrce #c[G]dobrých #c[C]čoko#c[G]lád,\
   #d[G]Lilly Wonka, Lilly Wonka, jemu #c[G]poctu #c[C]chceme #c[G]vzdát,\
   na #d[C]tábor sem k nám #c[G]zavítal a #c[C]obdiv denně #c[G]sklízí,\
-  přes #d[C]sladkosti je #c[G]odborník a ú#c[A]spěch mu #rep[není #c[D]cizí].
+  přes #d[C]sladkosti je #c[G]odborník a ú#c[A]spěch mu #rep(repeat: 3)[není #c[D]cizí.]
 ]
 
 #verse[
   Lilly Wonka, Lilly Wonka, čokoládu dobře zná,\
   Lilly Wonka, Lilly Wonka, dokonalý resept má,\
   u Polomáčenkových čokoládu rádi měli,\
-  ochutnali a teď chtějí namočit #rep[se celí].
+  ochutnali a teď chtějí namočit #rep(repeat: 3)[se celí.]
 ]
 
 #verse[
   Lilly Wonka, Lilly Wonka, Dupetkovy k sobě vzal,\
   Lilly Wonka, Lilly Wonka, nikdy nezalitoval,\
   když Dupetky do čokolády spolu namočili,\
-  o spolupráci do budoucna hnedka #rep[jasno měli].
+  o spolupráci do budoucna hnedka #rep(repeat: 3)[jasno měli.]
 ]
 
 #verse[
   Lilly Wonka, Lilly Wonka, továrnou provází dál,\
   Lilly Wonka, Lilly Wonka, k ochutnávkám všechny zval,\
   když Oplatkovi Wonkovy oplatky okusili,\
-  hned jeho tajnou recepturu ukrást #rep[mu zkusili].
+  hned jeho tajnou recepturu ukrást #rep(repeat: 3)[mu zkusili.]
 ]
 
 #verse[
   Lilly Wonka, Lilly Wonka, Perníkovy sleduje,\
   Lilly Wonka, Lilly Wonka, své úspěchy jmenuje,\
   když ho však seznámili s kořením perníkovým,\
-  otevřel svou mysl i příchutím #rep[zcela novým].
+  otevřel svou mysl i příchutím #rep(repeat: 3)[zcela novým.]
 ]
 
 #verse[
