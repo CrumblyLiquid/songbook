@@ -54,6 +54,7 @@
 // #include "pisen_proti_trudomyslnosti.typ"
 #include "podvod.typ"
 #include "pohadka.typ"
+#include "poveste_ho_vejs.typ"
 #include "povidej.typ"
 #include "pramen_zdravi_z_posazavi.typ"
 #include "princezna_ze_mlejna.typ"
