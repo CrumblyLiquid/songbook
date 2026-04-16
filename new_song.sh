@@ -38,30 +38,14 @@ sed \
     "$TEMPLATE" > "$FILE"
 
 DEFAULT="$TARGET/default.typ"
-INCLUDE_LINE="#include \"$FILE\""
+INCLUDE_LINE="#include \"$FILENAME.typ\""
 
 if grep -qF "$INCLUDE_LINE" "$DEFAULT" 2>/dev/null; then
     echo "Already in default.typ, skipping."
     exit 0
 fi
 
-echo "#include \"$FILE\"" >> "$DEFAULT"
-
-# TODO: LLM Generated -> replace with something better
-# I just don't have the energy to do write it myself right now
-grep '^#include' "$FILE" \
-  | awk -F'"' '{ key = $2; gsub(/_/, " ", key); print key "\t" $0 }' \
-  | sort \
-  | cut -f2- \
-  > /tmp/sorted_includes
-
-awk '
-  BEGIN { getline line < "/tmp/sorted_includes" }
-  /^\/\/ *#include/ { print; next }
-  /^#include/ { print line; getline line < "/tmp/sorted_includes"; next }
-' "$DEFAULT" > /tmp/result
-
-mv /tmp/result "$DEFAULT"
-rm /tmp/sorted_includes
+echo "$INCLUDE_LINE" >> "$DEFAULT"
+sort -t'"' -k2,2 -o "$DEFAULT" "$DEFAULT"
 
 echo "Created $FILE and added to $DEFAULT"
