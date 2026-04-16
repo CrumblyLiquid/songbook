@@ -18,9 +18,9 @@
 ]
 
 #chorus[
-  #c[Dmi]Já čekám dál, já #c[C]čekám #c[F]dál, #c[B]já čekám #c[A]dál,\
+  #c[Dmi]Já čekám dál, #c[Dmi]já #s[C]čekám #c[F]dál, #c[B]já čekám #c[A]dál,\
   _#c[A7]až se k nám právo #c[Dmi]vrátí, #c[A]vrátí._\
-  #c[Dmi]Já čekám dál, já #c[C]čekám #c[F]dál, #c[B]já čekám #c[A]dál,\
+  #c[Dmi]Já čekám dál, #c[Dmi]já #s[C]čekám #c[F]dál, #c[B]já čekám #c[A]dál,\
   _#c[A7]až se k nám právo #c[Dmi]vrátí._
 ]
 

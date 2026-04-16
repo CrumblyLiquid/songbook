@@ -51,6 +51,9 @@
 
 #chorus[
   Dóle dole dole...
-  Dóle dole dole...
+]
+
+#chorus[
+  Dóle dole dole...\
   Hej, hej, hej!
 ]

@@ -1,7 +1,7 @@
 #import "@local/crumblysong:0.1.0": *;
 
-#import "/style.typ": style;
-#show: style
+// #import "/style.typ": style;
+// #show: style
 
 #show: doc => song(
   title: [\1. signální],
