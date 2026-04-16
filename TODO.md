@@ -1,7 +1,7 @@
 # Seznam písniček, které bych chtěl přidat
 
 České:
-- [ ] 1. signální
+- [x] 1. signální
 - [ ] 5 ježibab na koštěti
 - [ ] Amazonka
 - [x] Amerika
