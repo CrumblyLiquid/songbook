@@ -2,7 +2,7 @@
 
 České:
 - [x] 1. signální
-- [ ] 5 ježibab na koštěti
+- [x] 5 ježibab na koštěti
 - [ ] Amazonka
 - [x] Amerika
 - [ ] Ani k stáru

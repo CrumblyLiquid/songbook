@@ -46,6 +46,7 @@
 #include "mravenci_ukolebavka.typ"
 #include "na_hotelu_v_olomouci.typ"
 // #include "nahrobni_kamen.typ"
+#include "pet_jezibab.typ"
 // #include "pisen_proti_trudomyslnosti.typ"
 #include "podvod.typ"
 #include "pohadka.typ"
