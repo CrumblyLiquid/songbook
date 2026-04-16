@@ -4,7 +4,7 @@
 #show: style
 
 #show: doc => song(
-  title: [1. signální],
+  title: [\1. signální],
   author: [Chinaski],
   doc,
 )
