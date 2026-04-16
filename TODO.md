@@ -18,7 +18,7 @@
 - [ ] Dva havrani
 - [ ] Fajn džob
 - [ ] Huddsonské šífy
-- [ ] Hvězdář
+- [x] Hvězdář
 - [ ] Chci ti říct
 - [ ] Chci zas v tobě spát
 - [ ] Chválím tě země má

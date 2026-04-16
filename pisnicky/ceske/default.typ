@@ -24,6 +24,7 @@
 #include "hlupaku_najdu_te.typ"
 #include "hrisna_tela_kridla_motyli.typ"
 #include "huslicky.typ"
+#include "hvezdar.typ"
 #include "igelit.typ"
 #include "jaro_dela_pokusy.typ"
 #include "je_mi_to_bracha.typ"
