@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[C]V řadě za sebou tři čuníci jdou,\
-  #d[C]ťápají si v blátě cestou-neces#c[Ami][tou,]~\
-  #d[Dmi]kufry nemají, cestu nezna#c[G][jí,]~\
-  #d[Dmi]vyšli prostě do světa a #c[G]vesele si zpívají: uí uí uí...
+  #c[C]V řadě za sebou tři čuníci jdou,\
+  #c[C]ťápají si v blátě cestou-neces#c[Ami][tou,]~\
+  #c[Dmi]kufry nemají, cestu nezna#c[G][jí,]~\
+  #c[Dmi]vyšli prostě do světa a #c[G]vesele si zpívají: uí uí uí...
 ]
 #verse[
   Auta jezdí tam, náklaďáky sem,\

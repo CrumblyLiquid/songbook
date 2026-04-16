@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[A]Představte si, #c[D7]představte si, #c[A]co jsem měl dnes #c[D7]k obědu,\
-  #d[A]představte si, #c[D7]představte si, #c[G7]co jsem měl dnes k obědu.\
-  #d[C]Knedlíky #c[D7]se zelím, #c[G7]se zelím #c[C]kyselým.\
-  #d[E7]To koukáte, #c[A]to koukáte, #c[D7]co jsem měl dnes #c[E7]k obě#c[A]du.
+  #c[A]Představte si, #c[D7]představte si, #c[A]co jsem měl dnes #c[D7]k obědu,\
+  #c[A]představte si, #c[D7]představte si, #c[G7]co jsem měl dnes k obědu.\
+  #c[C]Knedlíky #c[D7]se zelím, #c[G7]se zelím #c[C]kyselým.\
+  #c[E7]To koukáte, #c[A]to koukáte, #c[D7]co jsem měl dnes #c[E7]k obě#c[A]du.
 ]
 
 #verse[

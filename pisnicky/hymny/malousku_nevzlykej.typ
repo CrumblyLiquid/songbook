@@ -6,9 +6,9 @@
 )
 
 #verse[
-  #d[Ami]Maloušku nevzlykej, to nejsou #c[C]kopřivy,\
-  #d[G]zítra si spočineš, půjdeme #c[E7]do Přiby,\
-  #d[F]snad už to skončíme támhle v Železných Hor#c[E]kách.
+  #c[Ami]Maloušku nevzlykej, to nejsou #c[C]kopřivy,\
+  #c[G]zítra si spočineš, půjdeme #c[E7]do Přiby,\
+  #c[F]snad už to skončíme támhle v Železných Hor#c[E]kách.
 ]
 
 #verse[
@@ -18,10 +18,10 @@
 ]
 
 #chorus[
-  #d[Ami Emi Ami Emi...]Prší a venku se setmělo,\
+  #c[Ami Emi Ami Emi...]Prší a venku se setmělo,\
   tato noc nebude krátká,\
-  #d[Ami]oddílák #c[F]klepe si #c[Ami]na čelo,\
-  #d[F]asi to... #c[Ami]nebyla #c[E]zkratka?
+  #c[Ami]oddílák #c[F]klepe si #c[Ami]na čelo,\
+  #c[F]asi to... #c[Ami]nebyla #c[E]zkratka?
 ]
 
 #verse[

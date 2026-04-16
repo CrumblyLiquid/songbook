@@ -7,18 +7,18 @@
 )
 
 #verse[
-  #d[Emi]Bylas' jak poslední hlt #c[F\#]vína,\
-  #d[H7]sladká a k ránu bola#c[Emi H7][vá,]~\
-  #d[Emi]za nehty výčitky a #c[F\#]špína,\
-  #d[H7]říkalas': dnešní noc je #c[Emi H7]tvá.
+  #c[Emi]Bylas' jak poslední hlt #c[F\#]vína,\
+  #c[H7]sladká a k ránu bola#c[Emi H7][vá,]~\
+  #c[Emi]za nehty výčitky a #c[F\#]špína,\
+  #c[H7]říkalas': dnešní noc je #c[Emi H7]tvá.
 ]
 
 #chorus[
-  #d[G]Co my dva z lásky vlastně #c[H]máme,\
-  #d[Ami]hlubokou šachtou padá #c[H7]zdviž, já říkám "kiš-kiš",\
-  #d[Emi]navrch má vždycky těžký #c[F\#]kámen\
-  #d[H7]a my jsme v koncích čím dál #c[Emi H7][blíž,]\
-  #rep[#d[Emi]a me tu ha nadži vava #c[Ami]jaj dari dari #c[H7]daj.]
+  #c[G]Co my dva z lásky vlastně #c[H]máme,\
+  #c[Ami]hlubokou šachtou padá #c[H7]zdviž, já říkám "kiš-kiš",\
+  #c[Emi]navrch má vždycky těžký #c[F\#]kámen\
+  #c[H7]a my jsme v koncích čím dál #c[Emi H7][blíž,]\
+  #rep[#c[Emi]a me tu ha nadži vava #c[Ami]jaj dari dari #c[H7]daj.]
 ]
 
 #verse[

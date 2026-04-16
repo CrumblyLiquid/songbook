@@ -7,15 +7,15 @@
 )
 
 #verse[
-  Co #d[D]skrýváš za #c[G]víčky a #c[D]plameny #c[G]svíčky,\
-  snad #d[D]houf bílých holubic nebo jen #c[A]žal,\
-  tak #d[G]odplul ten #c[D]prvý den #c[G]zmáčený #c[D]krví,\
-  ani #d[D]pouťovou panenku #c[A7]nezane#c[D]chal.
+  Co #c[D]skrýváš za #c[G]víčky a #c[D]plameny #c[G]svíčky,\
+  snad #c[D]houf bílých holubic nebo jen #c[A]žal,\
+  tak #c[G]odplul ten #c[D]prvý den #c[G]zmáčený #c[D]krví,\
+  ani #c[D]pouťovou panenku #c[A7]nezane#c[D]chal.
 ]
 
 #chorus[
-  #d[D]Otevři #c[G]oči, ty #c[D]uspěcha#c[A]ná #c[G]dámo #c[D]uplaka#c[A]ná,\
-  #d[G]otevři #c[D]oči, ta #c[G]hloupá noc #c[D]končí a mír je #c[A7]mezi ná#c[D]ma.
+  #c[D]Otevři #c[G]oči, ty #c[D]uspěcha#c[A]ná #c[G]dámo #c[D]uplaka#c[A]ná,\
+  #c[G]otevři #c[D]oči, ta #c[G]hloupá noc #c[D]končí a mír je #c[A7]mezi ná#c[D]ma.
 ]
 
 #verse[

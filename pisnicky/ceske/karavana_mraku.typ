@@ -8,10 +8,10 @@
 )
 
 #verse[
-  #d[D]Slunce je zlatou skobou #c[Hmi]na obloze přibitý,\
-  #d[G]pod sluncem #c[A]sedlo kože#c[D]ný,#c[A7]\
-  #d[D]pod sedlem kůň, pod koněm #c[Hmi]moje boty rozbitý\
-  #d[G]a starý #c[A]ruce sedře#c[D]ný.#c[D7]
+  #c[D]Slunce je zlatou skobou #c[Hmi]na obloze přibitý,\
+  #c[G]pod sluncem #c[A]sedlo kože#c[D]ný,#c[A7]\
+  #c[D]pod sedlem kůň, pod koněm #c[Hmi]moje boty rozbitý\
+  #c[G]a starý #c[A]ruce sedře#c[D]ný.#c[D7]
 ]
 
 #chorus[
@@ -20,7 +20,7 @@
   #rep[
     jen kousek #c[Emi]jít, jen #c[A7]chvíli, #c[Hmi]do soumraku,#c[Emi]\
     až tam, kde #c[Hmi]svítí město, město #c[F\#]bělavý.#c[Hmi]
-  ], #c[A7]jééé
+  ], #s[A7]jééé
 ]
 
 #verse[

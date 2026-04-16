@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[C]Tramvají #c[G]dvojkou #c[F]jezdíval jsem #c[G]do Žide#c[C]nic,#c[G F G]\
-  #d[C]z tak velký #c[G]lásky #c[F]většinou #c[G]nezbyde #c[Ami]nic,\
-  #d[F]z takový #c[C]lásky #c[F]jsou kruhy #c[C]pod oči#c[G]ma,\
-  a dvě #d[C]spálený #c[G]srdce – #c[F]Nagasaki, #c[G]Hiroši#c[C]ma.#c[G F G]
+  #c[C]Tramvají #c[G]dvojkou #c[F]jezdíval jsem #c[G]do Žide#c[C]nic,#c[G F G]\
+  #c[C]z tak velký #c[G]lásky #c[F]většinou #c[G]nezbyde #c[Ami]nic,\
+  #c[F]z takový #c[C]lásky #c[F]jsou kruhy #c[C]pod oči#c[G]ma,\
+  a dvě #c[C]spálený #c[G]srdce – #c[F]Nagasaki, #c[G]Hiroši#c[C]ma.#c[G F G]
 ]
 
 #verse[

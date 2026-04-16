@@ -7,10 +7,10 @@
 )
 
 #chorus[
-  #d[C]Na stejné zemi co my\
-  #d[C]bydlí tu s námi stro#c[G]my,\
-  #d[G]mlčí a hledí si #c[C]své#c[F]ho\
-  #d[C]listíčka #c[G]zelené#c[C]ho.
+  #c[C]Na stejné zemi co my\
+  #c[C]bydlí tu s námi stro#c[G]my,\
+  #c[G]mlčí a hledí si #c[C]své#c[F]ho\
+  #c[C]listíčka #c[G]zelené#c[C]ho.
 ]
 #chorus[
   Na stejné zemi co my...

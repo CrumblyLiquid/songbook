@@ -9,10 +9,10 @@
 )
 
 #chorus[
-  #d[G]Hey, Mr. #c[A]Tambourine Man, #c[D]play a song for #c[G]me\
-  I'm not #d[D]sleepy and there #c[G]is no place I'm #c[A]going to#c[Asus4 A]\
-  #d[G]Hey, Mr. #c[A]Tambourine Man, #c[D]play a song for #c[G]me\
-  In the #d[D]jingle jangle #c[G]morning I'll come #c[A]following #c[D]you#c[Dsus4 D Dsus2 D]
+  #c[G]Hey, Mr. #c[A]Tambourine Man, #c[D]play a song for #c[G]me\
+  I'm not #c[D]sleepy and there #c[G]is no place I'm #c[A]going to#c[Asus4 A]\
+  #c[G]Hey, Mr. #c[A]Tambourine Man, #c[D]play a song for #c[G]me\
+  In the #c[D]jingle jangle #c[G]morning I'll come #c[A]following #c[D]you#c[Dsus4 D Dsus2 D]
 ]
 
 #verse[

@@ -8,8 +8,8 @@
 )
 
 #verse[
-  #d[G]Pokaždé když Tě vidím, #c[D]vím, že by to šlo\
-  a když #d[Emi]jsem přemejšlel, co cítím, #c[C]tak mě napadlo.\
+  #c[G]Pokaždé když Tě vidím, #c[D]vím, že by to šlo\
+  a když #c[Emi]jsem přemejšlel, co cítím, #c[C]tak mě napadlo.\
   Jestli nechceš svýho osla vedle mýho osla hnát,\
   jestli nechceš se mnou tahat ze země rezavej drát.
 ]

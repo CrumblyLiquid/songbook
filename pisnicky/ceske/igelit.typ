@@ -17,7 +17,7 @@
 
 #chorus[
   A všichni se #c[Emi]znaj', #c[D7]znaj', #c[G]znaj' a blázněj' a #c[C]zpí#c[G]vaj'\
-  a po cestách #c[Emi]dál, #c[D7]dál, #c[G]dál hledaj' #c[C]normální #c[G]svět.
+  a po cestách #c[Emi]dál, #s[D7]dál, #c[G]dál hledaj' #c[C]normální #c[G]svět.
 ]
 
 #verse[

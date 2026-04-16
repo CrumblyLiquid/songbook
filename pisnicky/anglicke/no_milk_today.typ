@@ -11,8 +11,8 @@
 )
 
 #verse[
-  #d[Ami]No milk today, my #c[C]love has gone away.\
-  The #d[E]bottle stands for#c[Ami]lorn, a #c[E]symbol of the #c[Ami]dawn.\
+  #c[Ami]No milk today, my #c[C]love has gone away.\
+  The #c[E]bottle stands for#c[Ami]lorn, a #c[E]symbol of the #c[Ami]dawn.\
 ]<love>
 
 #verse[
@@ -21,10 +21,10 @@
 ]<common-sight>
 
 #bridge[
-  #d[A]How could they know just #c[G]what this message means,\
-  The #d[D]end of my hopes, the #c[D]end of #c[E]all my #c[A]dreams,\
-  #d[A]How could they know, a #c[G]palace there had been,\
-  #d[D]Behind the door where my #c[D]love #c[E]reigned as #c[A]queen.
+  #c[A]How could they know just #c[G]what this message means,\
+  The #c[D]end of my hopes, the #c[D]end of #c[E]all my #c[A]dreams,\
+  #c[A]How could they know, a #c[G]palace there had been,\
+  #c[D]Behind the door where my #c[D]love #c[E]reigned as #c[A]queen.
 ]
 
 #verse[
@@ -33,10 +33,10 @@
 ]<gay>
 
 #chorus[
-  #d[A] But all that's #c[E]left is a #c[F\#mi]place dark and #c[E]lonely\
-  #d[A] A terraced #c[E]house in a #c[D]mean street back of town\
-  #d[A] Becomes a #c[E]shrine when I #c[F\#mi]think of you #c[E]only\
-  #d[D]Just two up two #c[E]down.
+  #c[A] But all that's #c[E]left is a #c[F\#mi]place dark and #c[E]lonely\
+  #c[A] A terraced #c[E]house in a #c[D]mean street back of town\
+  #c[A] Becomes a #c[E]shrine when I #c[F\#mi]think of you #c[E]only\
+  #c[D]Just two up two #c[E]down.
 ]
 
 #verse(ref: <gay>)[

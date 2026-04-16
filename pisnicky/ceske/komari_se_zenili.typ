@@ -7,11 +7,11 @@
 )
 
 #verse[
-  #d[D]Koma#c[A7]ři se #c[D]ženili, #c[A7]bzum, bzum, #c[D]ženili,\
-  #d[D]kapky #c[A7]vina #c[D]neměli, #c[A7]bzum, bzum, #c[D]něměli.\
+  #c[D]Koma#c[A7]ři se #c[D]ženili, #c[A7]bzum, bzum, #c[D]ženili,\
+  #c[D]kapky #c[A7]vina #c[D]neměli, #c[A7]bzum, bzum, #c[D]něměli.\
   #rep[
-    #d[D]Koma#c[G]ři se ženili, ženili,\
-    #d[A7]kapky vina #c[D]ně#c[A7]mě#c[D]li.
+    #c[D]Koma#c[G]ři se ženili, ženili,\
+    #c[A7]kapky vina #c[D]ně#c[A7]mě#c[D]li.
   ]
 ]
 

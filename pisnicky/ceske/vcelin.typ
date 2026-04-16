@@ -9,7 +9,7 @@
 #verse[
   #rep[
     #c[Ami]Sousedovic Věra #c[G]má #c[Ami]jako žádná #c[G]jiná,\
-    #c[Ami]Viděl jsem ji včera #c[G]máchat #c[Ami]dole #c[Emi]u vče#c[Ami]lína.
+    #c[Ami]Viděl jsem ji včera #c[G]máchat #c[Ami]dole #s[Emi]u vče#c[Ami]lína.
   ]
 ]
 

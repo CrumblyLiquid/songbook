@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[G]Je to všechno strašně #c[G7]dávno,\
-  #d[C]slunce bylo větrem milo#c[G]váno,\
-  těhotné #d[C]slunce se jen usmí#c[G]valo,\
-  a #d[Ami]najednou tu #c[C]slunečnice #c[D]je.
+  #c[G]Je to všechno strašně #c[G7]dávno,\
+  #c[C]slunce bylo větrem milo#c[G]váno,\
+  těhotné #c[C]slunce se jen usmí#c[G]valo,\
+  a #c[Ami]najednou tu #c[C]slunečnice #c[D]je.
 ]
 
 #grid(

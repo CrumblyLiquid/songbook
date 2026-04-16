@@ -7,11 +7,11 @@
 )
 
 #verse[
-  #d[C]Sbohem, galá#c[Ami]nečko, #c[Dmi]já už musím #c[G~]jí#w[C]ti,#c[D7]\
-  #d[G]Sbohem, galá#c[Emi]nečko, #c[Ami]já už musím #c[D~]jí#w[G]ti,#c[G4sus]\
+  #c[C]Sbohem, galá#c[Ami]nečko, #c[Dmi]já už musím #c[G~]jí#w[C]ti,#s[D7]\
+  #c[G]Sbohem, galá#c[Emi]nečko, #c[Ami]já už musím #c[D~]jí#w[G]ti,#s[G4sus]\
   #rep[
-    #d[Dmi]kyselé ví#c[G]nečko, #c[C]kyselé ví#c[Dmi]ne#w[G]čko,\
-    #d[C]podalas' mně #c[Dmi]k #c[G~~]pi#w[C]tí.
+    #c[Dmi]kyselé ví#c[G]nečko, #c[C]kyselé ví#c[Dmi]ne#w[G]čko,\
+    #c[C]podalas' mně #c[Dmi]k #s[G]pi#w[C]tí.
   ]
 ]
 #verse[

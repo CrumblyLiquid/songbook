@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[Ami]Vymyslel jsem spoustu napadů, #c[C]aů,\
-  co #d[Ami]podporujou dobrou nála#c[G]du, #c[E]aů,\
-  #d[Ami]hodit klíče do kanálu, #c[D]sjet po zadku #c[Dmi]holou skálu,\
-  #d[Ami]v noci chodit #c[E]strašit do hra#c[Ami]du, #c[(G)]aů.
+  #c[Ami]Vymyslel jsem spoustu napadů, #c[C]aů,\
+  co #c[Ami]podporujou dobrou nála#c[G]du, #c[E]aů,\
+  #c[Ami]hodit klíče do kanálu, #c[D]sjet po zadku #c[Dmi]holou skálu,\
+  #c[Ami]v noci chodit #c[E]strašit do hra#c[Ami][du,] a#s[(G)]ů.
 ]
 
 #verse[
@@ -21,10 +21,10 @@
 ]
 
 #chorus[
-  #d[C]Má drahá, dej mi víc, #c[E]má drahá, dej mi víc,\
-  #d[Ami]má drahá, #c[F]dej mi víc své #c[C]lásky, #c[G]aů,\
-  #d[C]já nechci skoro nic, #c[E]já nechci skoro nic,\
-  #d[Ami]já chci jen #c[F]pohladit tvé #c[C]vlásky, #c[E]aů.
+  #c[C]Má drahá, dej mi víc, #c[E]má drahá, dej mi víc,\
+  #c[Ami]má drahá, #c[F]dej mi víc své #c[C]lásky, #c[G]aů,\
+  #c[C]já nechci skoro nic, #c[E]já nechci skoro nic,\
+  #c[Ami]já chci jen #c[F]pohladit tvé #c[C]vlásky, #c[E]aů.
 ]
 
 #verse[

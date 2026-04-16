@@ -7,17 +7,17 @@
 )
 
 #verse[
-  #d[G]Z rozmláce#c[Emi]nýho kostela #c[G]v krabici #c[D7]s kusem mýdla\
-  #d[G]přinesl #c[Emi]jsem si anděla, #c[G]poláma#c[D7]li mu křídla,\
-  #d[G]díval se #c[Emi]na mě oddaně, #c[G]já měl jsem #c[D7]trochu trému,\
-  #d[G]tak vtiskl #c[Emi]jsem mu do dlaně #c[G]lahvičku #c[D7]od parfému.
+  #c[G]Z rozmláce#c[Emi]nýho kostela #c[G]v krabici #c[D7]s kusem mýdla\
+  #c[G]přinesl #c[Emi]jsem si anděla, #c[G]poláma#c[D7]li mu křídla,\
+  #c[G]díval se #c[Emi]na mě oddaně, #c[G]já měl jsem #c[D7]trochu trému,\
+  #c[G]tak vtiskl #c[Emi]jsem mu do dlaně #c[G]lahvičku #c[D7]od parfému.
 ]
 
 #chorus[
-  #d[G]A proto, #c[Emi]prosím, věř mi, #c[G]chtěl jsem ho #c[D7]žádat,\
-  #d[G]aby mi #c[Emi]mezi dveřmi #c[G]pomohl #c[D7]hádat,\
-  #d[G]co mě čeká.#c[Emi].. #c[D7]a nemi#c[G]ne,\
-  #d[G]co mě čeká.#c[Emi].. #c[D7]a nemi#c[G]ne.
+  #c[G]A proto, #c[Emi]prosím, věř mi, #c[G]chtěl jsem ho #c[D7]žádat,\
+  #c[G]aby mi #c[Emi]mezi dveřmi #c[G]pomohl #c[D7]hádat,\
+  #c[G]co mě čeká.#c[Emi].. #s[D7]a nemi#c[G]ne,\
+  #c[G]co mě čeká.#c[Emi].. #s[D7]a nemi#c[G]ne.
 ]
 
 #verse[

@@ -7,10 +7,10 @@
 )
 
 #verse[
-  V #d[C]Africe, tam žijou sloni #c[Ami]a po#c[Dmi]dobná #c[G]zvířa#c[C]ta,\
-  #d[C]mezi stromy je tam ho#c[Ami]ní Afri#c[Dmi]čan#c[G]ča#c[C]ta,\
-  #d[F]načančané #c[G]Afričanče #c[C]jako #c[Dmi]uhel černé #c[G]je,\
-  #d[C]ráno skočí na saranče #c[Ami]a je#c[Dmi]de do #c[G]Guine#c[C]je.
+  V #c[C]Africe, tam žijou sloni #c[Ami~]a po#w[Dmi]dobná #c[G]zvířa#c[C]ta,\
+  #c[C]mezi stromy je tam ho#c[Ami]ní Afri#c[Dmi]čan#w[G]ča#w[C]ta,\
+  #c[F]načančané #c[G]Afričanče #c[C]jako #c[Dmi]uhel černé #c[G]je,\
+  #c[C]ráno skočí na saranče #c[Ami]a je#w[Dmi]de do #c[G]Guine#c[C]je.
 ]
 
 #verse[

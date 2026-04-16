@@ -46,7 +46,7 @@
 #colbreak()
 
 #verse[
-  #d[~]I'm sittin' here, I missed the power\
+  #c[~]I'm sittin' here, I missed the power\
   I'd like to go out, takin' a shower\
   But there's a heavy cloud inside my head\
   I feel so tired, put myself into bed\

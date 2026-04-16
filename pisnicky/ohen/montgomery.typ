@@ -7,17 +7,17 @@
 )
 
 #verse[
-  #d[D]Déšť ti, holka, smáčel #c[G]vlasy,#c[Emi]\
-  #d[A7]z tvých očí zbyl prázdný #c[D]kruh,#c[A7]\
-  #d[D]kde jsou zbytky tvojí #c[G]krásy,#c[Emi]\
-  #d[A7]to ví dneska snad jen #c[D]Bůh.
+  #c[D]Déšť ti, holka, smáčel #c[G]vlasy,#c[Emi]\
+  #c[A7]z tvých očí zbyl prázdný #c[D]kruh,#c[A7]\
+  #c[D]kde jsou zbytky tvojí #c[G]krásy,#c[Emi]\
+  #c[A7]to ví dneska snad jen #c[D]Bůh.
 ]
 
 #chorus[
-  #d[D]Z celé jižní eska#c[G]drony,#c[Emi]\
-  #d[A7]nezbyl ani jeden #c[D]muž.#c[A7]\
-  #d[D]V Montgomery bijou #c[G]zvony,#c[Emi]\
-  #d[A7]déšť ti smejvá ze rtů #c[D]růž.
+  #c[D]Z celé jižní eska#c[G]drony,#c[Emi]\
+  #c[A7]nezbyl ani jeden #c[D]muž.#c[A7]\
+  #c[D]V Montgomery bijou #c[G]zvony,#c[Emi]\
+  #c[A7]déšť ti smejvá ze rtů #c[D]růž.
 ]
 
 #verse[

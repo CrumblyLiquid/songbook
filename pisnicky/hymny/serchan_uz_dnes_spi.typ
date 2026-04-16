@@ -6,10 +6,10 @@
 )
 
 #verse[
-  #d[D]Tam v té džungli v té #c[G]bájné džungli,\
-  tam #d[D]Šerchán už dnes #c[A]spí.\
-  #d[D]Tam v té džungli da#c[G]leké džungli,\
-  tam #d[D]Šerchán už dnes #c[A]spí.
+  #c[D]Tam v té džungli v té #c[G]bájné džungli,\
+  tam #c[D]Šerchán už dnes #c[A]spí.\
+  #c[D]Tam v té džungli da#c[G]leké džungli,\
+  tam #c[D]Šerchán už dnes #c[A]spí.
 ]
 
 #chorus[

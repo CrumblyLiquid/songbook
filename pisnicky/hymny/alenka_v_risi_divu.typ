@@ -6,10 +6,10 @@
 )
 
 #verse[
-  #d[D]Jednoho dne malá #c[G]holčička,\
-  #d[A]potkala bílého #c[D]králíčka,\
-  #d[D]za ním běžela, #c[G]však nevěděla,\
-  #d[A]do Říše divů #c[D]sletěla.
+  #c[D]Jednoho dne malá #c[G]holčička,\
+  #c[A]potkala bílého #c[D]králíčka,\
+  #c[D]za ním běžela, #c[G]však nevěděla,\
+  #c[A]do Říše divů #c[D]sletěla.
 ]
 
 #verse[
@@ -20,10 +20,10 @@
 ]
 
 #chorus[
-  #d[D]My je přeci ne#c[G]zradíme,\
-  #d[A]Říši osvo#c[D]bodíme,\
-  #d[D]Vorpálový meč #c[G]vezmem žádná řeč,\
-  #d[A]Tlachapouda #c[D]skolíme.
+  #c[D]My je přeci ne#c[G]zradíme,\
+  #c[A]Říši osvo#c[D]bodíme,\
+  #c[D]Vorpálový meč #c[G]vezmem žádná řeč,\
+  #c[A]Tlachapouda #c[D]skolíme.
 ]
 
 #verse[

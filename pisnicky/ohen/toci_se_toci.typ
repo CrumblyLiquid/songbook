@@ -8,7 +8,7 @@
 
 // TODO: Pozice akordů
 #verse[
-  #d[A]Točí se, točí #c[E7]kolo ve #c[A]mlýně,\
+  #c[A]Točí se, točí #c[E7]kolo ve #c[A]mlýně,\
   točí se, točí, já #c[D]jsem v tom nevin#c[A]ně,\
   točí se #c[E7]kolo, voda s hlukem #c[A]padá,\
   já tomu mlýnu teď #c[E7]ukazuju #c[A]záda.

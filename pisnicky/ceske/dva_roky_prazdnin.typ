@@ -7,17 +7,17 @@
 )
 
 #verse[
-  #d[Ami]Vzhůru na palubu, #c[Dmi]dálky #c[Ami]volají,\
-  #d[Ami]vítr už příhodný #c[G]vane #c[Ami]nám.\
-  #d[Ami]Tajemné příběhy #c[Dmi]nás teď #c[Ami]čekají,\
-  #d[Ami]tvým domovem bude #c[G]oce#w[Ami]án.
+  #c[Ami]Vzhůru na palubu, #c[Dmi]dálky #c[Ami]volají,\
+  #c[Ami]vítr už příhodný #c[G]vane #c[Ami]nám.\
+  #c[Ami]Tajemné příběhy #c[Dmi]nás teď #c[Ami]čekají,\
+  #c[Ami]tvým domovem bude #c[G]oce#w[Ami]án.
 ]
 
 #chorus[
-  #d[F]V ráhnoví plachty vítr #c[Ami]nadouvá, #c[F]žene loď v širou #c[Ami]dál,\
-  #d[Dmi]kolébá boky #c[Ami]plachetnice, #c[Dmi]jak by si s ní jenom #c[E]hrál.\
-  #d[F]Posádku ani škuner #c[Ami]neleká, #c[F]bouře ni ura#c[Ami]gán.\
-  #d[Dmi]Přítomnost země #c[Ami]oznámí nám, #c[Dmi]příletem #c[E]kormo#c[Ami]rán.
+  #c[F]V ráhnoví plachty vítr #c[Ami]nadouvá, #c[F]žene loď v širou #c[Ami]dál,\
+  #c[Dmi]kolébá boky #c[Ami]plachetnice, #c[Dmi]jak by si s ní jenom #c[E]hrál.\
+  #c[F]Posádku ani škuner #c[Ami]neleká, #c[F]bouře ni ura#c[Ami]gán.\
+  #c[Dmi]Přítomnost země #c[Ami]oznámí nám, #c[Dmi]příletem #c[E]kormo#c[Ami]rán.
 ]
 
 #verse[

@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[Ami]Když mě brali za vo#c[C]jáka, #c[G]stříhali mě doho#c[C]la,\
-  #d[Dmi]vypadal jsem jako #c[Ami]blbec,\
-  #d[E]jak i všichni doko#c[F]la, -#c[G]la, -#c[C]la, -#c[G]la,\
-  #d[Ami]jak i všichni #c[E]doko#c[Ami]la.
+  #c[Ami]Když mě brali za vo#c[C]jáka, #c[G]stříhali mě doho#c[C]la,\
+  #c[Dmi]vypadal jsem jako #c[Ami]blbec,\
+  #c[E]jak i všichni doko#c[F]la, -#c[G]la, -#c[C]la, -#c[G]la,\
+  #c[Ami]jak i všichni #c[E]doko#c[Ami]la.
 ]
 
 #verse[

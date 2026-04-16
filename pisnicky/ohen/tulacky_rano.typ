@@ -7,16 +7,16 @@
 )
 
 #verse[
-  #d[Ami]Posvátný je mi každý ráno,\
-  #d[Emi]když ze sna budí šumící #c[Ami]les\
-  #d[Ami]a když se zvedám s písničkou známou\
-  #d[Emi]a přezky chřestí o skalnatou #c[Ami]mez.
+  #c[Ami]Posvátný je mi každý ráno,\
+  #c[Emi]když ze sna budí šumící #c[Ami]les\
+  #c[Ami]a když se zvedám s písničkou známou\
+  #c[Emi]a přezky chřestí o skalnatou #c[Ami]mez.
 ]
 #chorus[
-  #d[Ami]Tulácký ráno na kemp se snáší,\
-  #d[F]za chvíli půjdem #c[G]toulat se #c[C]dál,\
-  #d[Ami]a vodou z říčky oheň se zháší,\
-  #d[F]tak zase půjdem #c[G]toulat se #c[Ami]dál.
+  #c[Ami]Tulácký ráno na kemp se snáší,\
+  #c[F]za chvíli půjdem #c[G]toulat se #c[C]dál,\
+  #c[Ami]a vodou z říčky oheň se zháší,\
+  #c[F]tak zase půjdem #c[G]toulat se #c[Ami]dál.
 ]
 #verse[
   Posvátný je můj každý večer,\

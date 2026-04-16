@@ -7,8 +7,8 @@
 )
 
 #verse[
-  #d[E]Zavolejte stráže, zbláznilo se páže\
-  #d[H]zbláznilo se páže, #c[E]prý chce dobýt hrad
+  #c[E]Zavolejte stráže, zbláznilo se páže\
+  #c[H]zbláznilo se páže, #c[E]prý chce dobýt hrad
 ]
 
 #verse[
@@ -27,8 +27,8 @@
 ]
 
 #chorus[
-  #d[A]Vá#c[E]že#c[H]ní #c[A]do#c[E]spě#c[H][lí]~\
-  #d[A]rač#c[E]te #c[H]vstát #c[A]z poste#c[E]lí
+  #c[A]Vá#c[E]že#c[H]ní #c[A]do#c[E]spě#c[H][lí]~\
+  #c[A]rač#c[E]te #c[H]vstát #c[A]z poste#c[E]lí
 ]
 
 #verse[

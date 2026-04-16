@@ -7,14 +7,13 @@
 )
 
 #verse[
-  #d[C]Z Těšína #c[Emi]vyjíždí #c[Dmi7]vlaky co #c[F]čtvrthodi#c[C]nu,
+  #c[C]Z Těšína #c[Emi]vyjíždí #c[Dmi7]vlaky co #c[F]čtvrthodi#c[C]nu,
   #c[Emi Dmi7 G]\
-  #d[C]včera jsem #c[Emi]nespal a #c[Dmi7]ani dnes #c[F]nespoči#c[C]nu,
+  #c[C]včera jsem #c[Emi]nespal a #c[Dmi7]ani dnes #c[F]nespoči#c[C]nu,
   #c[Emi Dmi7 G]\
-  #d[F]svatý Me#c[G]dard, můj pa#c[C]tron, ťuká si na če#c[Ami]lo,
-  #c[G]\
+  #c[F]svatý Me#c[G]dard, můj pa#c[C]tron, ťuká si na če#c[Ami]lo, #s[G]\
   ale #c[F]dokud se #c[G]zpívá, #c[F]ještě se #c[G]neumře#c[C]lo,
-  #d[Emi]#c[Dmi7]hó#c[G]hó.
+  #c[Emi]#s[Dmi7]hó#s[G]hó.
 ]
 
 #verse[

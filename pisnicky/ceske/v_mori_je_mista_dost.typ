@@ -7,14 +7,14 @@
 )
 
 #chorus[
-  #d[C]V moři je místa dost, #c[Dmi]v moři je místa #c[G7]dost,\
-  #d[C]v moři je místa, #c[Ami7]místa, ach, místa, #c[Dmi7]v moři je #c[G7]místa #c[C]dost
+  #c[C]V moři je místa dost, #c[Dmi]v moři je místa #c[G7]dost,\
+  #c[C]v moři je místa, #c[Ami7]místa, ach, místa, #c[Dmi7]v moři je #c[G7]místa #c[C]dost
 ]
 
 #verse[
-  #d[C]Podmořský koník kluše s nákladem mořské pěny,\
-  #d[F]cesta je velmi mokrá, #c[G7]a on je unavený,\
-  #d[C]za první vlnou vlevo #c[Ami]okolo mořských patní#c[F]ků,\
+  #c[C]Podmořský koník kluše s nákladem mořské pěny,\
+  #c[F]cesta je velmi mokrá, #c[G7]a on je unavený,\
+  #c[C]za první vlnou vlevo #c[Ami]okolo mořských patní#c[F]ků,\
   na pravo v Golfském proudu #c[G7]už vidí Afriku.
 ]
 

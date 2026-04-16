@@ -13,7 +13,7 @@
   tím, #c[C]koho chci #c[D]milovat,\
   #c[G]koupím si pergamen a #c[Hmi]štětec a tuš\
   a jako #c[Emi]čínský mudrc sednu na břeh #c[D]řeky\
-  a budu #c[G]starý muž,#c[Hmi Emi C D] #c[G]starý muž.#c[Hmi Emi C D]
+  a budu #c[G]starý muž,#c[Hmi Emi C D] #s[G]starý muž.#s[Hmi Emi C D]
 ]
 #verse[
   Až budu starým mužem, pořídím si starý byt\

@@ -34,14 +34,14 @@
 #bridge[
   #set text(size: 0.95em)
 
-  #d[Emi]I have a blue house with a blue window,
+  #c[Emi]I have a blue house with a blue window,
   #c[Emi]blue is the colour of all that I #c[Ami]wear.\
-  #d[Emi]Blue are the streets and all the trees are too,
+  #c[Emi]Blue are the streets and all the trees are too,
   // TODO: Je tohle správnej akord?\
   #c[G]I have a girlfriend and #c[Ami]she is so blue.\
-  #d[Emi]Blue are the people here that walk around,
+  #c[Emi]Blue are the people here that walk around,
   #c[Emi]blue like my Corvette, thats standing out#c[Ami]side.\
-  #d[Emi]Blue are the words I say and what I think,
+  #c[Emi]Blue are the words I say and what I think,
   #c[G]blue are the feelings that #c[C]live inside me
 ]
 

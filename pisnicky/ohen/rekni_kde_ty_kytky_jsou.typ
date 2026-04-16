@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[G]Řekni, kde ty #c[Emi]kytky jsou, #c[C]co se s nima #c[D7]mohlo stát,\
-  #d[G]řekni, kde ty #c[Emi]kytky jsou, #c[C]kde mohou #c[D7]být,\
-  #d[G]dívky je tu #c[Emi]během dne #c[C]otrhaly #c[D7]do jedné,\
-  #d[C]kdo to kdy #c[G]pochopí, #c[C]kdo to kdy #c[D7]pocho#c[G]pí?
+  #c[G]Řekni, kde ty #c[Emi]kytky jsou, #c[C]co se s nima #c[D7]mohlo stát,\
+  #c[G]řekni, kde ty #c[Emi]kytky jsou, #c[C]kde mohou #c[D7]být,\
+  #c[G]dívky je tu #c[Emi]během dne #c[C]otrhaly #c[D7]do jedné,\
+  #c[C]kdo to kdy #c[G]pochopí, #c[C]kdo to kdy #c[D7]pocho#c[G]pí?
 ]
 #verse[
   Řekni, kde ty dívky jsou, co se s nima mohlo stát,\

@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[D]Když jsem já sloužil #c[A]to první léto,\
-  #d[A]vysloužil jsem si #c[D]kuřát#c[A]ko za #c[D]to.\
-  #d[D]A to kuře krákoře #c[A]běhá po dvoře,\
-  #d[A]má panenka pláče #c[D]doma #c[A]v komo#c[D]ře.
+  #c[D]Když jsem já sloužil #c[A]to první léto,\
+  #c[A]vysloužil jsem si #c[D]kuřát#c[A]ko za #c[D]to.\
+  #c[D]A to kuře krákoře #c[A]běhá po dvoře,\
+  #c[A]má panenka pláče #c[D]doma #c[A]v komo#c[D]ře.
 ]
 
 #verse[

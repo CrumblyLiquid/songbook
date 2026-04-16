@@ -9,13 +9,13 @@
 )
 
 #verse[
-  #d[Ami] Hello darkness, my old #c[G]friend,
+  #c[Ami] Hello darkness, my old #c[G]friend,
   I've come to talk with you a#c[Ami]gain\
   Because a vision softl#c[F]y cree#c[C]ping,
   Left its seeds while I #c[F]was slee#c[C]ping\
-  And the #d[F]vision that was planted in my #c[C]brain,
-  Still re#d[C/B]mains#c[Ami]\
-  #d[C]Within the #c[G]sound of #c[Ami]silence
+  And the #c[F]vision that was planted in my #c[C]brain,
+  Still re#c[C/B]mains#c[Ami]\
+  #c[C]Within the #c[G]sound of #c[Ami]silence
 ]
 
 #verse[

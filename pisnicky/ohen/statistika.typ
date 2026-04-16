@@ -7,13 +7,13 @@
 )
 
 #verse[
-  Je #d[C]statisticky doká#c[Ami]záno, že #c[C]slunce vyjde každé #c[Ami]ráno\
-  a #d[C]i když je tma jako #c[Ami]v ranci, noc #c[C]nemá celkem žádnou #c[Ami]šanci.
+  Je #c[C]statisticky doká#c[Ami]záno, že #c[C]slunce vyjde každé #c[Ami]ráno\
+  a #c[C]i když je tma jako #c[Ami]v ranci, noc #c[C]nemá celkem žádnou #c[Ami]šanci.
 ]
 #chorus[
   #rep[
-    Statis#d[F]tika nuda #c[G]je, má však #c[E7]cenné úda#c[Ami]je,\
-    nekle#d[F]sejte na mys#c[G]li, ona #c[F]nám to vyčís#c[C]lí.
+    Statis#c[F]tika nuda #c[G]je, má však #c[E7]cenné úda#c[Ami]je,\
+    nekle#c[F]sejte na mys#c[G]li, ona #c[F]nám to vyčís#c[C]lí.
   ]
 ]
 #verse[

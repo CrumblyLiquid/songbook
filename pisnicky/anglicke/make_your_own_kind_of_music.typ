@@ -7,17 +7,17 @@
 )
 
 #verse[
-  #d[E]Nobody can #c[A]teell ya;\
-  #d[E]There's only one #c[A]song worth singin'.\
-  #d[E]They may try and #c[A]sell ya,\
-  'cause it #d[G\#mi]hangs them up to #c[A]see someone like #c[Hsus4]you.#c[H]
+  #c[E]Nobody can #c[A]teell ya;\
+  #c[E]There's only one #c[A]song worth singin'.\
+  #c[E]They may try and #c[A]sell ya,\
+  'cause it #c[G\#mi]hangs them up to #c[A]see someone like #c[Hsus4 H]you.
 ]
 
 #chorus[
-  But you've gotta#d[E] ma#c[G\#mi]ke your #c[A]own kind of #c[H]music\
-  #d[E]Si#d[G\#mi]ng your #c[A]own special #c[H]song\
-  #d[E]Ma#c[G\#mi]ke your #c[A]own kind of #c[H]music\
-  #d[E]Even if nobody #c[A]else sings a#c[Hsus4]long.#c[H]
+  But you've gotta#c[E] ma#c[G\#mi]ke your #c[A]own kind of #c[H]music\
+  #c[E]Si#c[G\#mi]ng your #c[A]own special #c[H]song\
+  #c[E]Ma#c[G\#mi]ke your #c[A]own kind of #c[H]music\
+  #c[E]Even if nobody #c[A]else sings a#c[Hsus4 H]long.
 ]
 
 #verse[
@@ -32,9 +32,9 @@
 ]
 
 #bridge[
-  #d[Hmi7]So if you cannot take my #c[E]hand,\
-  #d[Hmi7]and if you must be goin'#c[E],\
-  I will unders#d[H]taaaa - #c[H]aaand.
+  #c[Hmi7]So if you cannot take my #c[E]hand,\
+  #c[Hmi7]and if you must be goin'#c[E],\
+  I will unders#c[H]taaaa -- #c[H]aaand.
 ]
 
 #chorus[

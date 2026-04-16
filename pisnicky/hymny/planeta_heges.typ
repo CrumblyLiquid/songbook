@@ -6,16 +6,16 @@
 )
 
 #verse[
-  Jó, #d[A]tohle není planeta #c[C]jako žádná jiná,\
-  #d[D]tady když se ocitneš, #c[A]tvář ti hned zesiná,\
-  #d[A]jsou tu hadi, pavouci, #c[C]bláto, prach a špína,\
-  #d[D]na tuhle tu planetu se #c[A]hned nezapomíná.
+  Jó, #c[A]tohle není planeta #c[C]jako žádná jiná,\
+  #c[D]tady když se ocitneš, #c[A]tvář ti hned zesiná,\
+  #c[A]jsou tu hadi, pavouci, #c[C]bláto, prach a špína,\
+  #c[D]na tuhle tu planetu se #c[A]hned nezapomíná.
 ]
 
 #chorus[
   #rep[
-    #d[A]Planeta Hegéééš, #c[G]planeta #c[A]Hegéééš,\
-    #d[A]planeta Hegéééš, #c[D]planeta #c[E]Hegéééš.
+    #c[A]Planeta Hegéééš, #c[G]planeta #c[A]Hegéééš,\
+    #c[A]planeta Hegéééš, #c[D]planeta #c[E]Hegéééš.
   ]
 ]
 

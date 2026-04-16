@@ -7,11 +7,11 @@
 )
 
 #verse[
-  Sto#d[D]jí hruška v ši#c[A]rém poli\
-  vr#d[D]šek se jí #c[G]zele#c[A]ná\
+  Sto#c[D]jí hruška v ši#c[A]rém poli\
+  vr#c[D]šek se jí #c[G]zele#c[A]ná\
   #rep[
-    Pod #d[D]ní se #c[G]pase #c[A]kůň vra#c[Hmi]ný\
-    pa#d[D]se ho #c[A]má mi#c[D]lá
+    Pod #c[D]ní se #c[G]pase #c[A]kůň vra#c[Hmi]ný\
+    pa#c[D]se ho #c[A]má mi#c[D]lá
   ]
 ]
 

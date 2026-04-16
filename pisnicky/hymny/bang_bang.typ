@@ -8,10 +8,10 @@
 #set text(size: 0.9em)
 
 #chorus[
-  #d[Fmi]Zhaslo slunce už je noc,\
-  #d[Fmi]událo se toho moc,\
-  #d[Hmi]víčka každý zavírá,\
-  #d[C]u ohně tábor usíná
+  #c[Fmi]Zhaslo slunce už je noc,\
+  #c[Fmi]událo se toho moc,\
+  #c[Hmi]víčka každý zavírá,\
+  #c[C]u ohně tábor usíná
 ]
 
 #grid(

@@ -7,13 +7,13 @@
 )
 
 #verse[
-  #d[D]Zavři oči #c[G]a jdi spát, #c[Emi]vždyť už bude #c[A]brzo den,\
-  #d[D]nech si o mně #c[G]něco zdát, #c[Emi]ať je krásný #c[A]ten tvůj sen.
+  #c[D]Zavři oči #c[G]a jdi spát, #c[Emi]vždyť už bude #c[A]brzo den,\
+  #c[D]nech si o mně #c[G]něco zdát, #c[Emi]ať je krásný #c[A]ten tvůj sen.
 ]
 
 #chorus[
-  #d[Emi]Já budu chodit #c[A]po špičkách, #c[Emi]snad tě tím nevzbu#c[A]dím,\
-  #d[Emi]ááá, až slunce #c[A]vyjde v tmách, #c[G]polibkem tě #c[A]probudím.
+  #c[Emi]Já budu chodit #c[A]po špičkách, #c[Emi]snad tě tím nevzbu#c[A]dím,\
+  #c[Emi]ááá, až slunce #c[A]vyjde v tmách, #c[G]polibkem tě #c[A]probudím.
 ]
 
 #verse[

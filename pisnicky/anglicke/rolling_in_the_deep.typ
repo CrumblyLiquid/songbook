@@ -10,10 +10,10 @@
 
 // TODO: Akordy pro bridge, atd.
 #verse[
-  #d[Ami]There's a fire #c[Emi]starting in my heart\
-  #d[G]Reaching a fever pitch and it's #c[Emi]bringing me out the dark#c[G]\
-  #d[Ami]Finally, I can #c[Emi]see you crystal clear\
-  #d[G]Go ahead and sell me out and #c[Emi]I'll lay your shit bare#c[G]
+  #c[Ami]There's a fire #c[Emi]starting in my heart\
+  #c[G]Reaching a fever pitch and it's #c[Emi]bringing me out the dark#c[G]\
+  #c[Ami]Finally, I can #c[Emi]see you crystal clear\
+  #c[G]Go ahead and sell me out and #c[Emi]I'll lay your shit bare#c[G]
 
   See how I'll leave with every piece of you\
   Don't underestimate the things that I will do\
@@ -22,17 +22,17 @@
 ]
 
 #prechorus[
-  #d[F] The scars of #c[G]your love remind me #c[Emi]of us\
-  They keep me #d[F]thinkin' that we almost had #c[G]it #c[F]all\
-  The scars of #d[G]your love, they leave me #c[Emi]breathless\
-  I can't help #d[E7]feeling
+  #c[F] The scars of #c[G]your love remind me #c[Emi]of us\
+  They keep me #c[F]thinkin' that we almost had #c[G]it #c[F]all\
+  The scars of #c[G]your love, they leave me #c[Emi]breathless\
+  I can't help #c[E7]feeling
 ]
 
 #chorus[
-  We could've had it #d[Ami]all (You're gonna wish you #c[G]never had met me)\
-  Rolling in the #d[F]deep (Tears are gonna fall, #c[F]rolling in the deep)\
-  You #d[G]had my heart #c[Ami]inside of your #c[G]hand (You're gonna wish you never had met me)\
-  And you #d[F]played it to the #c[F]beat (Tears are gonna fall, rolling in the #c[G]deep)
+  We could've had it #c[Ami]all (You're gonna wish you #c[G]never had met me)\
+  Rolling in the #c[F]deep (Tears are gonna fall, #c[F]rolling in the deep)\
+  You #c[G]had my heart #c[Ami]inside of your #c[G]hand (You're gonna wish you never had met me)\
+  And you #c[F]played it to the #c[F]beat (Tears are gonna fall, rolling in the #c[G]deep)
 ]
 
 #verse[

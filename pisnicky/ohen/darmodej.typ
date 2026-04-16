@@ -8,11 +8,11 @@
 )
 
 #verse[
-  #d[Ami]Šel včera městem #c[Emi]muž a šel po hlavní #c[Ami]třídě,#c[Emi][~]~\
-  #d[Ami]šel včera městem #c[Emi]muž a já ho z okna #c[Ami]viděl,#c[Emi][~]~\
-  #d[C]na flétnu chorál #c[G]hrál, znělo to jako #c[Ami]zvon\
-  a byl v tom všechen #d[Emi]žal, ten krásný dlouhý #c[F]tón,\
-  a já jsem náhle #d[F\#dim]věděl: ano, to je #c[E7]on, to je #c[Ami]on.
+  #c[Ami]Šel včera městem #c[Emi]muž a šel po hlavní #c[Ami]třídě,#c[Emi][~]~\
+  #c[Ami]šel včera městem #c[Emi]muž a já ho z okna #c[Ami]viděl,#c[Emi][~]~\
+  #c[C]na flétnu chorál #c[G]hrál, znělo to jako #c[Ami]zvon\
+  a byl v tom všechen #c[Emi]žal, ten krásný dlouhý #c[F]tón,\
+  a já jsem náhle #c[F\#dim]věděl: ano, to je #c[E7]on, to je #c[Ami]on.
 ]
 
 #verse[
@@ -24,7 +24,7 @@
 ]
 
 #chorus[
-  #d[Ami Emi C G Ami F F\#dim E7]Na na na...
+  #c[Ami Emi C G Ami F F\#dim E7]Na na na...
 ]
 
 #verse[

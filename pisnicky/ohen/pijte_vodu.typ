@@ -8,16 +8,16 @@
 
 #chorus[
   #rep[
-    #d[C]Pijte vodu, pijte pitnou vodu,\
-    #d[C]pijte vodu a #c[G]nepijte #c[C]rum!
+    #c[C]Pijte vodu, pijte pitnou vodu,\
+    #c[C]pijte vodu a #c[G]nepijte #c[C]rum!
   ]
 ]
 
 #verse[
-  #d[C]Jeden smutný ajznboňák\
-  #d[C]pil na pátém nástupišti #c[G]ajrko#c[C]ňak,\
-  #d[C]huba se mu slepila\
-  #d[C]diesellokomotiva ho #c[G]zabi#c[C]la.
+  #c[C]Jeden smutný ajznboňák\
+  #c[C]pil na pátém nástupišti #c[G]ajrko#c[C]ňak,\
+  #c[C]huba se mu slepila\
+  #c[C]diesellokomotiva ho #c[G]zabi#c[C]la.
 ]
 
 #chorus[

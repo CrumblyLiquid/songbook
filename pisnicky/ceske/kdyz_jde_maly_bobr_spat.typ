@@ -17,16 +17,16 @@
 )
 
 #verse[
-  #d[C\#]Když jde malý bobr #c[G\#]spát, bobr #c[F\#]spát, bobr #c[G\#][spát]~\
-  #d[C\#]tak si chvilku hraje #c[G\#]rád, hraje #c[F\#]rád, hraje #c[C\#][rád]~\
-  #d[C\#]postaví se na zad#c[G\#]ní, na zad#c[F\#]ní, na zad#c[G\#][ní]~\
-  #d[C\#]jenom, bobře, nespad#c[G\#]ni, jenom #c[F\#]nespad#c[C\#]ni
+  #c[C\#]Když jde malý bobr #c[G\#]spát, bobr #c[F\#]spát, bobr #c[G\#][spát]~\
+  #c[C\#]tak si chvilku hraje #c[G\#]rád, hraje #c[F\#]rád, hraje #c[C\#][rád]~\
+  #c[C\#]postaví se na zad#c[G\#]ní, na zad#c[F\#]ní, na zad#c[G\#][ní]~\
+  #c[C\#]jenom, bobře, nespad#c[G\#]ni, jenom #c[F\#]nespad#c[C\#]ni
 ]
 
 #chorus(prefix: "R1:")[
-  #d[G\#]Prosím vás, buďte tak dobří\
-  #d[G\#]dělejte to jako ti bobři\
-  #d[G\#]raději hned po dobrém následujte za bobrem
+  #c[G\#]Prosím vás, buďte tak dobří\
+  #c[G\#]dělejte to jako ti bobři\
+  #c[G\#]raději hned po dobrém následujte za bobrem
 ]
 
 #verse[

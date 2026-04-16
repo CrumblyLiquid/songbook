@@ -6,24 +6,24 @@
 )
 
 #verse[
-  Na #d[D]divokém západě #c[G]je pravé #c[D]poledne,\
-  #d[D]slunce tam pálí a #c[A]nechce se #c[G]ven,\
-  tak #d[D]připrav si mankáto, #c[G]zalez si #c[D]za barel,\
-  #d[D]přichází šerif a #c[A]střílí BANG! #c[D]BANG!
+  Na #c[D]divokém západě #c[G]je pravé #c[D]poledne,\
+  #c[D]slunce tam pálí a #c[A]nechce se #c[G]ven,\
+  tak #c[D]připrav si mankáto, #c[G]zalez si #c[D]za barel,\
+  #c[D]přichází šerif a #c[A]střílí BANG! #c[D]BANG!
 ]
 
 #verse[
-  #d[D]Hej! Hej! Už banditi #c[G]přijíždí #c[D]na koních,\
-  #d[D]u pasu vulcanic, životů #c[A]pár,\
-  #d[D]Jesse Jones, El Gringo, #c[G]Lucky Duke, #c[D]Sid Ketchum,\
-  #d[D]Paul Regret, Cassidy, ty #c[A]všechny já #c[D]znám.
+  #c[D]Hej! Hej! Už banditi #c[G]přijíždí #c[D]na koních,\
+  #c[D]u pasu vulcanic, životů #c[A]pár,\
+  #c[D]Jesse Jones, El Gringo, #c[G]Lucky Duke, #c[D]Sid Ketchum,\
+  #c[D]Paul Regret, Cassidy, ty #c[A]všechny já #c[D]znám.
 ]
 
 #chorus[
-  Tak #d[Hmi]hrajeme dál, tak #c[A]hrajeme dál,\
-  #d[D]ať už jsme #c[G]banditi, #c[D]šerif či #c[A]vice,\
-  #d[Hmi]když přijdu o život, #c[A]tak sper to ďas,\
-  #d[D]když někdo #c[G]prohraje, karty #c[A]rozdáme #c[D]zas.
+  Tak #c[Hmi]hrajeme dál, tak #c[A]hrajeme dál,\
+  #c[D]ať už jsme #c[G]banditi, #c[D]šerif či #c[A]vice,\
+  #c[Hmi]když přijdu o život, #c[A]tak sper to ďas,\
+  #c[D]když někdo #c[G]prohraje, karty #c[A]rozdáme #c[D]zas.
 ]
 
 #verse[

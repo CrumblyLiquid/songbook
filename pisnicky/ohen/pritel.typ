@@ -10,10 +10,10 @@
 #set text(size: 0.9em)
 
 #verse[
-  Jestlipak #d[G]vzpomínáš si ještě na ten #c[D]čas,\
-  táhlo nám #d[C]na dvacet a slunko bylo #c[D]v nás,\
-  #d[Ami]vrabci nám jedli z ruky, #c[C]život šel bez záruky,\
-  #d[G]ale taky bez pří#c[D]kras.
+  Jestlipak #c[G]vzpomínáš si ještě na ten #c[D]čas,\
+  táhlo nám #c[C]na dvacet a slunko bylo #c[D]v nás,\
+  #c[Ami]vrabci nám jedli z ruky, #c[C]život šel bez záruky,\
+  #c[G]ale taky bez pří#c[D]kras.
 ]
 #verse[
   Možná, že hloupý, ale krásný byl náš svět,\
@@ -22,10 +22,10 @@
   anebo rovnou hned.
 ]
 #chorus[
-  #d[Ami]Kam jsme se poděli, #c[C]kam jsme se to poděli,\
-  #d[G]kde je ti #c[D]konec, #c[Emi]můj jediný příteli,\
-  #d[Ami]zmizels' mi, nevím #c[D]kam,\
-  #d[Emi7]sám, sám, #c[C]sám, jsem tady #c[G]sám.
+  #c[Ami]Kam jsme se poděli, #c[C]kam jsme se to poděli,\
+  #c[G]kde je ti #c[D]konec, #c[Emi]můj jediný příteli,\
+  #c[Ami]zmizels' mi, nevím #c[D]kam,\
+  #c[Emi7]sám, sám, #c[C]sám, jsem tady #c[G]sám.
 ]
 
 #[

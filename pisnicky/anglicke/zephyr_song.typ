@@ -23,7 +23,7 @@
 #chorus[
   #c[D]Fly away on my Zephyr. #c[G]I feel it #c[A]more than ever\
   #c[D]And in this perfect weather. #c[G]We’ll find a #c[A]place together\
-  #c[Ami]Fly #c[G]on... #c[Emi]my #c[F]wind
+  #c[Ami]Fly #s[G]on... #c[Emi]my #s[F]wind
 ]
 
 #verse[

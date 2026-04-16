@@ -8,8 +8,8 @@
 )
 
 #verse[
-  #d[Ami]V dálných #c[G]dálkách zámo#c[Ami][ří,] #c[Ami]ční prý #c[G]zlaté poho#c[Ami]ří,\
-  #d[Ami]přícho#c[C]zího pohos#c[D]tí, #c[F]nádhe#c[C]rou a hojnos#c[G]tí.#c[E]
+  #c[Ami]V dálných #c[G]dálkách zámo#c[Ami][ří,] #c[Ami]ční prý #c[G]zlaté poho#c[Ami]ří,\
+  #c[Ami]přícho#c[C]zího pohos#c[D]tí, #c[F]nádhe#c[C]rou a hojnos#c[G]tí.#c[E]
 ]
 
 #verse[
@@ -18,20 +18,20 @@
 ]
 
 #chorus[
-  #d[Ami]Jít a hledat Eldo#c[G]rádo, zbave#c[C]né vší #c[D]bídy člově#c[G]čí,#c[E]\
-  #d[Ami]jít a hledat Eldo#c[G]rádo, kde je #c[C]láska, #c[D]mír a bezpe#c[Emi]čí.
+  #c[Ami]Jít a hledat Eldo#c[G]rádo, zbave#c[C]né vší #c[D]bídy člově#c[G]čí,#c[E]\
+  #c[Ami]jít a hledat Eldo#c[G]rádo, kde je #c[C]láska, #c[D]mír a bezpe#c[Emi]čí.
 ]
 
 // TODO: Scoped transposition
 #transpose_state.update(c => c + 2)
 #verse[
-  #d[Ami]Báchorce #c[G]té uvě#c[Ami]ří, #c[Ami]dávno #c[G]už jen někte#c[Ami]ří,\
-  #d[Ami]spíš než #c[C]zlatonosný #c[D]štít, #c[F]nám dnes #c[C]rozum káže #c[G]jít.#c[E]
+  #c[Ami]Báchorce #c[G]té uvě#c[Ami]ří, #s[Ami]dávno #c[G]už jen někte#c[Ami]ří,\
+  #c[Ami]spíš než #c[C]zlatonosný #c[D]štít, #c[F]nám dnes #c[C]rozum káže #c[G]jít.#c[E]
 ]
 
 #chorus[
-  #d[Ami]Jít a hledat Eldo#c[G]rádo, zbave#c[C]né vší #c[D]bídy člově#c[G]čí,#c[E]\
-  #d[Ami]jít a hledat Eldo#c[G]rádo, kde je #c[C]láska, #c[D]mír a bezpe#c[Emi]čí.
+  #c[Ami]Jít a hledat Eldo#c[G]rádo, zbave#c[C]né vší #c[D]bídy člově#c[G]čí,#c[E]\
+  #c[Ami]jít a hledat Eldo#c[G]rádo, kde je #c[C]láska, #c[D]mír a bezpe#c[Emi]čí.
 ]
 
 // TODO: Recitation block

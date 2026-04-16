@@ -41,9 +41,9 @@
 
 // TODO: Fix offset
 #verse[
-  #c[C\#]Až vyroste strom#c[D\#mi], #c[E]až udeří do něj blesk a hrom\
+  #c[C\#]Až vyroste strom#c[D\#mi], #s[E]až udeří do něj blesk a hrom\
   #c[H]Hmmm, noc se #c[F\#]válí\
-  #c[C\#]Až vyroste strom#c[D\#mi], #c[E]a udeří do něj blesk a hrom\
+  #c[C\#]Až vyroste strom#c[D\#mi], #s[E]a udeří do něj blesk a hrom\
   #c[F\#]Narovná, rozdělí, podělí\
   Poskládáš úterý ke kusům nedělí a půjdeš #c[H F\# G\#mi E]dál
 ]

@@ -7,16 +7,16 @@
 )
 
 #verse[
-  #d[G]Ze zdi na mě tupě zírá #c[C]po trezoru temná díra,\
-  #d[A7]poznám tedy bez nesnází, #c[D7]že tam nepochybně něco schází,\
-  #d[G]ve zdi byl totiž po dědovi #c[C]velký trezor ocelový.\
-  #d[D7]Mám tedy ztrátu zdánlivě minimál#c[C G]ní
+  #c[G]Ze zdi na mě tupě zírá #c[C]po trezoru temná díra,\
+  #c[A7]poznám tedy bez nesnází, #c[D7]že tam nepochybně něco schází,\
+  #c[G]ve zdi byl totiž po dědovi #c[C]velký trezor ocelový.\
+  #c[D7]Mám tedy ztrátu zdánlivě minimál#c[C G]ní
 ]
 
 #chorus[
-  Na to že #d[D7]náhodně v krámě vášnivé\
-  dámě #d[G]padl jsem za tro#c[Emi]fej,\
-  #d[A7]tvrdila pevně: přijdu tě levně, #c[D7]nezoufej, ó jé, jé, jé, jé.
+  Na to že #c[D7]náhodně v krámě vášnivé\
+  dámě #c[G]padl jsem za tro#c[Emi]fej,\
+  #c[A7]tvrdila pevně: přijdu tě levně, #c[D7]nezoufej, ó jé, jé, jé, jé.
 ]
 
 #verse[

@@ -7,11 +7,11 @@
 )
 
 #verse[
-  #d[C]V jedné #c[Ami]mořské #c[Dmi]pusti#c[G]ně #c[C]ztroskotal #c[Ami]parník v #c[Dmi]hlubi#c[G]ně,\
-  #d[C]jenom tři #c[Ami]malé #c[Dmi]citrón#c[G]ky zůstaly na hladi#c[C]ně.
+  #c[C]V jedné #c[Ami]mořské #c[Dmi]pusti#c[G]ně #c[C]ztroskotal #c[Ami]parník v #c[Dmi]hlubi#c[G]ně,\
+  #c[C]jenom tři #c[Ami]malé #c[Dmi]citrón#c[G]ky zůstaly na hladi#c[C]ně.
 ]
 #chorus[
-  #rep[#d[C]Rýbaroba, #c[Ami]rýbaroba, #c[Dmi]rýbaroba #c[G]ču ču]... (zůstali na hladi#c[C]ně)
+  #rep[#c[C]Rýbaroba, #c[Ami]rýbaroba, #c[Dmi]rýbaroba #c[G]ču ču]... (zůstali na hladi#c[C]ně)
 ]
 #verse[
   Jeden z nich povídá: přátelé,netvařte se tak kysele\

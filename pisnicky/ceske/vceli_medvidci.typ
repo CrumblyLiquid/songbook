@@ -7,18 +7,18 @@
 
 
 #verse[
-  #d[D]Tam kde v noci jasně svítí #c[A]světluš#c[D][ky,]~\
-  #d[D]tam kde za srdce tě berou #c[G]beruš#c[A][ky.]~\
-  #d[D]Tam kde vesele si žijou #c[A]čmelá#c[D][ci,]~\
-  #d[D]tam kde brouk si z brouka dělá #c[G]legra#c[A][ci.]~\
-  Tam nás #d[Emi]dneska večer možná čeka#c[A][jí,]~\
-  pojďte #d[G]po špičkách a #c[A]pota#c[D]jí.
+  #c[D]Tam kde v noci jasně svítí #c[A]světluš#c[D][ky,]~\
+  #c[D]tam kde za srdce tě berou #c[G]beruš#c[A][ky.]~\
+  #c[D]Tam kde vesele si žijou #c[A]čmelá#c[D][ci,]~\
+  #c[D]tam kde brouk si z brouka dělá #c[G]legra#c[A][ci.]~\
+  Tam nás #c[Emi]dneska večer možná čeka#c[A][jí,]~\
+  pojďte #c[G]po špičkách a #c[A]pota#c[D]jí.
 ]
 
 #chorus[
-  Na po#d[D]líčku v jete#c[G]líčku tam kde #c[A]potok pramení,\
-  dobře #d[D]je nám po tě#c[G]líčku záko#c[A]nem jsme chránění.\
-  Sosáč#d[D]kama sosá#c[A]me bez přes#c[D]tání to sa#c[A]mé,\
-  #d[D]do pě#c[A]ti #c[D]do pě#c[A]ti #c[D]musíme být u maminky #c[A]v doupě#c[D]ti.
+  Na po#c[D]líčku v jete#c[G]líčku tam kde #c[A]potok pramení,\
+  dobře #c[D]je nám po tě#c[G]líčku záko#c[A]nem jsme chránění.\
+  Sosáč#c[D]kama sosá#c[A]me bez přes#c[D]tání to sa#c[A]mé,\
+  #c[D]do pě#c[A]ti #c[D]do pě#c[A]ti #c[D]musíme být u maminky #c[A]v doupě#c[D]ti.
 ]
 

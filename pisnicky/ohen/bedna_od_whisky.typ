@@ -7,17 +7,17 @@
 )
 
 #verse[
-  #d[Ami]Dneska už mně #c[C]fóry ňák #c[Ami]nejdou přes pys#c[E]ky,\
-  #d[Ami]stojím s dlouhou #c[C]kravatou na #c[Ami]bedně #c[E]vod whis#c[Ami]ky,\
-  #d[Ami]stojím s dlouhým vo#c[C]bojkem jak #c[Ami]stájovej pi#c[E]nč,\
-  tu #d[Ami]kravatu, co #c[C]nosím, mi #c[Ami]navlík' #c[E]soudce Ly#c[A]nč.
+  #c[Ami]Dneska už mně #c[C]fóry ňák #c[Ami]nejdou přes pys#c[E]ky,\
+  #c[Ami]stojím s dlouhou #c[C]kravatou na #c[Ami]bedně #c[E]vod whis#c[Ami]ky,\
+  #c[Ami]stojím s dlouhým vo#c[C]bojkem jak #c[Ami]stájovej pi#c[E]nč,\
+  tu #c[Ami]kravatu, co #c[C]nosím, mi #c[Ami]navlík' #c[E]soudce Ly#c[A]nč.
 ]
 
 #chorus[
-  Tak #d[A]kopni do tý #c[D]bedny, ať #c[E]panstvo neče#c[A]ká,\
-  jsou #d[A]dlouhý schody #c[D]do nebe a #c[E]štreka dale#c[A]ká,\
-  do #d[A]nebeskýho #c[D]baru, já #c[E]sucho v krku #c[A]mám,\
-  tak #d[A]kopni do tý #c[D]bedny, ať #c[E]na cestu se #c[Ami]dám.
+  Tak #c[A]kopni do tý #c[D]bedny, ať #c[E]panstvo neče#c[A]ká,\
+  jsou #c[A]dlouhý schody #c[D]do nebe a #c[E]štreka dale#c[A]ká,\
+  do #c[A]nebeskýho #c[D]baru, já #c[E]sucho v krku #c[A]mám,\
+  tak #c[A]kopni do tý #c[D]bedny, ať #c[E]na cestu se #c[Ami]dám.
 ]
 
 #verse[

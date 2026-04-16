@@ -8,10 +8,10 @@
 
 // TODO: Uvozovky\
 #verse[
-  #d[G]Podzimní bílá mlha #c[C]válí se #c[G]na mechu,\
-  #d[C]myslivci #c[D]vstali' už #c[G]ráno,\
-  #d[G]zajíci zalezli a #c[C]nechce se jim #c[G]z pelechu,\
-  #d[C]neboť se #c[D]chtějí dožít #c[G]Vánoc.
+  #c[G]Podzimní bílá mlha #c[C]válí se #c[G]na mechu,\
+  #c[C]myslivci #c[D]vstali' už #c[G]ráno,\
+  #c[G]zajíci zalezli a #c[C]nechce se jim #c[G]z pelechu,\
+  #c[C]neboť se #c[D]chtějí dožít #c[G]Vánoc.
 ]
 
 #chorus[
@@ -19,7 +19,7 @@
   #c[C]po poli kráčejí #c[G]střelci,\
   já se svou #c[D]kytarou zpí#c[C]vám písničku #c[G]prastarou\
   #c[C]o tom, že #c[D]malí budou #c[G]velcí.\
-  #d[G D C G]Na nananana...\
+  #c[G D C G]Na nananana...\
   já se svou #c[D]kytarou zpí#c[C]vám písničku #c[G]prastarou\
   #c[C]o tom, že #c[D]malí budou #c[G]velcí.\
 ]

@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[D]Pod tou skálou, kde #c[D7]proud řeky #c[G]syčí\
-  a kde #d[D]ční červe#c[H7]ný kame#c[E7]ní,  #c[A7]\
-  žije #d[D]ten, co mi #c[D7]jen srdce #c[G]ničí,\
-  toho #d[D]já ráda #c[A7]mám k zblázně#c[D]ní.
+  #c[D]Pod tou skálou, kde #c[D7]proud řeky #c[G]syčí\
+  a kde #c[D]ční červe#c[H7]ný kame#c[E7]ní,  #c[A7]\
+  žije #c[D]ten, co mi #c[D7]jen srdce #c[G]ničí,\
+  toho #c[D]já ráda #c[A7]mám k zblázně#c[D]ní.
 ]
 
 #verse[

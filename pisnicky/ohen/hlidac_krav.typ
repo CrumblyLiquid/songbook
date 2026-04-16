@@ -8,19 +8,19 @@
 
 // TODO: Uvozovky\
 #verse[
-  #d[D]Když jsem byl malý, říkali mi naši:\
+  #c[D]Když jsem byl malý, říkali mi naši:\
   "Dobře se uč a jez chytrou kaši,\
-  #d[G]až jednou vyrosteš, #c[A]budeš doktorem #c[D]práv,\
-  #d[D]takový doktor sedí pěkně v suchu,\
+  #c[G]až jednou vyrosteš, #c[A]budeš doktorem #c[D]práv,\
+  #c[D]takový doktor sedí pěkně v suchu,\
   bere velký peníze a škrábe se v uchu,"\
-  #d[G]já jim ale na to řek: "#c[A]Chci být hlídačem #c[D]krav."
+  #c[G]já jim ale na to řek: "#c[A]Chci být hlídačem #c[D]krav."
 ]
 
 #chorus[
-  Já chci #d[D]mít čapku s bambulí nahoře,\
+  Já chci #c[D]mít čapku s bambulí nahoře,\
   jíst kaštany, mýt se v lavoře,\
-  #d[G]od rána po celý #c[A]den zpívat si #c[D]jen,\
-  zpívat si: #d[D]pam pam pam padadadadam...#c[G A D]
+  #c[G]od rána po celý #c[A]den zpívat si #c[D]jen,\
+  zpívat si: #c[D]pam pam pam padadadadam...#c[G A D]
 ]
 
 #verse[

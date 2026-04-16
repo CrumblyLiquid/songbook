@@ -6,17 +6,17 @@
 )
 
 #verse[
-  #d[D]Je to kutil #c[A]všeho druhu, #c[D]za dřevo on #c[G]má zásluhu,\
-  #d[D]sekeru i #c[G]pilu má, #c[D]dřevo vždycky #c[A]nadě#c[D]lá.\
-  #d[D]Druhej tejden #c[A]to však fláká, #c[D]marodka ho #c[G]asi láká,\
-  #d[D]vždycky se pak #c[G]ulejvá a #c[D]trpaslíky #c[A]odlej#c[D]vá.
+  #c[D]Je to kutil #c[A]všeho druhu, #c[D]za dřevo on #c[G]má zásluhu,\
+  #c[D]sekeru i #c[G]pilu má, #c[D]dřevo vždycky #c[A]nadě#c[D]lá.\
+  #c[D]Druhej tejden #c[A]to však fláká, #c[D]marodka ho #c[G]asi láká,\
+  #c[D]vždycky se pak #c[G]ulejvá a #c[D]trpaslíky #c[A]odlej#c[D]vá.
 ]
 
 #chorus[
-  #d[G]Tělem obr, #c[D]duší malej, #c[A]nikdo není #c[D]dokonalej,\
-  #d[G]trocha smůly #c[D]v životě a #c[A]už ho vezou do Cho#c[D]tě.\
-  #d[G]Jsme však rádi, #c[D]že je s námi, #c[A]občas holt má #c[D]ňáký šrámy,\
-  ale #d[G]když se nikdo #c[D]nekouká, #c[A]Bára mu je pofou#c[D]ká.
+  #c[G]Tělem obr, #c[D]duší malej, #c[A]nikdo není #c[D]dokonalej,\
+  #c[G]trocha smůly #c[D]v životě a #c[A]už ho vezou do Cho#c[D]tě.\
+  #c[G]Jsme však rádi, #c[D]že je s námi, #c[A]občas holt má #c[D]ňáký šrámy,\
+  ale #c[G]když se nikdo #c[D]nekouká, #c[A]Bára mu je pofou#c[D]ká.
 ]
 
 #verse[

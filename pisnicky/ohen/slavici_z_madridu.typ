@@ -7,16 +7,16 @@
 )
 
 #verse[
-  #d[Emi]Nebe je modrý a #c[H7]zlatý, bílá sluneční #c[Emi]záře,\
-  #d[Emi]horko a sváteční #c[H7]šaty, vřava a zpocený #c[Emi]tváře,\
-  #d[Emi]vím, co se bude #c[H7]dít, býk už se v ohradě #c[Emi]vzpíná,\
-  #d[Emi]kdo chce, ten může #c[H7]jít, já si dám sklenici #c[Emi]vína.#c[E7]
+  #c[Emi]Nebe je modrý a #c[H7]zlatý, bílá sluneční #c[Emi]záře,\
+  #c[Emi]horko a sváteční #c[H7]šaty, vřava a zpocený #c[Emi]tváře,\
+  #c[Emi]vím, co se bude #c[H7]dít, býk už se v ohradě #c[Emi]vzpíná,\
+  #c[Emi]kdo chce, ten může #c[H7]jít, já si dám sklenici #c[Emi]vína.#s[E7]
 ]
 #chorus[
   #c[Ami]Žízeň je veliká, #c[Emi]život mi utíká,\
-  #c[H7]nechte mě příjemně #c[Emi]snít,#c[E7][~]~\
+  #c[H7]nechte mě příjemně #c[Emi]snít,#s[E7]\
   #c[Ami]ve stínu pod fíky #c[Emi]poslouchat slavíky,\
-  #c[H7]zpívat si s nima a #c[Emi]pít.#c[E7][~]~\
+  #c[H7]zpívat si s nima a #c[Emi]pít.#s[E7]\
   #c[Ami]Nanana...
 ]
 #verse[

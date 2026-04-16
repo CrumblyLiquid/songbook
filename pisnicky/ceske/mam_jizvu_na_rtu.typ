@@ -64,7 +64,7 @@
     na špatné věci pro ty dobré zapomínám.\
     A kdyby se někdo z vás na anděla ptal,\
     tak mám jizvu na rtu, když při mně stál,\
-    #d[G]když při mě #c[C G F G]stál,\
+    #c[G]když při mě #c[C G F G]stál,\
     on při mě #c[C]stál.
   ],
 )

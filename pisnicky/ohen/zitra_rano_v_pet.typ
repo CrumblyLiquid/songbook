@@ -7,11 +7,11 @@
 )
 
 #verse[
-  #d[Ami]Až mě zítra ráno v pět #c[C]ke zdi postaví,\
-  je#d[F]ště si napo#c[G7]sled dám #c[C]vodku na zdra#c[A7]ví,\
-  z očí #d[Dmi]pásku strhnu #c[G7]si, to abych #c[C]viděl na ne#c[Ami]be,\
-  a #d[Dmi]pak vzpomenu #c[E7]si, #c[Ami]lásko, na te#c[A7]be,#c[Dmi G7 C Ami]\
-  a #d[Dmi]pak vzpomenu #c[E7]si na te#c[Ami]be.
+  #c[Ami]Až mě zítra ráno v pět #c[C]ke zdi postaví,\
+  je#c[F]ště si napo#c[G7]sled dám #c[C]vodku na zdra#c[A7]ví,\
+  z očí #c[Dmi]pásku strhnu #c[G7]si, to abych #c[C]viděl na ne#c[Ami]be,\
+  a #c[Dmi]pak vzpomenu #c[E7]si, #c[Ami]lásko, na te#c[A7 Dmi G7 C Ami]be,\
+  a #c[Dmi]pak vzpomenu #c[E7]si na te#c[Ami]be.
 ]
 #verse[
   Až zítra ráno v pět přijde ke mně kněz,\

@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[D]Tak už jsem ti teda #c[D7]fouk',\
-  #d[G]prsten si dej za klo#c[D]bouk,\
-  #d[G]nechci tě znát a #c[D]neměl jsem tě rád,\
-  #d[D]to ti ří#c[A7]kám rov#c[D]nou.
+  #c[D]Tak už jsem ti teda #c[D7]fouk',\
+  #c[G]prsten si dej za klo#c[D]bouk,\
+  #c[G]nechci tě znát a #c[D]neměl jsem tě rád,\
+  #c[D]to ti ří#c[A7]kám rov#c[D]nou.
 ]
 
 #chorus[

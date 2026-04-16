@@ -10,13 +10,13 @@
   columns: 2,
   row-gutter: 2em,
   verse[
-    Měl jsem #d[Ami]hlídat tetě #c[C]křečka,\
-    #d[G]dala mi ho se slovy,\
-    ať #d[D]u mě chvíli přečká.
+    Měl jsem #c[Ami]hlídat tetě #c[C]křečka,\
+    #c[G]dala mi ho se slovy,\
+    ať #c[D]u mě chvíli přečká.
   ],
 
   verse[
-    #d[~]Ale křečka uhlídati\
+    #c[~]Ale křečka uhlídati\
     nelze jen tak lehce,\
     obzvlášť když se vám moc nechce.
   ],
@@ -35,13 +35,13 @@
 )
 
 #chorus[
-  #d[F]Hej teto! #c[C]Já ho zabil.\
-  #d[E7]Už se to nestane,\
-  #d[Ami]jo, ten už asi nevstane.\
+  #c[F]Hej teto! #c[C]Já ho zabil.\
+  #c[E7]Už se to nestane,\
+  #c[Ami]jo, ten už asi nevstane.\
   Hej teto! Nekřič na mě.\
   Já ho prostě neviděl,\
   už dost jsem se nastyděl.\
-  Hej #d[F]teto!#c[C E7 Ami F C E7]
+  Hej #c[F]teto!#c[C E7 Ami F C E7]
 ]
 
 #grid(

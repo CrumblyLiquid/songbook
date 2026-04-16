@@ -7,9 +7,9 @@
 )
 
 #verse[
-  #d[G]Skončili jsme, jasná zpráva,\
-  #d[Emi]proč o tebe #c[C]zakopávám #c[D]dál,\
-  #d[Ami]projít bytem #c[C]já abych se #c[G]bál
+  #c[G]Skončili jsme, jasná zpráva,\
+  #c[Emi]proč o tebe #c[C]zakopávám #c[D]dál,\
+  #c[Ami]projít bytem #c[C]já abych se #c[G]bál
 ]
 
 #verse[
@@ -19,11 +19,11 @@
 ]
 
 #chorus[
-  #d[Emi]Pěnu s vůní #c[Hmi]jablečnou, #c[Emi]vyvanulý #c[Hmi]sprej,\
-  #d[Emi]telefon, cos #c[G]ustřihla mu #c[D]šňůru,\
-  #d[Emi]knížku krásně #c[Hmi]zbytečnou, #c[Emi]co má lživý #c[Hmi][děj,]\
-  #d[Emi]píše se v ní, #c[G]jak se lítá #c[D]vzhůru,\
-  lítá #d[Ami]vzhůru, ve dvou #c[D]vzhůru.
+  #c[Emi]Pěnu s vůní #c[Hmi]jablečnou, #c[Emi]vyvanulý #c[Hmi]sprej,\
+  #c[Emi]telefon, cos #c[G]ustřihla mu #c[D]šňůru,\
+  #c[Emi]knížku krásně #c[Hmi]zbytečnou, #c[Emi]co má lživý #c[Hmi][děj,]\
+  #c[Emi]píše se v ní, #c[G]jak se lítá #c[D]vzhůru,\
+  lítá #c[Ami]vzhůru, ve dvou #c[D]vzhůru.
 ]
 
 #verse[

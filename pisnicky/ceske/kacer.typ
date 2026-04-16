@@ -7,29 +7,29 @@
 )
 
 #verse[
-  #d[E]Kačeři jak hurikán\
-  K #d[A]nám #c[E]už #c[A]mí#c[E]ří\
-  #d[E]Auta laser aeroplán\
-  #d[A]Městem víří\
-  #d[F\#mi]Příběhy #c[H]píše z #c[F\#mi]téhlete #c[H]říše
+  #c[E]Kačeři jak hurikán\
+  K #c[A]nám #c[E]už #c[A]mí#c[E]ří\
+  #c[E]Auta laser aeroplán\
+  #c[A]Městem víří\
+  #c[F\#mi]Příběhy #c[H]píše z #c[F\#mi]téhlete #c[H]říše
 ]
 
 #chorus[
-  #d[E]Kačer, úú, #c[C]teď k vám děti #c[D]z dálky letí\
-  #d[E]Kačer, úú, #c[C]přináší sem #c[D]kouzelnou zem\
-  #d[E]Kačer
+  #c[E]Kačer, úú, #c[C]teď k vám děti #c[D]z dálky letí\
+  #c[E]Kačer, úú, #c[C]přináší sem #c[D]kouzelnou zem\
+  #c[E]Kačer
 ]
 
 #verse[
-  #d[F\#mi]Kačeři přijdou #c[E]když jsi v nouzi\
-  #d[A]Když tě úzkost #c[E]ze sna vzbouzí\
-  #d[F\#]Zavolat jen stačí heslo:
+  #c[F\#mi]Kačeři přijdou #c[E]když jsi v nouzi\
+  #c[A]Když tě úzkost #c[E]ze sna vzbouzí\
+  #c[F\#]Zavolat jen stačí heslo:
 ]
 
 #chorus[
-  #d[F\#]Kačer, úú, #c[D]teď k vám děti z #c[E]dálky letí\
-  #d[F\#]Kačer, úú, #c[D]přináší sem #c[E]kouzelnou zem\
-  #d[F\#]Kačer, úú, #c[D]na tváře smích #c[E]přináší pan\
-  #d[F\#]Kačer, uú.
+  #c[F\#]Kačer, úú, #c[D]teď k vám děti z #c[E]dálky letí\
+  #c[F\#]Kačer, úú, #c[D]přináší sem #c[E]kouzelnou zem\
+  #c[F\#]Kačer, úú, #c[D]na tváře smích #c[E]přináší pan\
+  #c[F\#]Kačer, uú.
 ]
 

@@ -7,11 +7,11 @@
 )
 
 #verse[
-  #d[D]Daleko #c[Emi]na severu #c[A]je Grónská #c[D]zem,\
-  #d[D]žije tam #c[Emi]Eskymačka #c[A]s Eskymá#c[D]kem,\
+  #c[D]Daleko #c[Emi]na severu #c[A]je Grónská #c[D]zem,\
+  #c[D]žije tam #c[Emi]Eskymačka #c[A]s Eskymá#c[D]kem,\
   #rep[
-    #d[D]my bychom #c[Emi]umrzli, jim #c[G]není zi#c[D]ma,\
-    #d[D]snídají #c[Emi]nanuky #c[A]a esky#c[D]ma.
+    #c[D]my bychom #c[Emi]umrzli, jim #c[G]není zi#c[D]ma,\
+    #c[D]snídají #c[Emi]nanuky #c[A]a esky#c[D]ma.
   ]
 ]
 

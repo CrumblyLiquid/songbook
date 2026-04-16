@@ -9,16 +9,16 @@
   columns: 2,
   row-gutter: 2em,
   verse[
-    #d[G]Ráno vstanu, hledám #c[Emi]kalhoty,\
-    v tom zase #d[C]vedoucí počítá #c[D]do pěti,\
-    a tak se #d[G]vyhrabu ze svojí #c[Emi]postele,\
-    to nám ten #d[C]nový den začíná #c[D]vesele.
+    #c[G]Ráno vstanu, hledám #c[Emi]kalhoty,\
+    v tom zase #c[C]vedoucí počítá #c[D]do pěti,\
+    a tak se #c[G]vyhrabu ze svojí #c[Emi]postele,\
+    to nám ten #c[C]nový den začíná #c[D]vesele.
   ],
   chorus[
-    #d[D]Je tady #c[G]fajn, #c[A]fajn,\
-    #d[C]vždyť nejsem tu #c[G]sám,\
-    #d[D]ČaČuu #c[G]znám, #c[A]znám,\
-    #d[C]plno přátel tu #c[G]mám.
+    #c[D]Je tady #c[G]fajn, #c[A]fajn,\
+    #c[C]vždyť nejsem tu #c[G]sám,\
+    #c[D]ČaČuu #c[G]znám, #c[A]znám,\
+    #c[C]plno přátel tu #c[G]mám.
   ],
 )
 

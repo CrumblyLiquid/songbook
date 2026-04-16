@@ -14,22 +14,22 @@
 ]
 
 #verse[
-  #d[G]The syntax might #c[D]seem much #c[G]sweeter
-  #d[G]where objects and #c[D]subtypes #c[G]play.\
-  #d[G]But frills like #c[D]inheri#c[G]tance will
-  #d[G]only get #c[D]in the #c[G]way.\
-  #d[C]Admire C's #c[G]simple landscape
-  #d[D]efficiently #c[G]dangerous!\
-  #d[C]No templates #c[G]or fancy pitfalls
-  #d[D]like Java and #c[G]C++!
+  #c[G]The syntax might #c[D]seem much #c[G]sweeter
+  #c[G]where objects and #c[D]subtypes #c[G]play.\
+  #c[G]But frills like #c[D]inheri#c[G]tance will
+  #c[G]only get #c[D]in the #c[G]way.\
+  #c[C]Admire C's #c[G]simple landscape
+  #c[D]efficiently #c[G]dangerous!\
+  #c[C]No templates #c[G]or fancy pitfalls
+  #c[D]like Java and #c[G]C++!
 ]
 
 #chorus[
-  Program in #d[C]C!#c[G] Program in #c[D]C!#c[G]\
-  Pointers, as#d[C]sembly, manage your #c[D]memory with malloc() and #c[G]free()!\
-  Don't sink your #d[C]app with runtime #c[D]bloat,\
-  software in #d[Emi]C will stay afloat#c[A7]!\
-  Do what you #d[C]want there, close to the #c[D]hardware, program in #c[G]C!
+  Program in #c[C]C!#c[G] Program in #c[D]C!#c[G]\
+  Pointers, as#c[C]sembly, manage your #c[D]memory with malloc() and #c[G]free()!\
+  Don't sink your #c[C]app with runtime #c[D]bloat,\
+  software in #c[Emi]C will stay afloat#c[A7]!\
+  Do what you #c[C]want there, close to the #c[D]hardware, program in #c[G]C!
 ]
 
 #verse[

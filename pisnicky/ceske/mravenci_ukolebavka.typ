@@ -10,17 +10,17 @@
 )
 
 #verse[
-  #d[C]Slunce šlo #c[G]spát #c[F]za hromádku #c[G]klád\
-  #d[C]na nebi #c[F]hvězdy klí#c[G][čí.]~\
-  #d[C]Už nepra#c[G]cuj, #c[F]mravenečku #c[G]můj,\
-  #d[C]schovej se #c[F]do je#c[G]hli#c[C]čí.
+  #c[C]Slunce šlo #c[G]spát #c[F]za hromádku #c[G]klád\
+  #c[C]na nebi #c[F]hvězdy klí#c[G][čí.]~\
+  #c[C]Už nepra#c[G]cuj, #c[F]mravenečku #c[G]můj,\
+  #c[C]schovej se #c[F]do je#c[G]hli#c[C]čí.
 ]
 
 #chorus[
-  #d[C]Máš #c[F]nožičky #c[C]uběha#c[G]né,\
-  #d[C]den #c[F]byl tak tě#c[G]žký.\
-  #d[C]Pojď, #c[F]lůžko máš #c[C]odestla#c[G]né\
-  #d[C]v chládku #c[F]od maceš#c[C]ky.
+  #c[C]Máš #c[F]nožičky #c[C]uběha#c[G]né,\
+  #c[C]den #c[F]byl tak tě#c[G]žký.\
+  #c[C]Pojď, #c[F]lůžko máš #c[C]odestla#c[G]né\
+  #c[C]v chládku #c[F]od maceš#c[C]ky.
 ]
 
 #verse[

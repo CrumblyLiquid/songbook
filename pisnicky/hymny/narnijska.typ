@@ -6,20 +6,20 @@
 )
 
 #verse[
-  #d[Ami]Projdi se skříní #c[Dmi]se mnou,\
-  #d[E]Narnijská říše je #c[Ami]pod ledem.\
-  #d[Ami]Jen ten, kdo má víru #c[Dmi]pevnou,\
-  #d[E]vzkřísí včas Aslana, #c[E7]společně s ním jaro #c[Ami]přivede.
+  #c[Ami]Projdi se skříní #c[Dmi]se mnou,\
+  #c[E]Narnijská říše je #c[Ami]pod ledem.\
+  #c[Ami]Jen ten, kdo má víru #c[Dmi]pevnou,\
+  #c[E]vzkřísí včas Aslana, #c[E7]společně s ním jaro #c[Ami]přivede.
 ]
 
 #solo[ Emi Fmaj Emi Fmaj F E7 ]
 
 // TODO: Lepší značení změn v repetici\
 #chorus[
-  #d[C]Čtyři jsou trůny #c[G]z kamene,\
-  #d[Dmi]čtyři jsou koruny #c[Ami]zlace#c[E]né.\
-  *#d[Ami]temnota slábne den #c[E]ode dne,*\
-  _#d[E7]lidská krev na trůny #c[Ami]usedne._
+  #c[C]Čtyři jsou trůny #c[G]z kamene,\
+  #c[Dmi]čtyři jsou koruny #c[Ami]zlace#c[E]né.\
+  *#c[Ami]temnota slábne den #c[E]ode dne,*\
+  _#c[E7]lidská krev na trůny #c[Ami]usedne._
 ]
 
 #verse[

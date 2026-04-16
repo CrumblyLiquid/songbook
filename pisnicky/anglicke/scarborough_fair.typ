@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[Emi]Are you going to #c[D]Scarborough #c[Emi]Fair?\
-  #d[G]Parsley, #c[Emi]sage, rose#c[G]mary, #c[A]and #c[Emi]thyme\
-  Remember #d[G]me to one #c[F\#mi]who #c[Emi]lives #c[D]there\
-  Sh#d[Emi]e once #c[D]was #c[Emi]a #c[D]true #c[Emi]love #c[D]of #c[Emi]mine
+  #c[Emi]Are you going to #c[D]Scarborough #c[Emi]Fair?\
+  #c[G]Parsley, #c[Emi]sage, rose#c[G]mary, #c[A]and #c[Emi]thyme\
+  Remember #c[G]me to one #c[F\#mi]who #s[Emi]lives #c[D]there\
+  Sh#c[Emi]e once #c[D]was #c[Emi]a #s[D]true #c[Emi]love #c[D]of #c[Emi]mine
 ]
 
 #verse[

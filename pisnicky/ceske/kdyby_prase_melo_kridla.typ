@@ -7,14 +7,14 @@
 )
 
 #verse[
-  #d[F]Kdyby prase mělo křídla,
+  #c[F]Kdyby prase mělo křídla,
   #c[F]křídla jako #c[C7]pták,\
-  vyle#d[C7]těl bych na praseti někam #c[F]do #c[Db7]o#c[C7]blak.\
-  Uvi#d[F]děl bych Itálii,
+  vyle#c[C7]těl bych na praseti někam #c[F]do #c[Db7]o#w[C7]blak.\
+  Uvi#c[F]děl bych Itálii,
   #c[F]uvi#c[E]děl #c[Eb]bych #c[D7]svět,\
-  #d[B]v Rakousku bych slyšel zvonce,
+  #c[B]v Rakousku bych slyšel zvonce,
   #c[F]z výšky koukal #c[D7]na Japonce\
-  #d[G7]a pak bych se zase vrátil,
+  #c[G7]a pak bych se zase vrátil,
   #c[C7]vrátil bych se #c[F]zpět.
 ]
 

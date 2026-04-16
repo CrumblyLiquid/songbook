@@ -7,15 +7,15 @@
 )
 
 #verse[
-  #d[Dmi]V půlce ledna, ve tmě #c[Ami]tmoucí, #c[C]na hotelu v Olo#c[G]mouci.\
-  #d[Dmi]Kdo jste, pane? Šátrám #c[Ami]dlaní, řekla bych, že #c[C]Mastroia#c[G]ni.\
-  #d[Dmi]Ten je ale mrtvej #c[Ami]přece.  #c[C]Leží v zemi, a ne #c[G]v dece,\
-  #d[Dmi]pod níž slyším srdce #c[F]tlouci na hotelu #c[C]v Olomou#c[G]ci.
+  #c[Dmi]V půlce ledna, ve tmě #c[Ami]tmoucí, #c[C]na hotelu v Olo#c[G]mouci.\
+  #c[Dmi]Kdo jste, pane? Šátrám #c[Ami]dlaní, řekla bych, že #c[C]Mastroia#c[G]ni.\
+  #c[Dmi]Ten je ale mrtvej #c[Ami]přece.  #c[C]Leží v zemi, a ne #c[G]v dece,\
+  #c[Dmi]pod níž slyším srdce #c[F]tlouci na hotelu #c[C]v Olomou#c[G]ci.
 ]
 
 #chorus[
-  #rep(repeat: 3)[#d[Dmi]Na, #c[Ami]na, #c[C G]na...]\
-  #c[Dmi]Na, #c[F]na, #c[C G]na...
+  #rep(repeat: 3)[#c[Dmi]Na, #s[Ami]na, #s[C G]na...]\
+  #c[Dmi]Na, #s[F]na, #c[C G]na...
 ]
 
 #verse[
@@ -37,15 +37,15 @@
 ]
 
 #chorus[
-  #rep(repeat: 3)[#d[Emi]Na, #c[Hmi]na, #c[D A]na...]\
-  #c[Emi]Na, #c[G]na, #c[D A]na...
+  #rep(repeat: 3)[#c[Emi]Na, #s[Hmi]na, #s[D A]na...]\
+  #c[Emi]Na, #s[G]na, #c[D A]na...
 ]
 
 #verse[
-  #d[Emi]Ztěžka dýchám, byls jak #c[Hmi]zvíře. #c[D]A teď spíš, jsi se vším #c[A]smířen.\
-  #d[Emi]Do ruky si boty #c[Hmi]beru, než ti zmizím #c[D]v ranním še#c[A]ru,\
-  #d[Emi]políbím tě. To se #c[Hmi]může. #c[D]Líbám přece svého #c[A]muže.\
-  #d[Emi]Však víš - změna neu#c[G]blíží. Příští #c[D]pátek v #c[A]Kroměříži.
+  #c[Emi]Ztěžka dýchám, byls jak #c[Hmi]zvíře. #c[D]A teď spíš, jsi se vším #c[A]smířen.\
+  #c[Emi]Do ruky si boty #c[Hmi]beru, než ti zmizím #c[D]v ranním še#c[A]ru,\
+  #c[Emi]políbím tě. To se #c[Hmi]může. #c[D]Líbám přece svého #c[A]muže.\
+  #c[Emi]Však víš - změna neu#c[G]blíží. Příští #c[D]pátek v #c[A]Kroměříži.
 ]
 
 #chorus[

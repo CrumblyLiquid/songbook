@@ -26,8 +26,8 @@
 ]
 
 #nchorus[
-  Pověste ho #d[Emi]vejš, ať se houpá, pověste ho #c[G]vejš, ať má #c[D]dost,\
-  pověste ho #d[Ami]vejš, ať se #c[Emi]houpá, že tu #c[D]byl nezvanej #c[Emi]host.
+  Pověste ho #c[Emi]vejš, ať se houpá, pověste ho #c[G]vejš, ať má #c[D]dost,\
+  pověste ho #c[Ami]vejš, ať se #c[Emi]houpá, že tu #c[D]byl nezvanej #c[Emi]host.
 ]<r1>
 
 #verse[
@@ -36,14 +36,14 @@
 ]
 
 #verse[
-  Pově#d[Emi]ste ho za El Paso, za snídani #c[G]v trávě a lodní #c[D]zvon,\
-  za to, že #d[Ami]neoplýval #c[Emi]krásou,
-  že měl #d[C]country rád a že se #c[H]uměl smát i #c[Emi]vám.
+  Pově#c[Emi]ste ho za El Paso, za snídani #c[G]v trávě a lodní #c[D]zvon,\
+  za to, že #c[Ami]neoplýval #c[Emi]krásou,
+  že měl #c[C]country rád a že se #c[H]uměl smát i #c[Emi]vám.
 ]
 
 #nchorus[
-  Nad hla#d[G]vou mi slunce #c[D]pálí, konec #c[Ami]můj nic neod#c[G]dá#c[D]lí,\
-  do mých #d[G]snů se dívám z #c[D]dáli a #c[Ami]do uší mi stále zní #c[H]tahle píseň poslední.
+  Nad hla#c[G]vou mi slunce #c[D]pálí, konec #c[Ami]můj nic neod#c[G]dá#c[D]lí,\
+  do mých #c[G]snů se dívám z #c[D]dáli a #c[Ami]do uší mi stále zní #c[H]tahle píseň poslední.
 ]<r2>
 
 #verse[

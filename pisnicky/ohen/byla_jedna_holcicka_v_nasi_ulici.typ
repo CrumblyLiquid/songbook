@@ -7,17 +7,17 @@
 )
 
 #verse[
-  #d[D]Byla jedna holčička #c[A]v naší ulici,\
-  #d[A]měla ráda chlapečka #c[D]s bílou čepicí.\
-  #d[D]Z chlapečka se vyklubal #c[A]statný námořník,\
-  #d[A]svaly měl jak Herkules #c[D]tělo měl jak mník.
+  #c[D]Byla jedna holčička #c[A]v naší ulici,\
+  #c[A]měla ráda chlapečka #c[D]s bílou čepicí.\
+  #c[D]Z chlapečka se vyklubal #c[A]statný námořník,\
+  #c[A]svaly měl jak Herkules #c[D]tělo měl jak mník.
 ]
 
 #chorus[
-  #d[D]Nosil kalhoty #c[A]dole široký,\
-  #d[A]vlněný tričko #c[D]přes úzký boky.\
-  #d[D]Ona byla štíhlá #c[A]jako rybička,\
-  #d[A]oba dva se vešli do #c[D]jednoho trička.
+  #c[D]Nosil kalhoty #c[A]dole široký,\
+  #c[A]vlněný tričko #c[D]přes úzký boky.\
+  #c[D]Ona byla štíhlá #c[A]jako rybička,\
+  #c[A]oba dva se vešli do #c[D]jednoho trička.
 ]
 
 #verse[

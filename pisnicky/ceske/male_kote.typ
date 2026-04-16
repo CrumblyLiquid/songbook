@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[D]Malé #c[Hmi]kotě, #c[Emi]mňau, #c[A7]mňau,\
-  #d[D]spalo v #c[Hmi]botě, #c[Emi]mňau, #c[A7]mňau,\
-  #d[D]nehas, #c[Hmi]co tě, #c[Emi]mňau, #c[A7]mňau,\
-  #d[D]ne#c[G]pá, #c[D]ne#c[G]pá#c[D]lí.
+  #c[D]Malé #c[Hmi]kotě, #c[Emi]mňau, #c[A7]mňau,\
+  #c[D]spalo v #c[Hmi]botě, #c[Emi]mňau, #c[A7]mňau,\
+  #c[D]nehas, #c[Hmi]co tě, #c[Emi]mňau, #c[A7]mňau,\
+  #c[D]ne#c[G]pá, #c[D]ne#c[G]pá#c[D]lí.
 ]
 
 #verse[
@@ -21,8 +21,8 @@
 ]
 
 #bridge[
-  #d[A7]To, co kotě poví #c[D]ti jedním pohledem,\
-  #d[A7]to my ani slovy #c[D]povědět #c[A7]nesvedem.
+  #c[A7]To, co kotě poví #c[D]ti jedním pohledem,\
+  #c[A7]to my ani slovy #c[D]povědět #c[A7]nesvedem.
 ]
 
 #verse[
@@ -33,10 +33,10 @@
 ]
 
 #chorus[
-  #d[D]Hoši a #c[G]děvčata, #c[D]pěstujte #c[A7]koťata,\
-  #d[D]země je #c[G]kulatá a #c[D]místa #c[A7]je tu #c[D]dost.\
-  #d[D]Kotě je #c[G]solidní, #c[D]nervy vám #c[A7]uklidní,\
-  #d[D]nebuďte #c[G]nevlídní a #c[D]hned vás #c[A7]přejde #c[D]zlost.
+  #c[D]Hoši a #c[G]děvčata, #c[D]pěstujte #c[A7]koťata,\
+  #c[D]země je #c[G]kulatá a #c[D]místa #c[A7]je tu #c[D]dost.\
+  #c[D]Kotě je #c[G]solidní, #c[D]nervy vám #c[A7]uklidní,\
+  #c[D]nebuďte #c[G]nevlídní a #c[D]hned vás #c[A7]přejde #c[D]zlost.
 ]
 
 #verse[

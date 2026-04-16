@@ -7,13 +7,13 @@
 )
 
 #verse[
-  #d[D]Vlaštovko, leť #c[Hmi]přes Čínskou zeď,
+  #c[D]Vlaštovko, leť #c[Hmi]přes Čínskou zeď,
   #c[G]přes písek pouště #c[A]Gobi,\
-  #d[D]oblétni zem, #c[Hmi]vyleť až sem,
+  #c[D]oblétni zem, #c[Hmi]vyleť až sem,
   #c[G]jen ať se císař #c[A]zlobí.\
-  #d[F\#mi]Dnes v noci zdál se mi #c[Hmi]sen,
-  #c[G]že ti zrní nasypal #c[A]Ludwig van Beethoven,\
-  #d[D]vlaštovko, leť, #c[Hmi]nás, chudé, veď.#c[G A D]
+  #c[F\#mi]Dnes v noci zdál se mi #c[Hmi]sen,
+  #s[G]že ti zrní nasypal #c[A]Ludwig van Beethoven,\
+  #c[D]vlaštovko, leť, #c[Hmi]nás, chudé, veď.#c[G A D]
 ]
 
 #verse[

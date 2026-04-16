@@ -9,9 +9,9 @@
 )
 
 #chorus[
-  I got my mind #c[C\#mi]set #c[G\#7]on #c[C\#mi]you\
+  I got my mind #c[C\#mi]set #s[G\#7]on #s[C\#mi]you\
   I got my mind #c[E]set #c[H]on #c[E]you\
-  I got my mind #c[C\#mi]set #c[G\#7]on #c[C\#mi]you\
+  I got my mind #c[C\#mi]set #s[G\#7]on #s[C\#mi]you\
   I got my mind #c[E]set #c[H]on #c[E]you
 ]
 
@@ -60,7 +60,7 @@
 ]
 
 #chorus[
-  #c[C\#mi]Set #c[G\#7]on #c[C\#mi][you]~\
+  #c[C\#mi]Set #s[G\#7]on #s[C\#mi]you\
   #c[E]Set #c[H]on #c[E]you
 ]
 

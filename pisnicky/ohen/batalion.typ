@@ -10,27 +10,27 @@
 // TODO: Číslované refrény\
 // TODO: R1\
 #chorus[
-  #d[Ami]Víno #c[C]máš a #c[G]marky#c[Ami]tánku,
+  #c[Ami]Víno #c[C]máš a #c[G]marky#c[Ami]tánku,
   dlouhá #c[C]noc #c[G]se #c[Ami]pro#w[Emi]hý#w[Ami]ří,\
-  #d[Ami]víno #c[C]máš a #c[G]chvilku #c[Ami]spánku,
+  #c[Ami]víno #c[C]máš a #c[G]chvilku #c[Ami]spánku,
   // TODO: Proč jsou potřeba pomlčky???
-  #d[C]díky, dí#c[G]ky, #c[Ami][ver]#w[Emi][bí]#w[Ami]ři.
+  #c[C]díky, dí#c[G]ky, #c[Ami][ver]#w[Emi][bí]#w[Ami]ři.
 ]
 
 #verse[
-  #d[Ami]Dříve, než se rozední,
+  #c[Ami]Dříve, než se rozední,
   kapitán #c[C]k osedlání #c[G]rozkaz #c[Ami]dá#w[Emi]vá,\
-  #d[Ami]ostruhami do slabin #c[C]ko#c[G]ně #c[Ami]po#w[Emi]há#w[Ami]ní,\
-  #d[Ami]tam na straně polední čekají #c[C]ženy, zlaťá#c[G]ky a #c[Ami]slá#w[Emi]va,\
-  #d[Ami]do výstřelů z karabin #c[C]zvon #c[G]už #c[Ami]vyz#w[Emi]vá#w[Ami]ní.
+  #c[Ami]ostruhami do slabin #c[C]ko#c[G]ně #c[Ami]po#w[Emi]há#w[Ami]ní,\
+  #c[Ami]tam na straně polední čekají #c[C]ženy, zlaťá#c[G]ky a #c[Ami]slá#w[Emi]va,\
+  #c[Ami]do výstřelů z karabin #c[C]zvon #c[G]už #c[Ami]vyz#w[Emi]vá#w[Ami]ní.
 ]
 
 // TODO: R2\
 #chorus[
-  #d[Ami]Víno na ku#c[C]ráž a #c[G]pomilovat marky#c[Ami]tánku,\
-  #d[Ami]zítra do Bur#c[C]gund ba#c[G]talion #c[Ami]za#w[Emi]mí#w[Ami]ří,\
-  #d[Ami]víno na ku#c[C]ráž a #c[G]k ránu dvě hodiny #c[Ami]spán#c[Emi]ku,\
-  #d[Ami]díky, díky #c[C]vám, králov#c[G]ští #c[Ami]ver#w[Emi]bí#w[Ami]ři.
+  #c[Ami]Víno na ku#c[C]ráž a #c[G]pomilovat marky#c[Ami]tánku,\
+  #c[Ami]zítra do Bur#c[C]gund ba#c[G]talion #c[Ami]za#w[Emi]mí#w[Ami]ří,\
+  #c[Ami]víno na ku#c[C]ráž a #c[G]k ránu dvě hodiny #c[Ami]spán#c[Emi]ku,\
+  #c[Ami]díky, díky #c[C]vám, králov#c[G]ští #c[Ami]ver#w[Emi]bí#w[Ami]ři.
 ]
 
 #verse[

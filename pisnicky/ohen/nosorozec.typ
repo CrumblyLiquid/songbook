@@ -14,7 +14,7 @@
   #c[Dmi]Vznikly menší #c[Ami]potíže #c[E7]při nástupu #c[Ami]do zdviže,\
   #c[Dmi]při výstupu #c[Ami]ze zdviže #c[Esdim]už nám to šlo #c[E7]lehce.\
   #c[Ami]Vznikly větší potíže, #c[Dmi]když Božena #c[Ami]v negližé,\
-  #c[Dmi]když Božena #c[Ami]v negližé #c[Esdim (E7)]řvala, že ho #c[E7 (Ami)]nechce.
+  #c[Dmi]když Božena #c[Ami]v negližé #c[Esdim (E7)]řvala, že ho #s[E7 (Ami)]nechce.
 ]
 
 #verse[

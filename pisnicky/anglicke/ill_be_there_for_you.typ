@@ -7,19 +7,19 @@
 )
 
 #verse[
-  #d[A]So no one told you life was gonna be this #c[G]way\
-  #d[A]Your job's a joke, you're broke, your love life's D.O.#c[C\#mi]A.\
-  #d[G]It's like you're #c[Hmi]always stuck in #c[A]second gear\
-  When it #d[G]hasn't been your #c[D]day, your week, your #c[E]month\
+  #c[A]So no one told you life was gonna be this #c[G]way\
+  #c[A]Your job's a joke, you're broke, your love life's D.O.#c[C\#mi]A.\
+  #c[G]It's like you're #c[Hmi]always stuck in #c[A]second gear\
+  When it #c[G]hasn't been your #c[D]day, your week, your #c[E]month\
   Or even your year, but
 ]
 
 #chorus[
-  #d[A]I'll be #c[D]there for #c[E]you
+  #c[A]I'll be #c[D]there for #c[E]you
   (When the rain starts to pour)\
-  #d[A]I'll be #c[D]there for #c[E]you
+  #c[A]I'll be #c[D]there for #c[E]you
   (Like I've been there before)\
-  #d[A]I'll be #c[D]there for #c[E]you
+  #c[A]I'll be #c[D]there for #c[E]you
   ('Cause you're there for me #c[G]too)#c[A]
 ]
 

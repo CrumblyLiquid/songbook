@@ -11,22 +11,22 @@
 #solo[Ami G C Ami G C]
 
 #verse[
-  #d[Ami]I was scared of #c[G]dentists and the #c[C]dark\
-  #d[Ami]I was scared of #c[G]pretty girls and #c[C]starting conversations\
-  Oh, #d[Ami]all my #c[G]friends are #c[C]turning green\
-  You're the #d[Ami]magician's #c[G]assistant in their #c[C]dreams\
+  #c[Ami]I was scared of #c[G]dentists and the #c[C]dark\
+  #c[Ami]I was scared of #c[G]pretty girls and #c[C]starting conversations\
+  Oh, #c[Ami]all my #c[G]friends are #c[C]turning green\
+  You're the #c[Ami]magician's #c[G]assistant in their #c[C]dreams\
 ]
 
 #prechorus[
-  #d[Ami]Ooh, #c[G]ooh, #c[C]ooh\
-  #d[Ami]Ooh, #c[G]ooh, and they #c[C]come unstuck
+  #c[Ami]Ooh, #c[G]ooh, #c[C]ooh\
+  #c[Ami]Ooh, #c[G]ooh, and they #c[C]come unstuck
 ]
 
 #chorus[
-  #d[Ami]Lady, #c[G]running down to the #c[C]riptide, taken away\
-  To the #d[Ami]dark side, #c[G]I wanna be your #c[C]left hand man\
-  I #d[Ami]love you #c[G]when you're singing that #c[C]song, and I got a lump\
-  In my #d[Ami]throat, 'cause #c[G]you're gonna sing the wo#c[C]rds wrong
+  #c[Ami]Lady, #c[G]running down to the #c[C]riptide, taken away\
+  To the #c[Ami]dark side, #c[G]I wanna be your #c[C]left hand man\
+  I #c[Ami]love you #c[G]when you're singing that #c[C]song, and I got a lump\
+  In my #c[Ami]throat, 'cause #c[G]you're gonna sing the wo#c[C]rds wrong
 ]
 
 #verse[
@@ -45,10 +45,10 @@
 ]
 
 #bridge[
-  #d[Ami]I just wanna, I just wanna #c[G]know\
-  #d[C]If you're gonna, if you're gonna #c[Fmaj7]stay\
-  #d[Ami]I just gotta, I just gotta #c[G]know\
-  #d[C]I can't have it, I can't have it #c[Fmaj7]any other way
+  #c[Ami]I just wanna, I just wanna #c[G]know\
+  #c[C]If you're gonna, if you're gonna #c[Fmaj7]stay\
+  #c[Ami]I just gotta, I just gotta #c[G]know\
+  #c[C]I can't have it, I can't have it #c[Fmaj7]any other way
 ]
 
 #prechorus[

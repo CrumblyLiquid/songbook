@@ -10,10 +10,10 @@
 #set text(size: 0.9em)
 
 #verse[
-  #d[Dmi]V ponurém osvětlení #c[C]gotického #c[Dmi]sálu\
-  #d[F]kupčíci vyděšení #c[Gmi]hledí do mi#c[A]sálů\
-  #d[Dmi]a houfec #c[B]mordýřů si #c[C]žádá požeh#c[F]ná#c[C]ní,#c[(Gmi)]\
-  #rep[#d[Gmi]vždyť první #c[Dmi]z rytířů je #c[A7]Veličenstvo #c[Dmi]Kat.#c[(C Dmi C)]]
+  #c[Dmi]V ponurém osvětlení #c[C]gotického #c[Dmi]sálu\
+  #c[F]kupčíci vyděšení #c[Gmi]hledí do mi#c[A]sálů\
+  #c[Dmi]a houfec #c[B]mordýřů si #c[C]žádá požeh#c[F]ná#c[C]ní,#c[(Gmi)]\
+  #rep[#c[Gmi]vždyť první #c[Dmi]z rytířů je #c[A7]Veličenstvo #c[Dmi]Kat.#s[(C Dmi C)]]
 ]
 #verse[
   Kněz-ďábel, co mši slouží, z oprátky má štolu,\
@@ -22,10 +22,10 @@
   #rep[prvního z rytířů, hle: Veličenstvo Kat.]
 ]
 #chorus[
-  #d[F]Na korouhvi #c[C]státu #c[B]je emblém #c[C]s gilotinou,\
-  #d[F]z ostnatýho #c[C]drátu #c[B]páchne to #c[C]shnilotinou,\
-  #d[Gmi]v kraji hnízdí hejno krkav#c[Dmi][čí,]~\
-  #d[Gmi]lidu vládne mistr poprav#c[A]čí.
+  #c[F]Na korouhvi #c[C]státu #c[B]je emblém #c[C]s gilotinou,\
+  #c[F]z ostnatýho #c[C]drátu #c[B]páchne to #c[C]shnilotinou,\
+  #c[Gmi]v kraji hnízdí hejno krkav#c[Dmi][čí,]~\
+  #c[Gmi]lidu vládne mistr poprav#c[A]čí.
 ]
 #verse[
   Král klečí před Satanem na žezlo se těší\

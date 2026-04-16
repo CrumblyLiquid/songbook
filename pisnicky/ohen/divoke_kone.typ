@@ -7,9 +7,9 @@
 )
 
 #verse[
-  #rep[#d[Ami]Já viděl #c[Dmi]divoké #c[Ami]koně, #c[C]běželi #c[Dmi]soumra#c[Ami]kem,]\
-  #d[Dmi]vzduch #c[Ami]těžký #c[Dmi]byl a divně #c[Ami]voněl #c[Ddim][tabá]~#w[F][kem,]~\
-  #d[Dmi]vzduch #c[Ami]těžký #c[Dmi]byl a divně #c[Ami]voněl #c[E7]tabá#c[Ami]kem.
+  #rep[#c[Ami]Já viděl #c[Dmi]divoké #c[Ami]koně, #c[C]běželi #c[Dmi]soumra#c[Ami]kem,]\
+  #c[Dmi]vzduch #c[Ami]těžký #c[Dmi]byl a divně #c[Ami]voněl #c[Ddim]tabá#w[F][kem,]\
+  #c[Dmi]vzduch #c[Ami]těžký #c[Dmi]byl a divně #c[Ami]voněl #c[E7]tabá#c[Ami]kem.
 ]
 
 #verse[

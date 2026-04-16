@@ -7,8 +7,8 @@
 )
 
 #verse[
-  #d[D]Beskyde, Besky#c[A]de, kdo po tobě i#c[D]de?\
-  #rep[#d[G]Černooký bača #c[D]ovečky #c[A]za#c[A7][tá]#c[D]čá.]
+  #c[D]Beskyde, Besky#c[A]de, kdo po tobě i#c[D]de?\
+  #rep[#c[G]Černooký bača #c[D]ovečky #c[A]za#c[A7][tá]#c[D]čá.]
 ]
 
 #verse[

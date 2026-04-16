@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[G]Mívali jsme #c[D]dědečka, #c[C]starého už #c[G]pána,\
-  #d[G]stalo se to #c[D]v červenci #c[C]jednou časně #c[D]zrá#c[G]na,\
-  #d[Emi]šel do sklepa #c[C]pro vidle, #c[A]aby seno #c[D]sklízel,\
-  #d[G]už se ale #c[D]nevrátil, #c[C]prostě někam #c[D]zmi#c[G]zel.
+  #c[G]Mívali jsme #c[D]dědečka, #c[C]starého už #c[G]pána,\
+  #c[G]stalo se to #c[D]v červenci #c[C]jednou časně #c[D]zrá#c[G]na,\
+  #c[Emi]šel do sklepa #c[C]pro vidle, #c[A]aby seno #c[D]sklízel,\
+  #c[G]už se ale #c[D]nevrátil, #c[C]prostě někam #c[D]zmi#c[G]zel.
 ]
 
 #verse[
@@ -42,7 +42,7 @@
 ]
 
 #verse[
-  #d[A]Dědeček se #c[E]raduje, #c[D]že je zase #c[A]v penzi,\
-  #d[A]teď je naše #c[E]písnička #c[D]zralá pro #c[E]recen#c[A]zi.
+  #c[A]Dědeček se #c[E]raduje, #c[D]že je zase #c[A]v penzi,\
+  #c[A]teď je naše #c[E]písnička #c[D]zralá pro #c[E]recen#c[A]zi.
 ]
 

@@ -11,7 +11,7 @@
   Na #c[G]okně seděla kočka, byl horký letní den,\
   na okně seděla kočka a #c[D7]koukala se ven,\
   byl horký  letní den a kdekdo chodil bos,\
-  na okně seděla kočka, venku #c[G]zpí#c[G\#dim]val #c[D7]kos.
+  na okně seděla kočka, venku #c[G]zpí#c[G\#dim]val #s[D7]kos.
 
   Byl #c[G]horký letní den a celý #c[Hmi]svět se #c[E]smál\
   a #c[Ami]mně veselý sen se pod ja#c[D7]bloní zdál,\

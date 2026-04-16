@@ -14,8 +14,8 @@
 ]
 
 #chorus[
-  #c[G]Pá pá #c[G/F\#]pá #c[Emi][pá,] pá pa pá #c[G]pá, jejé,\
-  #c[G]Pá pá #c[G/F\#]pá #c[Emi][pá,] pá pa pá #c[G]pá.
+  #c[G]Pá pá #c[G/F\#]pá #s[Emi][pá,] pá pa pá #c[G]pá, jejé,\
+  #c[G]Pá pá #c[G/F\#]pá #s[Emi][pá,] pá pa pá #c[G]pá.
 ]
 
 #verse[

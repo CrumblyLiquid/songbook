@@ -6,10 +6,10 @@
 )
 
 #verse[
-  #d[D]Spinkat šly už všechny #c[A]dětičky,\
-  rychle je #d[C]uložit a zhasnout #c[G]lampičky,\
-  #d[D]dáme jen pár krátkých #c[A]písniček,\
-  pak do #d[C]kapitaná#c[A]tu.
+  #c[D]Spinkat šly už všechny #c[A]dětičky,\
+  rychle je #c[C]uložit a zhasnout #c[G]lampičky,\
+  #c[D]dáme jen pár krátkých #c[A]písniček,\
+  pak do #c[C]kapitaná#c[A]tu.
 ]
 
 #verse[
@@ -20,9 +20,9 @@
 ]
 
 #chorus[
-  Buzolu #d[A]neznají a s mapou #c[G]neumí,\
-  v šifrách se #d[A]ztrácejí, furt někde #c[G]kufrují,\
-  tak #d[A]konečně už #c[E]šly ty děti #c[D]spát.
+  Buzolu #c[A]neznají a s mapou #c[G]neumí,\
+  v šifrách se #c[A]ztrácejí, furt někde #c[G]kufrují,\
+  tak #c[A]konečně už #c[E]šly ty děti #c[D]spát.
 ]
 
 #verse[
@@ -44,7 +44,7 @@
   jídlo jim nechutná, ešusy ztrácejí,\
   tak konečně už šly ty děti spát.
 
-  Však #d[G]přes noc dobijí #c[D]baterky...\
-  #rep[a #d[A]zítra zase #c[E]budou řádit #c[D]dál]#c[(A)]
+  Však #c[G]přes noc dobijí #c[D]baterky...\
+  #rep[a #c[A]zítra zase #c[E]budou řádit #c[D]dál]#c[(A)]
 ]
 

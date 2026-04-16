@@ -7,10 +7,10 @@
 )
 
 #verse[
-  Když se #d[C]zamiluje kůň #c[Ami]tam někde #c[G]v pastvinách,\
-  láskou #d[F]hlubokou jak tůň #c[G]tam někde #c[C]v pastvinách,\
-  když se #d[C]zamiluje kůň #c[C7]koňskou #c[F]láskou,\
-  zpívejte #d[C]písničku pro jeho #c[G]klisničku, nechte ho #c[C]jít.
+  Když se #c[C]zamiluje kůň #c[Ami]tam někde #c[G]v pastvinách,\
+  láskou #c[F]hlubokou jak tůň #c[G]tam někde #c[C]v pastvinách,\
+  když se #c[C]zamiluje kůň #c[C7]koňskou #c[F]láskou,\
+  zpívejte #c[C]písničku pro jeho #c[G]klisničku, nechte ho #c[C]jít.
 ]
 
 #verse[

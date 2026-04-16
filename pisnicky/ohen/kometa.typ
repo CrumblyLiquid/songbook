@@ -9,10 +9,10 @@
 #set text(size: 0.9em)
 
 #verse[
-  #d[Ami]Spatřil jsem kometu, oblohou letěla,\
+  #c[Ami]Spatřil jsem kometu, oblohou letěla,\
   chtěl jsem jí zazpívat, ona mi zmizela,\
-  #d[Dmi]zmizela jako laň #c[G7]u lesa v remízku,\
-  #d[C]v očích mi zbylo jen #c[E7]pár žlutých penízků.
+  #c[Dmi]zmizela jako laň #c[G7]u lesa v remízku,\
+  #c[C]v očích mi zbylo jen #c[E7]pár žlutých penízků.
 ]
 
 #verse[
@@ -23,10 +23,10 @@
 ]
 
 #chorus[
-  #d[Ami]O vodě, o trávě, #c[Dmi]o lese,\
-  #d[G7]o smrti, se kterou smířit #c[C]nejde se,\
-  #d[Ami]o lásce, o zradě, #c[Dmi]o světě\
-  #d[E]a o všech lidech, co #c[E7]kdy žili na téhle #c[Ami]planetě.
+  #c[Ami]O vodě, o trávě, #c[Dmi]o lese,\
+  #c[G7]o smrti, se kterou smířit #c[C]nejde se,\
+  #c[Ami]o lásce, o zradě, #c[Dmi]o světě\
+  #c[E]a o všech lidech, co #c[E7]kdy žili na téhle #c[Ami]planetě.
 ]
 
 #grid(

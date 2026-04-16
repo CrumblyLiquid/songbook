@@ -7,9 +7,9 @@
 )
 
 #verse[
-  #d[Ami]Bratříčku, nevzlykej, to nejsou #c[C]bubáci,\
-  #d[G]vždyť už jsi velikej, to jsou jen #c[E7]vojáci,\
-  #d[F]přijeli v hranatých železných maringot#c[E]kách.
+  #c[Ami]Bratříčku, nevzlykej, to nejsou #c[C]bubáci,\
+  #c[G]vždyť už jsi velikej, to jsou jen #c[E7]vojáci,\
+  #c[F]přijeli v hranatých železných maringot#c[E]kách.
 ]
 
 #verse[
@@ -19,10 +19,10 @@
 ]
 
 #chorus[
-  #d[Ami]Prší #c[Emi]a  #c[Ami]venku #c[Emi]se #c[Ami]setmě#c[Emi]lo, #c[Ami Emi]\
-  #d[Ami]tato #c[Emi]noc #c[Ami~~]nebu#w[Emi]de #c[Ami~]krát#w[Emi]ká,\
-  #d[Ami]berán#c[Emi]ka #c[F]vlku #c[Ami]se #c[Dmi]zachtě#c[Ami]lo,\
-  #d[F]bratříčku, #c[Ami]zavřel jsi #c[E7]vrátka?
+  #c[Ami]Prší #s[Emi]a  #s[Ami]venku #c[Emi]se #s[Ami]setmě#s[Emi Ami Emi]lo,\
+  #c[Ami]tato #s[Emi]noc #s[Ami~~]nebu#w[Emi]de #s[Ami~]krát#w[Emi]ká,\
+  #c[Ami]berán#c[Emi]ka #s[F]vlku #c[Ami]se #s[Dmi]zachtě#c[Ami]lo,\
+  #c[F]bratříčku, #c[Ami]zavřel jsi #c[E7]vrátka?
 ]
 
 #verse[

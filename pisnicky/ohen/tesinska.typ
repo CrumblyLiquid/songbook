@@ -8,14 +8,14 @@
 
 // TODO: Pozice akordů F E Ami
 #verse[
-  #d[Ami]Kdybych se narodil #c[Dmi]před sto lety
-  #d[F]v #c[E]tomhle #c[Ami]městě,#c[Dmi F E Ami][~]~\
-  #d[Ami]u Larischů na zahradě #c[Dmi]trhal bych květy
-  #d[F]své #c[E]ne#c[Ami]věstě,#c[Dmi F E Ami][~]~\
-  #d[C]moje nevěsta by #c[Dmi]byla dcera ševcova\
-  #d[F]z domu Kamiňskich #c[C]odněkud ze Lvova,\
-  #d[Ami]kochal bym ja i #c[Dmi]pieščil,
-  #d[F]chy#c[E]ba lat #c[Ami]dwieščie.#c[Dmi F E Ami]
+  #c[Ami]Kdybych se narodil #c[Dmi]před sto lety
+  #c[F]v #c[E]tomhle #c[Ami]městě,#c[Dmi F E Ami][~]~\
+  #c[Ami]u Larischů na zahradě #c[Dmi]trhal bych květy
+  #c[F]své #c[E]ne#c[Ami]věstě,#c[Dmi F E Ami][~]~\
+  #c[C]moje nevěsta by #c[Dmi]byla dcera ševcova\
+  #c[F]z domu Kamiňskich #c[C]odněkud ze Lvova,\
+  #c[Ami]kochal bym ja i #c[Dmi]pieščil,
+  #c[F]chy#c[E]ba lat #c[Ami]dwieščie.#c[Dmi F E Ami]
 ]
 #verse[
   Bydleli bychom na Sachsenbergu v domě u žida Kohna,\

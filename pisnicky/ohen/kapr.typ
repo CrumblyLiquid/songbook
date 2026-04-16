@@ -7,8 +7,8 @@
 )
 
 #verse[
-  Na rybní#d[C]ce jsou velké vl#c[Dmi]ny, dělají #c[G7]se od příro#c[C]dy,\
-  kapr, ten #d[C]je opatr#c[Dmi]ný, nevystr#c[G7]čí čumák z vo#c[C]dy.
+  Na rybní#c[C]ce jsou velké vl#c[Dmi]ny, dělají #c[G7]se od příro#c[C]dy,\
+  kapr, ten #c[C]je opatr#c[Dmi]ný, nevystr#c[G7]čí čumák z vo#c[C]dy.
 ]
 
 #chorus[

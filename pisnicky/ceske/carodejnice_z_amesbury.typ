@@ -8,10 +8,10 @@
 )
 
 #verse[
-  Zuzana #d[Dmi]byla dívka, #c[C]která žila #c[Dmi]v Amesbury,\
-  s jasnýma #d[F]očima a #c[C]řečmi pánům #c[Dmi]navzdory,\
-  souse#d[F]dé o ní #c[C]říkali, že #c[Dmi]temná kouzla #c[Ami]zná\
-  a #d[B]že se lidem #c[Ami]vyhýbá a s #c[B]ďáblem #c[C]pletky #c[Dmi]má.
+  Zuzana #c[Dmi]byla dívka, #c[C]která žila #c[Dmi]v Amesbury,\
+  s jasnýma #c[F]očima a #c[C]řečmi pánům #c[Dmi]navzdory,\
+  souse#c[F]dé o ní #c[C]říkali, že #c[Dmi]temná kouzla #c[Ami]zná\
+  a #c[B]že se lidem #c[Ami]vyhýbá a s #c[B]ďáblem #c[C]pletky #c[Dmi]má.
 ]
 
 #verse[

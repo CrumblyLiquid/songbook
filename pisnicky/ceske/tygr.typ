@@ -7,13 +7,13 @@
 )
 
 #verse[
-  Když #d[E]tygr jede #c[F\#mi]do Paříže,\
-  ne#d[H]bo i třeba někam blí#c[E]že,\
-  vždy#d[E]cky si s sebou #c[F\#mi]veze mříže,\
-  pro#d[H]tože totiž dobře ví, #c[E]že\
-  jak#d[H]mile #c[F\#7]bude #c[H]bez mříží,\
-  tak #d[H]se s ním #c[F\#7]nikdo #c[H7]nesblíží\
-  na#d[E]opak každý #c[F\#mi]se mu vzdálí.\
-  U#d[H7]bohý tygr, chudák ma#c[E]lý!
+  Když #c[E]tygr jede #c[F\#mi]do Paříže,\
+  ne#c[H]bo i třeba někam blí#c[E]že,\
+  vždy#c[E]cky si s sebou #c[F\#mi]veze mříže,\
+  pro#c[H]tože totiž dobře ví, #c[E]že\
+  jak#c[H]mile #c[F\#7]bude #c[H]bez mříží,\
+  tak #c[H]se s ním #c[F\#7]nikdo #c[H7]nesblíží\
+  na#c[E]opak každý #c[F\#mi]se mu vzdálí.\
+  U#c[H7]bohý tygr, chudák ma#c[E]lý!
 ]
 

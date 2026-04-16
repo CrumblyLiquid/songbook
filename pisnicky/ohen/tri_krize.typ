@@ -9,16 +9,16 @@
 #set par(leading: 0.5em)
 
 #verse[
-  #d[Dmi]Dávám sbohem všem #c[C]břehům prokla#c[Ami]tejm,\
-  který #d[Dmi]v drápech má #c[Ami]ďábel #c[Dmi]sám,\
-  #d[Dmi]bílou přídí #c[C]šalupa "My #c[Ami]Grave"\
-  míří #d[Dmi]k útesům, #c[Ami]který #c[Dmi]znám.
+  #c[Dmi]Dávám sbohem všem #c[C]břehům prokla#c[Ami]tejm,\
+  který #c[Dmi]v drápech má #c[Ami]ďábel #c[Dmi]sám,\
+  #c[Dmi]bílou přídí #c[C]šalupa "My #c[Ami]Grave"\
+  míří #c[Dmi]k útesům, #c[Ami]který #c[Dmi]znám.
 ]
 #chorus[
-  Jen tři #d[F]kříže z bí#c[C]lýho kame#c[Ami]ní\
-  někdo #d[Dmi]do písku #c[Ami]posklá#c[Dmi]dal,\
-  slzy #d[F]v očích měl a #c[C]v ruce, znave#c[Ami]ný,\
-  lodní #d[Dmi]deník, co #c[Ami]sám do něj #c[Dmi]psal.
+  Jen tři #c[F]kříže z bí#c[C]lýho kame#c[Ami]ní\
+  někdo #c[Dmi]do písku #c[Ami]posklá#c[Dmi]dal,\
+  slzy #c[F]v očích měl a #c[C]v ruce, znave#c[Ami]ný,\
+  lodní #c[Dmi]deník, co #c[Ami]sám do něj #c[Dmi]psal.
 ]
 #verse[
   První kříž má pod sebou jen hřích,\

@@ -7,20 +7,20 @@
 )
 
 #verse[
-  Its #d[C]cold out#c[Emi]side,\
-  There's #d[F]no kind of atmosphere,\
-  I'm #d[C]all #c[Gmi]alone,\
-  #d[Dmi]More or #c[A]less.
+  Its #c[C]cold out#c[Emi]side,\
+  There's #c[F]no kind of atmosphere,\
+  I'm #c[C]all #c[Gmi]alone,\
+  #c[Dmi]More or #c[A]less.
 ]
 
 #prechorus[
-  #d[F]Let me fly,
-  #d[D7/F\#]Far away from here,
+  #c[F]Let me fly,
+  #c[D7/F\#]Far away from here,
 ]
 
 #chorus[
-  #d[C]Fun, #c[C7]fun, #c[Asus4]fun, ...#c[A]\
-  In the #d[Dmi]sun, #c[Fmi]sun, #c[G]sun.
+  #c[C]Fun, #c[C7]fun, #c[Asus4 A]fun, ...\
+  In the #c[Dmi]sun, #s[Fmi]sun, #c[G]sun.
 ]
 
 #verse[

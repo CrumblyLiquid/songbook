@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[D]Kolik je na světě #c[Hmi (A)]očí\
-  #d[D]kolik je na světě #c[Emi]snů\
-  #d[Emi]kolik se koleček #c[F\#mi]točí\
-  #d[G]kolik je nocí a #c[A]dnů.
+  #c[D]Kolik je na světě #c[Hmi (A)]očí\
+  #c[D]kolik je na světě #c[Emi]snů\
+  #c[Emi]kolik se koleček #c[F\#mi]točí\
+  #c[G]kolik je nocí a #c[A]dnů.
 ]
 
 #verse[
@@ -21,10 +21,10 @@
 ]
 
 #chorus[
-  #d[D]Toho i toho je #c[A]mnoho\
-  #d[C]lidí a věcí a #c[G]jmen\
-  #d[D]jediné slunce je #c[A]jedno\
-  #d[A]a to když #c[Hmi]vyjde #c[G]je den.
+  #c[D]Toho i toho je #c[A]mnoho\
+  #c[C]lidí a věcí a #c[G]jmen\
+  #c[D]jediné slunce je #c[A]jedno\
+  #c[A]a to když #c[Hmi]vyjde #c[G]je den.
 ]
 
 #verse[

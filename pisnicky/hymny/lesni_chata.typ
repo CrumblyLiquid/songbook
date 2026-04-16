@@ -6,17 +6,17 @@
 )
 
 #verse[
-  Já pořád #d[G]vzpomínám si ještě na ten #c[D]čas,\
-  bylo tam #d[C]děvče mělo krásný něžný #c[D]hlas,\
-  #d[Ami]fóry tahal jsem z ruky, #c[C]s kytarou zpíval sloky,\
-  #d[G]a pak jsem odjel #c[D]zas...
+  Já pořád #c[G]vzpomínám si ještě na ten #c[D]čas,\
+  bylo tam #c[C]děvče mělo krásný něžný #c[D]hlas,\
+  #c[Ami]fóry tahal jsem z ruky, #c[C]s kytarou zpíval sloky,\
+  #c[G]a pak jsem odjel #c[D]zas...
 ]
 
 #chorus[
-  #d[Ami]Vracím se do chaty, #c[C]vracíme se do chaty,\
-  #d[G]já i můj #c[D]společ#c[Emi]ník chytrák ušatý,\
-  #d[Ami]dívka už není #c[D]tam,\
-  (jsem) #d[Emi7]sám sám #c[C]sám, jedu tam #c[G]sám.
+  #c[Ami]Vracím se do chaty, #c[C]vracíme se do chaty,\
+  #c[G]já i můj #c[D]společ#c[Emi]ník chytrák ušatý,\
+  #c[Ami]dívka už není #c[D]tam,\
+  (jsem) #c[Emi7]sám sám #c[C]sám, jedu tam #c[G]sám.
 ]
 
 #verse[

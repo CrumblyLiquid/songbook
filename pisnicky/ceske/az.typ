@@ -10,10 +10,10 @@
 // TODO: Akordy? Neznám písničku, tak to nemůžu moc verifikovat
 
 #verse[
-  #d[Ami]Až rozpustím #c[D]dým a k tomu sko#c[G]nčí další #c[C]den,\
-  tak #d[G6]půjdem #c[Ami]oba #c[D]domů za tím #c[G]svým #c[C]štěs#c[G6]tím.\
-  #d[Ami]Jsem kolem#c[D]jdoucí z davu, #c[G]součást osu#c[C]du\
-  a #d[G6]budu #c[Ami]tebou #c[D]znovu oslněn. #c[G]
+  #c[Ami]Až rozpustím #c[D]dým a k tomu sko#c[G]nčí další #c[C]den,\
+  tak #c[G6]půjdem #c[Ami]oba #c[D]domů za tím #c[G]svým #c[C]štěs#c[G6]tím.\
+  #c[Ami]Jsem kolem#c[D]jdoucí z davu, #c[G]součást osu#c[C]du\
+  a #c[G6]budu #c[Ami]tebou #c[D]znovu oslněn. #c[G]
 ]
 
 #verse[

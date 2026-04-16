@@ -8,10 +8,10 @@
 
 // TODO: Je posunutí D v 1. a 3. řádku dopředu správně?
 #verse[
-  #d[Emi]Zatan#c[G]či, má milá#c[D], zatanči #c[Emi]pro mé oči,\
-  #d[Emi]zatan#c[G]či a vetkni #c[D]nůž do mých #c[Emi]zad,\
-  #d[Emi]ať tvůj #c[G]šat, má milá#c[D], ať tvůj šat #c[Emi]na zemi skončí,\
-  #d[Emi]ať tvůj #c[G]šat, má milá, #c[D]rázem je #c[Emi]sňat.
+  #c[Emi]Zatan#c[G]či, má milá#c[D], zatanči #c[Emi]pro mé oči,\
+  #c[Emi]zatan#c[G]či a vetkni #c[D]nůž do mých #c[Emi]zad,\
+  #c[Emi]ať tvůj #c[G]šat, má milá#c[D], ať tvůj šat #c[Emi]na zemi skončí,\
+  #c[Emi]ať tvůj #c[G]šat, má milá, #c[D]rázem je #c[Emi]sňat.
 ]
 #chorus[
   Zatanči, jako se okolo ohně tančí,\

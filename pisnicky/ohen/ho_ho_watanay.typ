@@ -7,13 +7,13 @@
 )
 
 #verse[
-  #d[D]Spinkej, můj maličký, #c[C]máš v očích #c[D]hvězdičky,\
-  dám ti je #d[C]do vlasů, tak #c[G]usínej, tak #c[D]usínej.
+  #c[D]Spinkej, můj maličký, #c[C]máš v očích #c[D]hvězdičky,\
+  dám ti je #c[C]do vlasů, tak #c[G]usínej, tak #c[D]usínej.
 ]
 
 #chorus[
-  #d[D]Ho ho Watanay, #c[C]ho ho #c[D]Watanay,\
-  #d[D]ho ho #c[C]Watanay, Ki#c[G]okena, Ki#c[D]okena.
+  #c[D]Ho ho Watanay, #c[C]ho ho #c[D]Watanay,\
+  #c[D]ho ho #c[C]Watanay, Ki#c[G]okena, Ki#c[D]okena.
 ]
 
 #verse[

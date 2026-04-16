@@ -8,15 +8,15 @@
 
 // TODO: Uvozovky\
 #verse[
-  #d[C]Jednou plác' mě #c[F]přes rameno #c[G7]Johny zvanej #c[C]Knecht:\
-  "#d[Ami]Mám pro tebe, #c[Dmi]hochu, v pácu #c[G7]moc fajnovej #c[C]kšeft!"\
-  #d[C]Objednal hned #c[F]litr rumu #c[G7]a pak něžně #c[C]řval:\
-  "#d[Ami]Sbal se, jedem #c[Dmi]na velryby, #c[G7]prej až za po#c[C]lár."
+  #c[C]Jednou plác' mě #c[F]přes rameno #c[G7]Johny zvanej #c[C]Knecht:\
+  "#c[Ami]Mám pro tebe, #c[Dmi]hochu, v pácu #c[G7]moc fajnovej #c[C]kšeft!"\
+  #c[C]Objednal hned #c[F]litr rumu #c[G7]a pak něžně #c[C]řval:\
+  "#c[Ami]Sbal se, jedem #c[Dmi]na velryby, #c[G7]prej až za po#c[C]lár."
 ]
 #chorus[
   #rep[
-    Výprava #d[C]velrybářská #c[F]kolem Grónska #c[G7]nezdařila #c[C]se,\
-    protože #d[Ami]nejeli jsme #c[Dmi]na velryby, #c[G7]ale na mro#c[C]že.
+    Výprava #c[C]velrybářská #c[F]kolem Grónska #c[G7]nezdařila #c[C]se,\
+    protože #c[Ami]nejeli jsme #c[Dmi]na velryby, #c[G7]ale na mro#c[C]že.
   ]
 ]
 #verse[

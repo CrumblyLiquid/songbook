@@ -9,20 +9,20 @@
 #solo[Em D A Em]
 
 #verse[
-  Ještě #d[Emi]spí a spí a spí, zámek #c[D]šípkový,\
-  #d[Emi]žádný princ tam v lesích, #c[Hmi]ptáky neloví.\
-  Ještě #d[Emi]spí a spí a spí, dívka #c[D]zakletá,\
-  #d[Emi]u lůžka jí planá, #c[Hmi]růže rozkvétá.#c[(C)]
+  Ještě #c[Emi]spí a spí a spí, zámek #c[D]šípkový,\
+  #c[Emi]žádný princ tam v lesích, #c[Hmi]ptáky neloví.\
+  Ještě #c[Emi]spí a spí a spí, dívka #c[D]zakletá,\
+  #c[Emi]u lůžka jí planá, #c[Hmi]růže rozkvétá.#c[(C)]
 ]
 
 #chorus[
-  #d[G]To se #c[A]schválně dětem #c[Emi]říká,\
-  #d[C]aby s #c[D]důvěrou šly #c[G]spát, #c[H7]klidně spát,\
-  že se #d[Emi]dům probou#c[D]zí a ta #c[G]kráska proci#c[C]tá,#c[(Hmi)]\
-  #d[Ami]zatím spí tam #c[Hmi]dál, spí tam v #c[Emi]růžích.
+  #c[G]To se #c[A]schválně dětem #c[Emi]říká,\
+  #c[C]aby s #c[D]důvěrou šly #c[G]spát, #c[H7]klidně spát,\
+  že se #c[Emi]dům probou#c[D]zí a ta #c[G]kráska proci#c[C]tá,#c[(Hmi)]\
+  #c[Ami]zatím spí tam #c[Hmi]dál, spí tam v #c[Emi]růžích.
 ]
 
-#solo[Em A Em A Em G A Em]
+#solo[Emi A Emi A Emi G A Emi]
 
 #verse[
   Kdo ji ústa k ústům dá, kdo ji zachrání,\
@@ -36,7 +36,7 @@
 ]
 
 #verse[
-  #d[Emi]Musíš vyjít #c[D]sám, nesmíš #c[G]věřit pohád#c[C]kám,#c[(Hmi)]\
-  #d[Ami]čeká dívka #c[Hmi]dál, spí tam v #c[Emi]růžích,\
-  #d[C]čeká dívka #c[Hmi]dál, spí tam v #c[E]růžích.
+  #c[Emi]Musíš vyjít #c[D]sám, nesmíš #c[G]věřit pohád#c[C]kám,#c[(Hmi)]\
+  #c[Ami]čeká dívka #c[Hmi]dál, spí tam v #c[Emi]růžích,\
+  #c[C]čeká dívka #c[Hmi]dál, spí tam v #c[E]růžích.
 ]

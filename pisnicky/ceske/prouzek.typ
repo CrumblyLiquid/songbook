@@ -7,17 +7,17 @@
 )
 
 #verse[
-  Ten #d[E]mír, když #c[H7]za kopcem #c[A]sví#c[E]tá,\
-  když #d[A]vystřídá se s #c[H7]nocí #c[E]den,\
-  a #d[E]proužek dýmu z #c[H7]dřeva slunce #c[A]ví#c[E]tá,\
-  z #d[A]kytky motýl #c[H7]vylít' #c[E]ven.
+  Ten #c[E]mír, když #c[H7]za kopcem #c[A]sví#c[E]tá,\
+  když #c[A]vystřídá se s #c[H7]nocí #c[E]den,\
+  a #c[E]proužek dýmu z #c[H7]dřeva slunce #c[A]ví#c[E]tá,\
+  z #c[A]kytky motýl #c[H7]vylít' #c[E]ven.
 ]
 
 #chorus[
-  #d[E]Někdo škrtne sirkou, někdo #c[A]zpí#c[E]vá,\
-  #d[A]někdo ještě zkouší #c[E]spát,\
-  u #d[E]potoka #c[H7]do vody se #c[A]dí#c[E]vá\
-  #d[A]jedna holka, #c[H7]co mám #c[E]rád.
+  #c[E]Někdo škrtne sirkou, někdo #c[A]zpí#c[E]vá,\
+  #c[A]někdo ještě zkouší #c[E]spát,\
+  u #c[E]potoka #c[H7]do vody se #c[A]dí#c[E]vá\
+  #c[A]jedna holka, #c[H7]co mám #c[E]rád.
 ]
 
 #verse[

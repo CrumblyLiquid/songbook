@@ -7,16 +7,16 @@
 )
 
 #verse[
-  #d[Ami]Když se snáší noc na střechy Petěrburgu, #c[F]padá #c[E]na mě #c[Ami][žal,]~\
-  #d[Ami]zatoulaný pes nevzal si ani kůrku #c[F]chleba,\
-  kterou #d[E]jsem mu #c[Ami]dal.
+  #c[Ami]Když se snáší noc na střechy Petěrburgu, #c[F]padá #c[E]na mě #c[Ami][žal,]~\
+  #c[Ami]zatoulaný pes nevzal si ani kůrku #c[F]chleba,\
+  kterou #c[E]jsem mu #c[Ami]dal.
 ]
 
 #chorus[
   #rep[
-    #d[C]Lásku moji #c[Dmi]kníže I#c[E]gor si bere,\
-    #d[F]nad sklenkou vodky #c[H7]hraju si #c[E]s revolverem,\
-    #d[Ami]havran usedá na střechy Petěrburgu, #c[F]čert a#c[E]by to #c[Ami]spral.
+    #c[C]Lásku moji #c[Dmi]kníže I#c[E]gor si bere,\
+    #c[F]nad sklenkou vodky #c[H7]hraju si #c[E]s revolverem,\
+    #c[Ami]havran usedá na střechy Petěrburgu, #c[F]čert a#c[E]by to #c[Ami]spral.
   ]
 ]
 

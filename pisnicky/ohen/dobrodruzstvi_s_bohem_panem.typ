@@ -9,17 +9,17 @@
 // TODO: Číslování refrénů
 
 #verse[
-  #d[Hmi]Je půlnoc nádherná #c[A]spí i lucerna,\
-  #d[G]tys mě opustil #c[F\#]ospalou.\
-  Tu v #d[Hmi]hloubi zahrady #c[A]cítím úklady\
-  s #d[G]píštalou #c[F\#]někdo sem #c[Hmi]kráčí.
+  #c[Hmi]Je půlnoc nádherná #c[A]spí i lucerna,\
+  #c[G]tys mě opustil #c[F\#]ospalou.\
+  Tu v #c[Hmi]hloubi zahrady #c[A]cítím úklady\
+  s #c[G]píštalou #c[F\#]někdo sem #c[Hmi]kráčí.
 ]
 // R1\
 #chorus[
-  #d[D]Hrál náramně #c[A]krásně a na mě\
-  #d[G]tíha podivná #c[F\#]doléhá.\
-  #d[D]Hrál náramně, #c[A]známě neznámě,\
-  #d[G]něha a #c[F\#]hudba až #c[Hmi]k pláči.
+  #c[D]Hrál náramně #c[A]krásně a na mě\
+  #c[G]tíha podivná #c[F\#]doléhá.\
+  #c[D]Hrál náramně, #c[A]známě neznámě,\
+  #c[G]něha a #c[F\#]hudba až #c[Hmi]k pláči.
 ]
 
 #verse[

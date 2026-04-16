@@ -14,17 +14,17 @@
 #solo[#rep(repeat: 3)[G C D]]
 
 #verse[
-  Já #d[G]potkal jsem Tě na ulici, #c[C]byla jsi #c[D]jako #c[G]dělo#c[C D]\
-  a #d[G]do tmy svítilo tvoje mladý #c[C]bílý #c[D]smělý #c[G]čelo#c[C D]\
-  a #d[G]pod paží sis nesla svoje #c[C]oblíbený #c[D]Mala#c[G]gelo...
+  Já #c[G]potkal jsem Tě na ulici, #c[C]byla jsi #c[D]jako #c[G]dělo#c[C D]\
+  a #c[G]do tmy svítilo tvoje mladý #c[C]bílý #c[D]smělý #c[G]čelo#c[C D]\
+  a #c[G]pod paží sis nesla svoje #c[C]oblíbený #c[D]Mala#c[G]gelo...
 ]
 
 
 #chorus[
-  #d[G]Mala, mala, #c[C]Mala#c[D]gelo,\
-  #d[G]mala, mala, mala, #c[C]Mala#c[D]gelo,\
-  #d[G]mala a mala, #c[C]Mala#c[D]gelo,\
-  #d[G]mala, mala, mala, #c[C]Mala#c[D]gelo.
+  #c[G]Mala, mala, #c[C]Mala#c[D]gelo,\
+  #c[G]mala, mala, mala, #c[C]Mala#c[D]gelo,\
+  #c[G]mala a mala, #c[C]Mala#c[D]gelo,\
+  #c[G]mala, mala, mala, #c[C]Mala#c[D]gelo.
 ]
 
 
@@ -41,9 +41,9 @@
 
 
 #bridge[
-  Tak #d[G]puč mi puč, #c[C]Mala#c[D]gelo,\
-  #d[G]puč mi puč, #c[C]Mala#c[D]gelo.\
-  #d[G]puč mi puč, #c[C]Mala#c[D]gééééééé#c[G]lóóóó.#c[C D]
+  Tak #c[G]puč mi puč, #c[C]Mala#c[D]gelo,\
+  #c[G]puč mi puč, #c[C]Mala#c[D]gelo.\
+  #c[G]puč mi puč, #c[C]Mala#c[D]gééééééé#c[G]lóóóó.#c[C D]
 ]
 
 

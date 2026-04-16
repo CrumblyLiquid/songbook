@@ -9,7 +9,7 @@
 )
 
 #verse[
-  #d[D]Maminko, tatínku, posílám vám #c[A]vzpomínku\
+  #c[D]Maminko, tatínku, posílám vám #c[A]vzpomínku\
   z letního tábora, jistě víte, že vám píše\
   Vaše dcera Barbo#c[D]ra.\
   #c[D]Strava se nedá jíst, dneska byl jen #c[A]zelný list,\
@@ -28,11 +28,11 @@
 
 #chorus[
   Proč jsem se #c[Emi]nenarodila #c[A]o pár let #c[D]dřív?\
-  #d[Hmi]Dneska bych #c[Emi]krásně chodila #c[A]se Štefanem, co #c[D]řiká si Stýv.\
-  #d[D7]Proč jste mě #c[Emi]prostě neměli
-  #d[A]o pár let #c[Dsus2]dří#w[D]ve?\
-  #d[Hmi]Řekla bych: "#c[Emi]Nebuď nesmělý,
-  #d[Asus2]lí#w[A]bej mě #c[Dsus4]Stý#w[D]ve."
+  #c[Hmi]Dneska bych #c[Emi]krásně chodila #c[A]se Štefanem, co #c[D]řiká si Stýv.\
+  #c[D7]Proč jste mě #c[Emi]prostě neměli
+  #c[A]o pár let #c[Dsus2]dří#w[D]ve?\
+  #c[Hmi]Řekla bych: "#c[Emi]Nebuď nesmělý,
+  #c[Asus2]lí#w[A]bej mě #c[Dsus4]Stý#w[D]ve."
 ]
 
 #verse[

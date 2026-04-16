@@ -11,14 +11,14 @@
 #solo[C F C F C F G]
 
 #verse[
-  #d[G]Král #c[F]do boje #c[C]táh#c[F][,] #c[C]do #c[F]veliké #c[C]dálky,#c[F C]\
-  a #d[F]s ním do té #c[C]války #c[G7]jel na mezku #c[C]klaun.\
-  #d[G]Než #c[F]hledí si #c[C]stáh#c[F][,]  #c[C]tak #c[F]z výrazu #c[C]tváře,#c[F C]\
-  bys #d[F]nepoznal #c[C]lháře, #c[G7]co zakrývá #c[C]strach.\
-  #d[G7]Tiše šeptal při té hrůze: "#c[C]Inter arma silent musae,"\
-  #d[D]místo zvonku cinkal brně#c[G7 F\#7 G7]ním.\
-  #d[G7]Král #c[F]do boje #c[C]táh#c[F][,] #c[C]do #c[F]veliké #c[C]dálky,#c[F C]\
-  a #d[F]s ním do té #c[C]války #c[G7]jel na mezku #c[C]klaun.#c[E F C D7]
+  #c[G]Král #c[F]do boje #c[C]táh#c[F][,] #c[C]do #c[F]veliké #c[C]dálky,#c[F C]\
+  a #c[F]s ním do té #c[C]války #c[G7]jel na mezku #c[C]klaun.\
+  #c[G]Než #c[F]hledí si #c[C]stáh#c[F][,]  #c[C]tak #c[F]z výrazu #c[C]tváře,#c[F C]\
+  bys #c[F]nepoznal #c[C]lháře, #c[G7]co zakrývá #c[C]strach.\
+  #c[G7]Tiše šeptal při té hrůze: "#c[C]Inter arma silent musae,"\
+  #c[D]místo zvonku cinkal brně#c[G7 F\#7 G7]ním.\
+  #c[G7]Král #c[F]do boje #c[C]táh#c[F][,] #c[C]do #c[F]veliké #c[C]dálky,#c[F C]\
+  a #c[F]s ním do té #c[C]války #c[G7]jel na mezku #c[C]klaun.#c[E F C D7]
 ]
 
 #verse[

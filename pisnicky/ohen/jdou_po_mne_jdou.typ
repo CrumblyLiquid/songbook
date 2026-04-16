@@ -7,11 +7,11 @@
 )
 
 #verse[
-  Býval jsem #d[D]chudý jak #c[G]kostelní #c[D]myš,\
-  na půdě #d[F\#mi]půdy jsem #c[G]míval svou #c[A]skrýš,\
+  Býval jsem #c[D]chudý jak #c[G]kostelní #c[D]myš,\
+  na půdě #c[F\#mi]půdy jsem #c[G]míval svou #c[A]skrýš,\
   #rep[
-    #d[G]pak jednou #c[D]v létě #c[A]řek' jsem si: #c[Hmi][ať,]~\
-    #d[G]svět facku#c[D]je tě, a #c[G]tak mu to #c[D]vrať.
+    #c[G]pak jednou #c[D]v létě #c[A]řek' jsem si: #c[Hmi][ať,]~\
+    #c[G]svět facku#c[D]je tě, a #c[G]tak mu to #c[D]vrať.
   ]
 ]
 
@@ -25,10 +25,10 @@
 ]
 
 #chorus[
-  Jdou po mně, #d[D]jdou, #c[G]jdou, #c[D]jdou,\
-  na každém #d[F\#mi]rohu ma#c[G]jí fotku #c[A]mou,\
-  #d[G]kdyby mě #c[D]chytli, #c[A]jó, byl by #c[Hmi][ring,]~\
-  #d[G]tma jako #c[D]v pytli je #c[C]v celách Sing-#c[G]sing.#c[A D]
+  Jdou po mně, #c[D]jdou, #c[G]jdou, #c[D]jdou,\
+  na každém #c[F\#mi]rohu ma#c[G]jí fotku #c[A]mou,\
+  #c[G]kdyby mě #c[D]chytli, #c[A]jó, byl by #c[Hmi][ring,]~\
+  #c[G]tma jako #c[D]v pytli je #c[C]v celách Sing-#c[G]sing.#c[A D]
 ]
 
 #grid(

@@ -6,17 +6,17 @@
 )
 
 #verse[
-  #d[Ami]Ráno svítá nad manéží Petěrburgu,\
-  #d[F]šelmy #c[E]ještě #c[Ami]spí.\
-  #d[Ami]Do Ruska třeba přidat na hodinkách\
-  #d[F]o ho#c[E]dinu #c[Ami]víc.
+  #c[Ami]Ráno svítá nad manéží Petěrburgu,\
+  #c[F]šelmy #c[E]ještě #c[Ami]spí.\
+  #c[Ami]Do Ruska třeba přidat na hodinkách\
+  #c[F]o ho#c[E]dinu #c[Ami]víc.
 ]
 // TODO: Zkontrolovat pozice akordů\
 #chorus[
-  V#d[C] zákulisí #c[Dmi]nervózní #c[E]akrobati\
-  #d[F]přemety cvi#c[H7]čí, proto#c[E]že čas se krátí.\
-  #d[Ami]Do Ruska třeba přidat na hodinkách\
-  #d[F]o ho#c[E]dinu #c[Ami]víc.
+  V#c[C] zákulisí #c[Dmi]nervózní #c[E]akrobati\
+  #c[F]přemety cvi#c[H7]čí, proto#c[E]že čas se krátí.\
+  #c[Ami]Do Ruska třeba přidat na hodinkách\
+  #c[F]o ho#c[E]dinu #c[Ami]víc.
 ]
 
 #verse[

@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[F]Yesterday\
-  #d[Emi7]All my #c[A7]troubles seemed so #c[Dmi]far away#c[Dmi/C][~]~\
-  #d[B]Now it #c[C7]looks as though they're #c[F]here to stay\
-  #d[F/E]Oh, #c[Dmi]I be#w[G7]lieve in #c[B]yes#c[F]ter#c[F]day
+  #c[F]Yesterday\
+  #c[Emi7]All my #c[A7]troubles seemed so #c[Dmi]far away#c[Dmi/C][~]~\
+  #c[B]Now it #c[C7]looks as though they're #c[F]here to stay\
+  #c[F/E]Oh, #c[Dmi]I be#w[G7]lieve in #c[B]yes#c[F]ter#c[F]day
 ]
 
 #verse[
@@ -21,9 +21,9 @@
 ]
 // TODO: Upravit vzdálenosti\
 #chorus[
-  #c[Emi7]Why #c[A7]she #c[Dmi]had #c[Dmi/C]to #c[B]go\
+  #c[Emi7]Why #s[A7]she #c[Dmi]had #s[Dmi/C]to #s[B]go\
   I don't #c[Gmi]know, she #c[C]wouldn't #c[F]say\
-  #c[Emi7]I  #c[A7]said #c[Dmi]some#c[Dmi/C]thing  #c[B]wrong\
+  #c[Emi7]I  #s[A7]said #c[Dmi]some#c[Dmi/C]thing #s[B]wrong\
   Now I #c[Gmi]long for #c[C]yester#c[F]day
 ]
 #verse[

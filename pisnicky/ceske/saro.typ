@@ -9,8 +9,8 @@
 )
 
 #chorus[
-  #d[Ami]Sáro, #c[Emi]Sáro, #c[F]v noci se mi #c[C]zdálo,\
-  že #d[F]tři andělé #c[C]Boží k nám #c[F]přišli na o#c[G]běd\
+  #c[Ami]Sáro, #c[Emi]Sáro, #c[F]v noci se mi #c[C]zdálo,\
+  že #c[F]tři andělé #c[C]Boží k nám #c[F]přišli na o#c[G]běd\
   Sáro, Sáro, jak moc a nebo málo\
   mi chybí, abych tvojí duši mohl rozumět?
 ]

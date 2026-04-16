@@ -6,18 +6,18 @@
 )
 
 #verse[
-  #d[A]Anglie vstává, rozbíhá se denní vřava,\
-  #d[F\#mi]uprostřed #c[E]Londýn#c[A]a.\
-  #d[A]V hodinách ranních řádí živly kriminální,\
-  #d[F\#mi]loupit se #c[E]začí#c[A]ná.
+  #c[A]Anglie vstává, rozbíhá se denní vřava,\
+  #c[F\#mi]uprostřed #c[E]Londýn#c[A]a.\
+  #c[A]V hodinách ranních řádí živly kriminální,\
+  #c[F\#mi]loupit se #c[E]začí#c[A]ná.
 ]
 
 #chorus[
-  #d[E]Kdo ty zlo#c[F\#mi]čince chytí? #c[D]Odpověď #c[A]znám.\
-  #d[E]Lidé, co #c[F\#mi]přijdou na kloub #c[D]všem možným #c[A]záha#c[E]dám,\
-  #d[A]Koumáci pilní ze školy detektivní,\
-  \1. #d[F\#mi]ti patří #c[E]ke špič#c[A]kám.\
-  \2. #d[F\#mi]hravě po#c[E]můžou #c[A]vám.
+  #c[E]Kdo ty zlo#c[F\#mi]čince chytí? #c[D]Odpověď #c[A]znám.\
+  #c[E]Lidé, co #c[F\#mi]přijdou na kloub #c[D]všem možným #c[A]záha#c[E]dám,\
+  #c[A]Koumáci pilní ze školy detektivní,\
+  \1. #c[F\#mi]ti patří #c[E]ke špič#c[A]kám.\
+  \2. #c[F\#mi]hravě po#c[E]můžou #c[A]vám.
 ]
 
 #verse[

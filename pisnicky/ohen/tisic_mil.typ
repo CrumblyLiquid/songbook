@@ -7,9 +7,9 @@
 )
 
 #verse[
-  V nohách #d[C]mám už tisíc #c[Ami]mil,\
-  stopy #d[Dmi]déšť a vítr #c[F]smyl\
-  a můj #d[Dmi]kůň i já jsme #c[G]cestou znave#c[C]ni.#c[G]
+  V nohách #c[C]mám už tisíc #c[Ami]mil,\
+  stopy #c[Dmi]déšť a vítr #c[F]smyl\
+  a můj #c[Dmi]kůň i já jsme #c[G]cestou znave#c[C]ni.#c[G]
 ]
 #verse[
   Těch tisíc mil, těch tisíc mil\

@@ -7,11 +7,11 @@
 )
 
 #verse[
-  #d[D]Za lasami #c[G]za gorami #c[A]za dolina#c[D]mi,\
-  #d[D]pobiłi się #c[G]dwaj gorale #c[A]ciupaga#c[D]mi.\
+  #c[D]Za lasami #c[G]za gorami #c[A]za dolina#c[D]mi,\
+  #c[D]pobiłi się #c[G]dwaj gorale #c[A]ciupaga#c[D]mi.\
   #rep[
-    #d[D]Hej gora#c[G]le, #c[A]nie bijta #c[D]się,\
-    #d[D]ma góralka #c[G]dwa warkocze, #c[A]podzielita #c[D]się.
+    #c[D]Hej gora#c[G]le, #c[A]nie bijta #c[D]się,\
+    #c[D]ma góralka #c[G]dwa warkocze, #c[A]podzielita #c[D]się.
   ]
 ]
 

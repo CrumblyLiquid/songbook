@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[G]Černé oči, jdě#c[D]te #c[G]spát,\
-  #d[G]černé oči, jděte spát,\
-  #d[Ami]však musíte #c[D7]ráno vstát,\
-  #d[G]však musíte #c[D7]ráno #c[G]vstát.
+  #c[G]Černé oči, jdě#c[D]te #c[G]spát,\
+  #c[G]černé oči, jděte spát,\
+  #c[Ami]však musíte #c[D7]ráno vstát,\
+  #c[G]však musíte #c[D7]ráno #c[G]vstát.
 ]
 
 #verse[

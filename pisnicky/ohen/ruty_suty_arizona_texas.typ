@@ -7,16 +7,16 @@
 )
 
 #verse[
-  #d[G]Šinu si to starým Kolorádem,\
-  #d[G]když tu slyším výkřik vzdále#c[D7]ný\
-  #d[G]jel sem podle #c[G7]hlasu #c[C]a k mému #c[Cmi]úžasu\
-  #d[G]ležel tam muž #c[D7]v krvi skole#c[G]ný.
+  #c[G]Šinu si to starým Kolorádem,\
+  #c[G]když tu slyším výkřik vzdále#c[D7]ný\
+  #c[G]jel sem podle #c[G7]hlasu #c[C]a k mému #c[Cmi]úžasu\
+  #c[G]ležel tam muž #c[D7]v krvi skole#c[G]ný.
 ]
 #chorus[
-  #d[G]Ruty šuty Arizóna, Texas\
-  #d[G]Ruty šuty Arizóna #c[D7]má.\
-  #d[G]jel sem podle #c[G7]hlasu #c[C]a k mému #c[Cmi]úžasu\
-  #d[G]ležel tam muž #c[D7]v krvi skole#c[G]ný.
+  #c[G]Ruty šuty Arizóna, Texas\
+  #c[G]Ruty šuty Arizóna #c[D7]má.\
+  #c[G]jel sem podle #c[G7]hlasu #c[C]a k mému #c[Cmi]úžasu\
+  #c[G]ležel tam muž #c[D7]v krvi skole#c[G]ný.
 ]
 #verse[
   Obracím ho k sobě obličejem,\

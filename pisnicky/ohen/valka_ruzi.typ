@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[Dmi]Rozplynul se #c[G]hustý dým, #c[Dmi]derry down, hej, #c[A]down-a-down,\
-  nad #d[Dmi]ztichlým polem #c[G]válečným, derry #c[Dmi]down,#c[A]\
-  jen #d[F]ticho stojí #c[C]kolko#c[A]lem a #c[Dmi]vítěz #c[Dmi/C]plení #c[B]vlastní #c[A]zem.\
-  Je válka #d[Dmi]růží, #c[Gmi]derry, derry, #c[A]derry down-a-#c[Dmi]down.
+  #c[Dmi]Rozplynul se #c[G]hustý dým, #c[Dmi]derry down, hej, #c[A]down-a-down,\
+  nad #c[Dmi]ztichlým polem #c[G]válečným, derry #c[Dmi]down,#c[A]\
+  jen #c[F]ticho stojí #c[C]kolko#c[A]lem a #c[Dmi]vítěz #c[Dmi/C]plení #s[B]vlastní #c[A]zem.\
+  Je válka #c[Dmi]růží, #s[Gmi]derry, derry, #c[A]derry down-a-#c[Dmi]down.
 ]
 #verse[
   Nečekej soucit od rváče, derry down, hej, down-a-down,\

@@ -8,17 +8,17 @@
 )
 
 #verse[
-  #d[C]I know you've suffered but I #c[Emi]don't want you to hide\
-  #d[C]It's cold and loveless I won't #c[Emi]let you be denied\
-  #d[C]Soothing I'll #c[Emi]make you feel pure\
-  And #d[C]trust me #c[Emi]You can be sure
+  #c[C]I know you've suffered but I #c[Emi]don't want you to hide\
+  #c[C]It's cold and loveless I won't #c[Emi]let you be denied\
+  #c[C]Soothing I'll #c[Emi]make you feel pure\
+  And #c[C]trust me #c[Emi]You can be sure
 ]
 
 #chorus[
-  #d[Ami]I want to #c[C]reconcile the #c[Emi]violence in your #c[G]heart\
-  #d[Ami]I want to #c[C]recognize your #c[Emi]beauty's not just a #c[G]mask\
-  #d[Ami]I want to #c[C]exorcise the #c[Emi]demons from your #c[G]past\
-  #d[Ami]I want to #c[C]satisfy the #c[Emi]undisclosed #c[G]desires in your #c[C]heart
+  #c[Ami]I want to #c[C]reconcile the #c[Emi]violence in your #c[G]heart\
+  #c[Ami]I want to #c[C]recognize your #c[Emi]beauty's not just a #c[G]mask\
+  #c[Ami]I want to #c[C]exorcise the #c[Emi]demons from your #c[G]past\
+  #c[Ami]I want to #c[C]satisfy the #c[Emi]undisclosed #c[G]desires in your #c[C]heart
 ]
 
 #verse[

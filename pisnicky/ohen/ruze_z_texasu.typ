@@ -7,17 +7,17 @@
 )
 
 #verse[
-  Jedu #d[C]takhle večer #c[C7]stezkou dát #c[F]stádu k řece #c[C]pít,\
-  v tom #d[C]potkám holku #c[Ami]hezkou, že #c[D7]jsem až z koně #c[G7]slít'.\
-  Má #d[C]kytku žlutejch #c[C7]květů, snad #c[F]růží co já #c[C]vím.\
-  Znám #d[C]plno hezkejch #c[A7]ženskejch k světu,\
-  ale #d[Dmi]tahle #c[G7]hraje #c[C]prim.
+  Jedu #c[C]takhle večer #c[C7]stezkou dát #c[F]stádu k řece #c[C]pít,\
+  v tom #c[C]potkám holku #c[Ami]hezkou, že #c[D7]jsem až z koně #c[G7]slít'.\
+  Má #c[C]kytku žlutejch #c[C7]květů, snad #c[F]růží co já #c[C]vím.\
+  Znám #c[C]plno hezkejch #c[A7]ženskejch k světu,\
+  ale #c[Dmi]tahle #c[G7]hraje #c[C]prim.
 ]
 #chorus[
-  #d[C7]Kdo si #c[F]kazí smysl pro krásu, ať #c[C]s tou a nebo s tou,\
-  dej #d[C]říct, že kromě #c[Ami]Texasu, tyhle #c[D7]růže nero#c[G7]stou.\
-  Ať máš #d[C]kolťák nízko #c[C7]u pasu, ať jsi #c[F]třeba zloděj #c[C]stád,\
-  svoji #d[C]žlutou růži z #c[A7]Texasu budeš #c[Dmi]pořád #c[G7]mít už #c[C]rád.
+  #c[C7]Kdo si #c[F]kazí smysl pro krásu, ať #c[C]s tou a nebo s tou,\
+  dej #c[C]říct, že kromě #c[Ami]Texasu, tyhle #c[D7]růže nero#c[G7]stou.\
+  Ať máš #c[C]kolťák nízko #c[C7]u pasu, ať jsi #c[F]třeba zloděj #c[C]stád,\
+  svoji #c[C]žlutou růži z #c[A7]Texasu budeš #c[Dmi]pořád #c[G7]mít už #c[C]rád.
 ]
 #verse[
   Řekla, že tu žije v ranči jen sama s tátou svým\

@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[D]Spadlo prase do strouhy, #c[A]jak široký tak dlouhý,\
-  #d[D]Ferda jede na kole, #c[A]Ferda jede #c[D]pryč.\
-  #d[D]Koho by to napadlo, #c[A]že by prase upadlo,\
-  #d[D]Ferda jede na kole, #c[A]veze na něm #c[D]rýč.
+  #c[D]Spadlo prase do strouhy, #c[A]jak široký tak dlouhý,\
+  #c[D]Ferda jede na kole, #c[A]Ferda jede #c[D]pryč.\
+  #c[D]Koho by to napadlo, #c[A]že by prase upadlo,\
+  #c[D]Ferda jede na kole, #c[A]veze na něm #c[D]rýč.
 ]
 
 #verse[

@@ -8,12 +8,12 @@
 
 #verse[
   #rep[
-    #d[C]Čí že ste, husličky, #c[F]či#w[C]e,\
-    #d[Dmi]kdo vás tu #c[Ami]zane#w[G]chal
+    #c[C]Čí že ste, husličky, #c[F]či#w[C]e,\
+    #c[Dmi]kdo vás tu #c[Ami]zane#w[G]chal
   ]\
-  #d[Dmi7]na trávě #c[G]pová#w[C]lané,#c[F]\
-  #d[Dmi]na trávě #c[G]pová#w[C]lané,#c[F]\
-  #d[Dmi]u paty #c[Ami]oře#w[G]cha?#c[Dmi Ami G]
+  #c[Dmi7]na trávě #c[G]pová#w[C]lané,#c[F]\
+  #c[Dmi]na trávě #c[G]pová#w[C]lané,#c[F]\
+  #c[Dmi]u paty #c[Ami]oře#w[G]cha?#c[Dmi Ami G]
 ]
 
 #verse[

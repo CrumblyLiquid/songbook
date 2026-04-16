@@ -7,17 +7,17 @@
 )
 
 #verse[
-  #d[Ami]Tam, kde leží Little Big Horn, je indiánská zem,\
-  tam #d[Ami]přijíždí generál Custer #c[Dmi]se svým praporem,\
-  mo#d[Ami]drý kabáty jezdců, stíny #c[Dmi]dlouhejch karabin,\
-  a #d[Ami]z indiánskejch signálů po nebi letí #c[A]dým.
+  #c[Ami]Tam, kde leží Little Big Horn, je indiánská zem,\
+  tam #c[Ami]přijíždí generál Custer #c[Dmi]se svým praporem,\
+  mo#c[Ami]drý kabáty jezdců, stíny #c[Dmi]dlouhejch karabin,\
+  a #c[Ami]z indiánskejch signálů po nebi letí #c[A]dým.
 ]
 
 #chorus[
-  #d[A]Říkal to Jim Bridger: já měl jsem v noci #c[E7]sen,\
-  pod #d[E7]sedmou kavalerií jak krví rudne #c[A]zem,\
-  kmen #d[A]Siouxů je statečný a dobře svůj kraj #c[D]zná,\
-  proč #d[E7]Custer neposlouchá ta #c[A]slova varov#c[Ami]ná?
+  #c[A]Říkal to Jim Bridger: já měl jsem v noci #c[E7]sen,\
+  pod #c[E7]sedmou kavalerií jak krví rudne #c[A]zem,\
+  kmen #c[A]Siouxů je statečný a dobře svůj kraj #c[D]zná,\
+  proč #c[E7]Custer neposlouchá ta #c[A]slova varov#c[Ami]ná?
 ]
 
 #verse[

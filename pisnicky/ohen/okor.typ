@@ -7,23 +7,23 @@
 )
 
 #verse[
-  #d[D]Na Okoř je cesta jako žádná ze sta,
+  #c[D]Na Okoř je cesta jako žádná ze sta,
   #c[A7]roubená je stroma#c[D]ma,\
-  #d[D]když jdu po ní v létě, samoten na světě,
+  #c[D]když jdu po ní v létě, samoten na světě,
   #c[A7]sotva pletu noha#c[D]ma,#c[D7]\
-  #d[G]na konci té cesty #c[D]trnité #c[E7]stojí krčma jako #c[A7]hrad,\
-  #d[D]tam zapadli trampi, hladoví a sešlí,
+  #c[G]na konci té cesty #c[D]trnité #c[E7]stojí krčma jako #c[A7]hrad,\
+  #c[D]tam zapadli trampi, hladoví a sešlí,
   #c[A7]začli sobě noto#c[D]vat.
 ]
 
 #chorus[
-  #d[D]Na hradě Okoři #c[A7]světla už nehoří,
+  #c[D]Na hradě Okoři #c[A7]světla už nehoří,
   #c[D]bílá paní #c[A7]šla už dávno #c[D]spát,\
-  #d[D]ta měla ve zvyku #c[A7]podle svého budíku
+  #c[D]ta měla ve zvyku #c[A7]podle svého budíku
   #c[D]o půlnoci #c[A7]chodit straší#c[D]vat,#c[D7]\
-  #d[G]od těch dob, co jsou tam #c[D]trampové,
+  #c[G]od těch dob, co jsou tam #c[D]trampové,
   #c[E7]nesmí z hradu #c[A7]pryč,\
-  #d[D]a tak dole v podhradí #c[A7]se šerifem dovádí,
+  #c[D]a tak dole v podhradí #c[A7]se šerifem dovádí,
   #c[D]on jí sebral #c[A7]od komnaty #c[D]klíč.
 ]
 

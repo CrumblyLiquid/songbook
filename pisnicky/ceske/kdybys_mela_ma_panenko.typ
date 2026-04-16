@@ -7,11 +7,11 @@
 )
 
 #verse[
-  #d[F]Kdybys měla, má panenko, #rep[sto ovec,]\
-  #d[C7]a já jenom za kloboukem #rep[jalovec,]\
+  #c[F]Kdybys měla, má panenko, #rep[sto ovec,]\
+  #c[C7]a já jenom za kloboukem #rep[jalovec,]\
   #rep[
-    #d[F]nebudeš má, #c[C7]není možná,\
-    #d[F]ani mi to, má panenko, #c[Gmi]pán #c[C7]bůh ne#c[F]dá!
+    #c[F]nebudeš má, #c[C7]není možná,\
+    #c[F]ani mi to, má panenko, #c[Gmi]pán #c[C7]bůh ne#c[F]dá!
   ]
 ]
 

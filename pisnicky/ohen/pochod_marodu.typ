@@ -12,10 +12,10 @@
 #set par(leading: 0.5em)
 
 #verse[
-  Kra#d[Dmi]bička cigaret a #c[F]do kafe #c[C]rum, #c[B]rum, #c[Dmi]rum,\
-  dvě #d[Dmi]vodky a fernet a teď, #c[F]doktore, #c[C]čum, #c[B]čum, #c[Dmi]čum,\
-  chra#d[Gmi]pot v hrud#c[B]ním ko#c[Dmi]ši, no #c[Gmi]to je #c[B]záži#c[A]tek,\
-  #d[Dmi]my jsme kámoši řidi#c[F]čů sani#c[C]tek, -#c[B]tek, -#c[Dmi]tek.
+  Kra#c[Dmi]bička cigaret a #c[F]do kafe #c[C]rum, #c[B]rum, #c[Dmi]rum,\
+  dvě #c[Dmi]vodky a fernet a teď, #c[F]doktore, #c[C]čum, #c[B]čum, #c[Dmi]čum,\
+  chra#c[Gmi]pot v hrud#c[B]ním ko#c[Dmi]ši, no #c[Gmi]to je #s[B]záži#c[A]tek,\
+  #c[Dmi]my jsme kámoši řidi#c[F]čů sani#c[C]tek, -#c[B]tek, -#c[Dmi]tek.
 ]
 #verse[
   Měli jsme ledviny, ale už jsou nadranc, -dranc, -dranc,\
@@ -24,12 +24,12 @@
   je to vlastně fuk, žijem fajn, žijem fajn, fajn, fajn.
 ]
 #chorus[
-  #d[Dmi]Cirhóza, #c[F]trombóza, #c[C]dávivý #c[F]kašel,\
-  #d[Gmi]tuberku#c[Dmi]lóza - #c[A]jó, to je #c[Dmi]naše!\
-  #d[Dmi]neuróza, #c[F]skleróza, #c[C]ohnutá #c[F]záda,\
-  #d[Gmi]paraden#c[Dmi]tóza, no #c[A]to je pa#c[Dmi]ráda!\
-  Jsme #d[Gmi]slabí na tě#c[Dmi]le, ale #c[C]silní na du#c[F]chu,\
-  #d[Gmi]žijem vese#c[Dmi]le, #c[A]juchuchuchu#c[Dmi]chu!
+  #c[Dmi]Cirhóza, #c[F]trombóza, #c[C]dávivý #c[F]kašel,\
+  #c[Gmi]tuberku#c[Dmi]lóza - #c[A]jó, to je #c[Dmi]naše!\
+  #c[Dmi]neuróza, #c[F]skleróza, #c[C]ohnutá #c[F]záda,\
+  #c[Gmi]paraden#c[Dmi]tóza, no #c[A]to je pa#c[Dmi]ráda!\
+  Jsme #c[Gmi]slabí na tě#c[Dmi]le, ale #c[C]silní na du#c[F]chu,\
+  #c[Gmi]žijem vese#c[Dmi]le, #s[A]juchuchuchu#c[Dmi]chu!
 ]
 #verse[
   Už kolem nás chodí pepka mrtvice, -ce, -ce,\

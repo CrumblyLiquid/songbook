@@ -7,13 +7,15 @@
 )
 
 #verse[
-  #d[Ami]Větr sněh #c[A2]zanésl #c[Ami]z hor do po#c[A2]lí, #c[Ami]já idu #c[C]přes kopce, #c[G]přes údo#c[Ami]lí,\
-  #d[C]idu k Tvej #c[G]dědině zatúla#c[C]nej, #c[F]cestičky #c[C]sněhem sú #c[E]zafúka#c[Ami A2 Ami]né.
+  #c[Ami]Větr sněh #c[A2]zanésl #c[Ami]z hor do po#c[A2]lí,
+  #s[Ami]já idu #c[C]přes kopce, #c[G]přes údo#c[Ami]lí,\
+  #c[C]idu k Tvej #c[G]dědině zatúla#c[C]nej,
+  #c[F]cestičky #c[C]sněhem sú #c[E]zafúka#c[Ami A2 Ami]né.
 ]
 
 #chorus[
-  #d[Ami]Zafúka#c[C]né, #c[G]zafúka#c[C]né, #c[F]kolem mňa #c[C]všecko je #c[Dmi]zafúka#c[E]né.\
-  #d[Ami]Zafúka#c[C]né, #c[G]zafúka#c[C]né, #c[F]kolem mňa #c[Dmi]všecko je #c[E]zafúka#c[Ami]né.
+  #c[Ami]Zafúka#c[C]né, #c[G]zafúka#c[C]né, #c[F]kolem mňa #c[C]všecko je #c[Dmi]zafúka#c[E]né.\
+  #c[Ami]Zafúka#c[C]né, #c[G]zafúka#c[C]né, #c[F]kolem mňa #c[Dmi]všecko je #c[E]zafúka#c[Ami]né.
 ]
 
 #solo[

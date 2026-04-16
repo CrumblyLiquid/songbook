@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[Emi]Přes haličské pláně #c[Ami/F\#]vane vítr zlý,\
-  to #d[H7]málo, co jsme měli, nám #c[Emi]vody sebraly,\
-  #d[Emi]jako tažní ptáci, #c[Ami/F\#]jako rorýsi\
-  #d[H7]letíme nad zemí, dva #c[Emi]modré dopisy.
+  #c[Emi]Přes haličské pláně #c[Ami/F\#]vane vítr zlý,\
+  to #c[H7]málo, co jsme měli, nám #c[Emi]vody sebraly,\
+  #c[Emi]jako tažní ptáci, #c[Ami/F\#]jako rorýsi\
+  #c[H7]letíme nad zemí, dva #c[Emi]modré dopisy.
 ]
 #chorus[
   #c[Emi]Ještě hoří oheň a #c[Ami]praská dřevo,

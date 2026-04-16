@@ -7,10 +7,10 @@
 )
 
 #verse[
-  Když #d[F]končí se den a usne má zem, pak #c[C]na malou chvíli\
-  #d[F]Vrací se zpět můj niterní svět, co #c[C]osud tvůj sdílí\
-  Do všech #d[Gmi]světových stran, do všech koutů co znám...#c[B C]\
-  vo#d[F]lám
+  Když #c[F]končí se den a usne má zem, pak #c[C]na malou chvíli\
+  #c[F]Vrací se zpět můj niterní svět, co #c[C]osud tvůj sdílí\
+  Do všech #c[Gmi]světových stran, do všech koutů co znám...#c[B C]\
+  vo#c[F]lám
 ]
 
 #verse[

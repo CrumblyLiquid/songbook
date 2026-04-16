@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[G]Měla vlasy samou loknu, #c[D7]jéjéjé,\
-  #d[D7]ráno přistoupila k oknu, #c[G]jéjéjé,\
-  #d[G]vlasy samou #c[G7]loknu měla #c[C]a na nic víc #c[Cmi]nemyslela,\
-  #d[G]a na nic víc #c[E7]nemyslela, #c[A7]jé#w[D7]jé#w[G]jé.
+  #c[G]Měla vlasy samou loknu, #c[D7]jéjéjé,\
+  #c[D7]ráno přistoupila k oknu, #c[G]jéjéjé,\
+  #c[G]vlasy samou #c[G7]loknu měla #c[C]a na nic víc #c[Cmi]nemyslela,\
+  #c[G]a na nic víc #c[E7]nemyslela, #c[A7]jé#w[D7]jé#w[G]jé.
 ]
 
 #verse[

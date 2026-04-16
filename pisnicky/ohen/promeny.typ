@@ -9,9 +9,9 @@
 #set par(leading: 0.5em)
 
 #verse[
-  #d[Ami]Darmo sa ty trápíš #c[G]můj milý sy#c[C]nečku,\
-  #d[C]nenosím ja tebe #c[Dmi]nenosím v sr#c[Ami]déčku,\
-  #d[Ami]a já tvo#c[G]ja #c[C]ne#c[G]bu#c[C]du #c[Dmi]ani jednu #c[E]hodi#c[Ami]nu.
+  #c[Ami]Darmo sa ty trápíš #c[G]můj milý sy#c[C]nečku,\
+  #c[C]nenosím ja tebe #c[Dmi]nenosím v sr#c[Ami]déčku,\
+  #c[Ami]a já tvo#c[G]ja #c[C]ne#c[G]bu#c[C]du #c[Dmi]ani jednu #c[E]hodi#c[Ami]nu.
 ]
 #verse[
   Copak sobě myslíš má milá panenko,\

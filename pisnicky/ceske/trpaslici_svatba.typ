@@ -21,10 +21,10 @@
 ]
 
 #chorus[
-  Protože #d[G]láska, láska, láska v každém #c[C]srdci klí#c[G]čí,\
-  protože #d[G]láskou hoří i to srdce #c[C]trpasli#c[G]čí\
-  a kdo se #d[G]v téhle věci jednoduše #c[C]neopi#c[G]čí,\
-  ten ať se #d[G]dívá, co se děje v lese #c[C]na jehli#c[G]čí.
+  Protože #c[G]láska, láska, láska v každém #c[C]srdci klí#c[G]čí,\
+  protože #c[G]láskou hoří i to srdce #c[C]trpasli#c[G]čí\
+  a kdo se #c[G]v téhle věci jednoduše #c[C]neopi#c[G]čí,\
+  ten ať se #c[G]dívá, co se děje v lese #c[C]na jehli#c[G]čí.
 ]
 
 #verse[

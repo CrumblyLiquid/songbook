@@ -6,10 +6,10 @@
 )
 
 #verse[
-  #d[G]Lilly Wonka, Lilly Wonka, tvůrce #c[G]dobrých #c[C]čoko#c[G]lád,\
-  #d[G]Lilly Wonka, Lilly Wonka, jemu #c[G]poctu #c[C]chceme #c[G]vzdát,\
-  na #d[C]tábor sem k nám #c[G]zavítal a #c[C]obdiv denně #c[G]sklízí,\
-  přes #d[C]sladkosti je #c[G]odborník a ú#c[A]spěch mu #rep(repeat: 3)[není #c[D]cizí.]
+  #c[G]Lilly Wonka, Lilly Wonka, tvůrce #c[G]dobrých #c[C]čoko#c[G]lád,\
+  #c[G]Lilly Wonka, Lilly Wonka, jemu #c[G]poctu #c[C]chceme #c[G]vzdát,\
+  na #c[C]tábor sem k nám #c[G]zavítal a #c[C]obdiv denně #c[G]sklízí,\
+  přes #c[C]sladkosti je #c[G]odborník a ú#c[A]spěch mu #rep(repeat: 3)[není #c[D]cizí.]
 ]
 
 #verse[
@@ -41,9 +41,9 @@
 ]
 
 #verse[
-  #d[G]Lilly Wonka, Lilly Wonka, končí #c[G]se svou #c[C]továr#c[G]nou,\
-  #d[G]čtyři rody, čtyři rody, ji už #c[G]od teď #c[C]ovlád#c[G]nou,\
-  tak #d[C]čoko#c[G]ládu #c[C]oslav#c[G]me a #c[C]na po#c[G]čest se #c[C]posta#c[G]vme\
-  #d[G]Lilly #c[C]Wonka #c[D]odchá#c[G]zí!
+  #c[G]Lilly Wonka, Lilly Wonka, končí #c[G]se svou #c[C]továr#c[G]nou,\
+  #c[G]čtyři rody, čtyři rody, ji už #c[G]od teď #c[C]ovlád#c[G]nou,\
+  tak #c[C]čoko#c[G]ládu #c[C]oslav#c[G]me a #c[C]na po#c[G]čest se #c[C]posta#c[G]vme\
+  #c[G]Lilly #c[C]Wonka #c[D]odchá#c[G]zí!
 ]
 

@@ -9,13 +9,13 @@
 
 
 #verse[
-  #d[C]Začíná #c[Ami]školní rok #c[F]v Bradavi#c[C]cích,\
-  #d[C]studenti #c[F]zas use#c[G]dnou v lavicích,\
-  #d[C]schválně co #c[Ami]jim uví#c[F]zne v pali#c[C]cích,\
-  #d[C]ukáže #c[Dmi]běh dvoutý#c[G]denní.\
+  #c[C]Začíná #c[Ami]školní rok #c[F]v Bradavi#c[C]cích,\
+  #c[C]studenti #c[F]zas use#c[G]dnou v lavicích,\
+  #c[C]schválně co #c[Ami]jim uví#c[F]zne v pali#c[C]cích,\
+  #c[C]ukáže #c[Dmi]běh dvoutý#c[G]denní.\
   #rep[
-    #d[G]Vesele #c[F]žijem si #c[C]v Bradavi#c[G]cích,\
-    každý #d[C]ví, že (nad školu/nad kouzla) #c[G]ne#c[C]ní.
+    #c[G]Vesele #c[F]žijem si #c[C]v Bradavi#c[G]cích,\
+    každý #c[C]ví, že (nad školu/nad kouzla) #c[G]ne#c[C]ní.
   ]
 ]
 

@@ -10,12 +10,12 @@
 )
 
 #verse[
-  #d[G]Někdy lidem #c[Ami]zbyde jenom víra,\
-  #d[Hmi]co se ztrácí #c[Ami]při pohledu na svět.\
-  #d[G]A milovaný lidi #c[Ami]mizej v černých dírách\
-  #d[Hmi]a někdo doufá, #c[Ami]že se potkaj cestou nazpět.\
-  #d[D]A když ostatní jenom #c[C]přihlížej\
-  #d[D]na smutný oči, který #c[C]vyhlížej...
+  #c[G]Někdy lidem #c[Ami]zbyde jenom víra,\
+  #c[Hmi]co se ztrácí #c[Ami]při pohledu na svět.\
+  #c[G]A milovaný lidi #c[Ami]mizej v černých dírách\
+  #c[Hmi]a někdo doufá, #c[Ami]že se potkaj cestou nazpět.\
+  #c[D]A když ostatní jenom #c[C]přihlížej\
+  #c[D]na smutný oči, který #c[C]vyhlížej...
 ]
 
 #verse[
@@ -28,10 +28,10 @@
 ]
 
 #chorus[
-  #d[G]Ztrácíš se z #c[F]mojí paměti\
-  a lidi #d[C]od nepaměti se znovu #c[G]scházej... jée\
-  A #d[G]doufám, že #c[F]stihnem těch pár vět,\
-  že #d[C]najdem cestu zpět, tvý oči mi #c[G]scházej... jéjéééééé
+  #c[G]Ztrácíš se z #c[F]mojí paměti\
+  a lidi #c[C]od nepaměti se znovu #c[G]scházej... jée\
+  A #c[G]doufám, že #c[F]stihnem těch pár vět,\
+  že #c[C]najdem cestu zpět, tvý oči mi #c[G]scházej... jéjéééééé
 ]
 
 #verse[

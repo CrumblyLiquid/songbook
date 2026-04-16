@@ -8,7 +8,7 @@
 )
 
 #verse[
-  I used to #d[C]rule the #c[D]world,
+  I used to #c[C]rule the #c[D]world,
   seas would #c[G]rise when I gave the #c[Emi]word.\
   Now in the morning, I #c[C]sleep #c[D]alone,
   sweep the #c[G]streets I used to #c[Emi]own.

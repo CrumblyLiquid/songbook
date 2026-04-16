@@ -7,11 +7,11 @@
 )
 
 #verse[
-  #d[C]Dlouhá noc a mě se stýská moc, pro tebe malý dárek mám.\
-  Přes hory #d[Dmi]přes ploty, medvídek #c[G]z Bogoty, už #c[C]letí.\
-  #d[C]Medvídek plyšový, na cestě křížový, Bůh ho ochrání.\
-  Před smečkou #d[Dmi]římskejch psů a jejich #c[G]úřadů\
-  ti #d[F]posílá ... lásku co #c[G]v bříšku má.
+  #c[C]Dlouhá noc a mě se stýská moc, pro tebe malý dárek mám.\
+  Přes hory #c[Dmi]přes ploty, medvídek #c[G]z Bogoty, už #c[C]letí.\
+  #c[C]Medvídek plyšový, na cestě křížový, Bůh ho ochrání.\
+  Před smečkou #c[Dmi]římskejch psů a jejich #c[G]úřadů\
+  ti #c[F]posílá ... lásku co #c[G]v bříšku má.
 ]
 
 #chorus[

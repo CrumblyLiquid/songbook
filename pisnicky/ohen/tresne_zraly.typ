@@ -7,14 +7,14 @@
 )
 
 #verse[
-  #d[C]Jó, třešně zrály, #c[G]zrovna třešně #c[C]zrály,\
-  #d[C]sladký #c[E7]třešně #c[Ami]zrály a #c[F]vlahej #c[G7]vítr #c[C]vál,#c[G]\
-  #d[C]a já k horám v dáli, k #c[G]modrejm horám #c[C]v dáli,\
-  #d[C]sluncem, #c[E7]který #c[Ami]pálí, tou #c[F]dobou #c[G7]stádo #c[C]hnal.#c[G7]
+  #c[C]Jó, třešně zrály, #c[G]zrovna třešně #c[C]zrály,\
+  #c[C]sladký #c[E7]třešně #c[Ami]zrály a #c[F]vlahej #c[G7]vítr #c[C]vál,#c[G]\
+  #c[C]a já k horám v dáli, k #c[G]modrejm horám #c[C]v dáli,\
+  #c[C]sluncem, #c[E7]který #c[Ami]pálí, tou #c[F]dobou #c[G7]stádo #c[C]hnal.#c[G7]
 ]
 #chorus[
-  #d[C]Jó, třešně #c[Ami]zrály, #c[Dmi]zrovna #c[G7]třešně #c[C]zrály,\
-  #d[C]sladký #c[E7]třešně #c[Ami]zrá#w[F]ly, a #c[Dmi]jak to #c[G7]bylo #c[C]dál?#c[(G7)]
+  #c[C]Jó, třešně #c[Ami]zrály, #c[Dmi]zrovna #c[G7]třešně #c[C]zrály,\
+  #c[C]sladký #c[E7]třešně #c[Ami]zrá#w[F]ly, a #c[Dmi]jak to #c[G7]bylo #c[C]dál?#c[(G7)]
 ]
 #verse[
   Tam, jak je ta skála, ta velká bílá skála,\

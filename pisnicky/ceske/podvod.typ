@@ -7,10 +7,10 @@
 )
 
 #verse[
-  #d[Emi]Na dlani jednu z tvých řas, do tmy se #c[Ami]koukám,\
-  #d[D]hraju si písničky tvý, co jsem ti #c[G]psal,\
-  je skoro #d[Ami]půlnoc a z kostela #c[Ami/C]zvon mi noc připo#c[Emi]míná,\
-  půjdu se #d[Ami]mejt a pozhasínám, co bude #c[H7]dál?
+  #c[Emi]Na dlani jednu z tvých řas, do tmy se #c[Ami]koukám,\
+  #c[D]hraju si písničky tvý, co jsem ti #c[G]psal,\
+  je skoro #c[Ami]půlnoc a z kostela #c[Ami/C]zvon mi noc připo#c[Emi]míná,\
+  půjdu se #c[Ami]mejt a pozhasínám, co bude #c[H7]dál?
 ]
 
 #verse[

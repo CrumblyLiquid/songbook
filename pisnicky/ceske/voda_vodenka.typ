@@ -7,12 +7,12 @@
 )
 
 #verse[
-  #d[C]Voda, #c[G]voděn#c[Ami][ka]~\
-  #d[F]hladí #c[C]obláz#c[G][ky.]~\
+  #c[C]Voda, #c[G]voděn#c[Ami][ka]~\
+  #c[F]hladí #c[C]obláz#c[G][ky.]~\
   #rep[
-    #d[C]Takové je #c[C7]pohlazení,\
-    #d[F]takové je pohlazení\
-    #d[C]od #c[G]lás#c[C]ky.
+    #c[C]Takové je #c[C7]pohlazení,\
+    #c[F]takové je pohlazení\
+    #c[C]od #c[G]lás#c[C]ky.
   ]
 ]
 
@@ -27,12 +27,12 @@
 ]
 
 #verse[
-  #d[D]Když se #c[A]dvě srd#c[Hmi][ce]~\
-  #d[G]šťastně #c[D]potka#c[A][jí,]~\
+  #c[D]Když se #c[A]dvě srd#c[Hmi][ce]~\
+  #c[G]šťastně #c[D]potka#c[A][jí,]~\
   #rep[
-    #d[D]na voděnce #c[D7]chladné ledy,\
-    #d[G]na voděnce chladné ledy\
-    #d[D]pu#c[A]ka#c[D]jí.
+    #c[D]na voděnce #c[D7]chladné ledy,\
+    #c[G]na voděnce chladné ledy\
+    #c[D]pu#c[A]ka#c[D]jí.
   ]
 ]
 

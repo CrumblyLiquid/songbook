@@ -7,13 +7,13 @@
 )
 
 #verse[
-  #d[D]Zabili, #c[G]zabili #c[Emi]chlapa z Kolo#c[G]čavy,#c[D][~]~\
-  #d[D]řekněte #c[G]hrobaři, #c[Emi]kde je pocho#c[G]vaný.#c[D]
+  #c[D]Zabili, #c[G]zabili #c[Emi]chlapa z Kolo#c[G]čavy,#c[D][~]~\
+  #c[D]řekněte #c[G]hrobaři, #c[Emi]kde je pocho#c[G]vaný.#c[D]
 ]
 #chorus[
-  #d[D]Bylo tu, není tu, havrani #c[G]na plotu,\
-  #d[D]bylo víno v sudě, teď tam voda #c[A]bude,\
-  #d[D]není, #c[A]není #c[D]tu.
+  #c[D]Bylo tu, není tu, havrani #c[G]na plotu,\
+  #c[D]bylo víno v sudě, teď tam voda #c[A]bude,\
+  #c[D]není, #c[A]není #c[D]tu.
 ]
 #verse[
   Špatně ho zabili, špatně pochovali,\

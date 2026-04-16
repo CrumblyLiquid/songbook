@@ -12,20 +12,20 @@
   row-gutter: 2em,
   column-gutter: 1em,
   verse[
-    #d[D]Vím jedno návrší zámek #c[A7]nádher#c[D]nej\
-    z nejhez#d[D]čích pohádek ho #c[G]znám.\
+    #c[D]Vím jedno návrší zámek #c[A7]nádher#c[D]nej\
+    z nejhez#c[D]čích pohádek ho #c[G]znám.\
     #rep[
-      Stavě#d[G]nej z křišťá#c[Emi]lu sahá k #c[D]nebi pomálu\
-      pově#d[D]tří přijde k #c[A7]duhu prince#c[D]znám
+      Stavě#c[G]nej z křišťá#c[Emi]lu sahá k #c[D]nebi pomálu\
+      pově#c[D]tří přijde k #c[A7]duhu prince#c[D]znám
     ]
   ],
 
   verse[
-    #d[~]Bílé je lilium bílej krásnej sen\
-    #d[~]bílé je pravé hedvábí.\
+    #c[~]Bílé je lilium bílej krásnej sen\
+    #c[~]bílé je pravé hedvábí.\
     #rep[
-      #d[~]Jdu cestou necestou za svou bílou nevěstou\
-      #d[~]jiná mě na tom světě nevábí
+      #c[~]Jdu cestou necestou za svou bílou nevěstou\
+      #c[~]jiná mě na tom světě nevábí
     ]
   ],
 

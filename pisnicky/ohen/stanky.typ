@@ -7,9 +7,9 @@
 )
 
 #verse[
-  #d[D]U stánků #c[G]na levnou krásu\
-  #d[D]postávaj' a #c[Gmi]smějou se času,\
-  #d[D]s cigaretou a #c[A]s holkou, co nemá kam #c[D]jít.
+  #c[D]U stánků #c[G]na levnou krásu\
+  #c[D]postávaj' a #c[Gmi]smějou se času,\
+  #c[D]s cigaretou a #c[A]s holkou, co nemá kam #c[D]jít.
 ]
 
 #verse[
@@ -19,9 +19,9 @@
 ]
 
 #chorus[
-  #d[D7]Jen #c[G]zahlídli svět, maj' #c[A]na duši vrásky,\
-  tak #d[D]málo je, #c[Gmi]málo je lásky,\
-  #d[D]ztracená víra #c[A]hrozny z vinic neposbí#c[D]rá.
+  #c[D7]Jen #c[G]zahlídli svět, maj' #c[A]na duši vrásky,\
+  tak #c[D]málo je, #c[Gmi]málo je lásky,\
+  #c[D]ztracená víra #c[A]hrozny z vinic neposbí#c[D]rá.
 ]
 
 #verse[

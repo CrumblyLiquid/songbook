@@ -28,7 +28,7 @@
   #c[E]špatné zprávy #c[F]chodí jako #c[Dmi]policie #c[E]za úsvitu,\
   #c[Dmi]jsem napůl bdělý a #c[G]napůl ještě v noční pauze,\
   #c[C]měl bych se smát, ale #c[E7]mám úsměv Mikymauze,\
-  #c[Ami]rána #c[Gadd6]bych #c[Fmaj7 Emi7 Ami]zrušil.
+  #c[Ami]rána #s[Gadd6]bych #s[Fmaj7 Emi7 Ami]zrušil.
 ]
 
 #verse[
@@ -70,7 +70,7 @@
 #colbreak()
 
 #chorus[
-  #d[~]Co bylo kdysi včera, je, jako nebylo by,\
+  #c[~]Co bylo kdysi včera, je, jako nebylo by,\
   káva je vypita a není žádná do zásoby,\
   věci, co nechceš, ať se stanou, ty se stejně stanou,\
   a chleba s máslem padá na zem vždycky blbou stranou,\

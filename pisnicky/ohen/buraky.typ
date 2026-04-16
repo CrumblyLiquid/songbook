@@ -7,17 +7,17 @@
 )
 
 #verse[
-  Když #d[D]Sever válčí s Jihem a #c[G]zem jde do vál#c[D]ky\
-  a v #d[D]polích místo bavlny teď #c[E7]rostou bodlá#c[A7]ky,\
-  ve #d[D]stínu u silnice vidíš z #c[G]Jihu vojá#c[D]ky,\
-  jak #d[D]válej' se tu v trávě a #c[E7]louskaj #c[A7]burá#c[D]ky.
+  Když #c[D]Sever válčí s Jihem a #c[G]zem jde do vál#c[D]ky\
+  a v #c[D]polích místo bavlny teď #c[E7]rostou bodlá#c[A7]ky,\
+  ve #c[D]stínu u silnice vidíš z #c[G]Jihu vojá#c[D]ky,\
+  jak #c[D]válej' se tu v trávě a #c[E7]louskaj #c[A7]burá#c[D]ky.
 ]
 
 #chorus[
-  Hej #d[D]hou, hej hou, nač #c[G]chodit do vál#c[D]ky,\
-  je #d[D]lepší doma sedět a #c[E7]louskat burá#c[A7]ky,\
-  hej #d[D]hou, hej hou, nač #c[G]chodit do vál#c[D]ky,\
-  je #d[D]lepší doma sedět a #c[E7]louskat #c[A7]burá#c[D]ky.
+  Hej #c[D]hou, hej hou, nač #c[G]chodit do vál#c[D]ky,\
+  je #c[D]lepší doma sedět a #c[E7]louskat burá#c[A7]ky,\
+  hej #c[D]hou, hej hou, nač #c[G]chodit do vál#c[D]ky,\
+  je #c[D]lepší doma sedět a #c[E7]louskat #c[A7]burá#c[D]ky.
 ]
 
 #verse[

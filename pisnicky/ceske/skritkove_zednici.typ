@@ -17,13 +17,13 @@
 ]
 
 #chorus[
-  #d[C]Šupy dupy dup, #c[Ami]raz dva tři hej rup!
+  #c[C]Šupy dupy dup, #c[Ami]raz dva tři hej rup!
   #c[F]Pidimužík #c[G]pracuje.\
-  #d[C]Šupy dupy dup, #c[Ami]raz dva tři hej rup!
+  #c[C]Šupy dupy dup, #c[Ami]raz dva tři hej rup!
   #c[F]Pidimužík #c[C]kutá.\
-  #d[C]Šupy dupy dup, #c[Ami]jedli nebo dub,
+  #c[C]Šupy dupy dup, #c[Ami]jedli nebo dub,
   #c[F]všechno krásně #c[G]zpracuje,\
-  #d[C]Šupy dupy dup, #c[Ami]raz dva tři hej rup!
+  #c[C]Šupy dupy dup, #c[Ami]raz dva tři hej rup!
   #c[F]Nebozíz#c[G]kem #c[C]vrtá.
 ]
 
