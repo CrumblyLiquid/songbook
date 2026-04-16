@@ -6,7 +6,7 @@
 - [x] Amazonka
 - [x] Amerika
 - [x] Ani k stáru
-- [ ] Až se k nám právo vrátí
+- [x] Až se k nám právo vrátí
 - [ ] Blaženo
 - [ ] Carpe diem
 - [ ] Co bylo dál?
