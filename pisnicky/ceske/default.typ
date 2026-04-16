@@ -7,6 +7,7 @@
 // #include "az.typ"
 #include "barbora_pise_z_tabora.typ"
 // #include "beskyde_beskyde.typ"
+#include "blazeno.typ"
 #include "carodejnice_z_amesbury.typ"
 // #include "cerne_oci_jdete_spat.typ"
 #include "co_jsem_mel_dnes_k_obedu.typ"

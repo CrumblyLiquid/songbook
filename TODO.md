@@ -7,7 +7,7 @@
 - [x] Amerika
 - [x] Ani k stáru
 - [x] Až se k nám právo vrátí
-- [ ] Blaženo
+- [x] Blaženo
 - [ ] Carpe diem
 - [ ] Co bylo dál?
 - [ ] Co z tebe bude
