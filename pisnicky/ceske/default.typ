@@ -2,6 +2,7 @@
 #include "africancata.typ"
 #include "amazonka.typ"
 #include "amerika.typ"
+#include "ani_k_staru.typ"
 // #include "az.typ"
 #include "barbora_pise_z_tabora.typ"
 // #include "beskyde_beskyde.typ"

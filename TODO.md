@@ -5,7 +5,7 @@
 - [x] 5 ježibab na koštěti
 - [x] Amazonka
 - [x] Amerika
-- [ ] Ani k stáru
+- [x] Ani k stáru
 - [ ] Až se k nám právo vrátí
 - [ ] Blaženo
 - [ ] Carpe diem
