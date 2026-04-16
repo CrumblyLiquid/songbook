@@ -1,9 +1,3 @@
-#place(top, dy: -1000pt)[
-  = České písničky
-]
-
-#set text(lang: "cs")
-
 #include "africancata.typ"
 #include "amerika.typ"
 // #include "az.typ"

@@ -1,7 +1,3 @@
-#place(top, dy: -1000pt)[
-  = ČaČua hymny
-]
-
 #include "cacua_song.typ"
 #include "oda_vitezstvi.typ"
 #include "ukolebafka.typ"

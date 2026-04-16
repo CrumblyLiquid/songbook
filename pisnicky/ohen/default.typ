@@ -1,7 +1,3 @@
-#place(top, dy: -1000pt)[
-  = Písničky k ohni
-]
-
 // #include "test.typ"
 #include "a_te_rehradice.typ"
 #include "andel.typ"
