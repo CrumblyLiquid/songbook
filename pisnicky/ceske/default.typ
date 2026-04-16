@@ -1,5 +1,6 @@
 #include "1_signalni.typ"
 #include "africancata.typ"
+#include "amazonka.typ"
 #include "amerika.typ"
 // #include "az.typ"
 #include "barbora_pise_z_tabora.typ"

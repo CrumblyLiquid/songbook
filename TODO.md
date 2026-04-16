@@ -3,7 +3,7 @@
 České:
 - [x] 1. signální
 - [x] 5 ježibab na koštěti
-- [ ] Amazonka
+- [x] Amazonka
 - [x] Amerika
 - [ ] Ani k stáru
 - [ ] Až se k nám právo vrátí
