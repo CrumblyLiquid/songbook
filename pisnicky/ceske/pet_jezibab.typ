@@ -25,7 +25,7 @@
 
 #verse[
   Pět ježibab s jedním nosem\
-  volá na mě: "Kluku, pojď sem!"\
+  volá na mě: "Arnošt, pojď sem!"\
   A když nejdu, tak se štětí,\
   pět ježibab na koštěti.
 ]
