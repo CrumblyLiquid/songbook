@@ -4,13 +4,23 @@ set -euo pipefail
 
 TEMPLATE="song.typ"
 
-read -rp "Filename: " FILENAME
 read -rp "Target (pisnicky/ceske): " TARGET
 read -rp "Song name: " SONG
+# Converts UTF-8 to ASCII, removing accents in the process
+# Converts everything to lowercase
+# Replaces spaces with underscores
+# Removes anything that isn't alphanumeric or an underscore
+# (-d => delete, -c => complement)
+FILENAME=$(echo "$SONG" \
+  | iconv -f utf-8 -t ascii//TRANSLIT \
+  | tr '[:upper:]' '[:lower:]' \
+  | tr ' ' '_' \
+  | tr -cd '[:alnum:]_')
 read -rp "Author: " AUTHOR
 
-TARGET=${TARGET:-"./pisnicky/ceske"}
+echo "$FILENAME"
 
+TARGET=${TARGET:-"./pisnicky/ceske"}
 
 if [[ -z "$FILENAME" ]]; then
     echo "No filename given >:("
@@ -19,7 +29,39 @@ fi
 
 FILE="$TARGET/$FILENAME.typ"
 
+SONG_ESC=$(printf '%s\n' "$SONG" | sed 's/[&/\]/\\&/g')
+AUTHOR_ESC=$(printf '%s\n' "$AUTHOR" | sed 's/[&/\]/\\&/g')
+
 sed \
-    -e "s/{{SONG}}/$SONG/g" \
-    -e "s/{{AUTHOR}}/$AUTHOR/g" \
+    -e "s/{{SONG}}/$SONG_ESC/g" \
+    -e "s/{{AUTHOR}}/$AUTHOR_ESC/g" \
     "$TEMPLATE" > "$FILE"
+
+DEFAULT="$TARGET/default.typ"
+INCLUDE_LINE="#include \"$FILE\""
+
+if grep -qF "$INCLUDE_LINE" "$DEFAULT" 2>/dev/null; then
+    echo "Already in default.typ, skipping."
+    exit 0
+fi
+
+echo "#include \"$FILE\"" >> "$DEFAULT"
+
+# TODO: LLM Generated -> replace with something better
+# I just don't have the energy to do write it myself right now
+grep '^#include' "$FILE" \
+  | awk -F'"' '{ key = $2; gsub(/_/, " ", key); print key "\t" $0 }' \
+  | sort \
+  | cut -f2- \
+  > /tmp/sorted_includes
+
+awk '
+  BEGIN { getline line < "/tmp/sorted_includes" }
+  /^\/\/ *#include/ { print; next }
+  /^#include/ { print line; getline line < "/tmp/sorted_includes"; next }
+' "$DEFAULT" > /tmp/result
+
+mv /tmp/result "$DEFAULT"
+rm /tmp/sorted_includes
+
+echo "Created $FILE and added to $DEFAULT"
