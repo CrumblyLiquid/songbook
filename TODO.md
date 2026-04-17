@@ -57,7 +57,7 @@
 - [ ] První signální
 - [ ] Ráno jedu dál
 - [ ] Rozvíjej se poupátko
-- [ ] Sedmnáct dnů
+- [x] Sedmnáct dnů
 - [ ] Síla starejch vín
 - [ ] Snadné je žít
 - [ ] Sovy v mazutu

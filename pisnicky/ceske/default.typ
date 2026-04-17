@@ -75,6 +75,7 @@
 #include "pulnocni.typ"
 // #include "rock_n_roll_pro_beethovena.typ"
 #include "saro.typ"
+#include "sedmnact_dnu.typ"
 #include "sipkova_ruzenka.typ"
 #include "skladanka.typ"
 #include "skritkove_zednici.typ"
