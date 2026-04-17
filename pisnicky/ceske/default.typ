@@ -14,6 +14,7 @@
 #include "co_bylo_dal.typ"
 #include "co_jsem_mel_dnes_k_obedu.typ"
 // #include "co_kdyz.typ"
+#include "co_z_tebe_bude.typ"
 // #include "curej.typ"
 #include "delani.typ"
 #include "delfini.typ"

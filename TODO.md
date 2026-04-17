@@ -10,7 +10,7 @@
 - [x] Blaženo
 - [x] Carpe diem
 - [x] Co bylo dál?
-- [ ] Co z tebe bude
+- [x] Co z tebe bude
 - [ ] Černej pasažér
 - [ ] Dajána
 - [ ] Divokej horskej tymián
