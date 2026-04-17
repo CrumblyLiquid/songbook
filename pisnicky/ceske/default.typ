@@ -20,6 +20,7 @@
 #include "dajana.typ"
 #include "delani.typ"
 #include "delfini.typ"
+#include "divokej_hoskej_tymian.typ"
 #include "dva_roky_prazdnin.typ"
 #include "dve_mala_kridla.typ"
 #include "eldorado.typ"

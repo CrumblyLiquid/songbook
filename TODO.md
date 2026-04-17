@@ -12,8 +12,8 @@
 - [x] Co bylo dál?
 - [x] Co z tebe bude
 - [x] Černej pasažér
-- [ ] Dajána
-- [ ] Divokej horskej tymián
+- [x] Dajána
+- [x] Divokej horskej tymián
 - [ ] Drobná paralela
 - [ ] Dva havrani
 - [ ] Fajn džob
