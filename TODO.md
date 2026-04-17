@@ -65,7 +65,7 @@
 - [ ] Svaz českých bohémů
 - [ ] Svobodná zem
 - [ ] Šrouby a matice
-- [ ] To ta Heľpa
+- [x] To ta Heľpa
 - [ ] Topič u piána
 - [ ] V 7:25
 - [x] Včelín

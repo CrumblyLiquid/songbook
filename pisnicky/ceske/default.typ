@@ -81,6 +81,7 @@
 #include "skritkove_zednici.typ"
 #include "slunecny_hrob.typ"
 #include "tabacek.typ"
+#include "to_ta_helpa.typ"
 #include "trezor.typ"
 #include "trpaslici_svatba.typ"
 #include "tygr.typ"
