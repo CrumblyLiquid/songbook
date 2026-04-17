@@ -11,7 +11,7 @@
 - [x] Carpe diem
 - [x] Co bylo dál?
 - [x] Co z tebe bude
-- [ ] Černej pasažér
+- [x] Černej pasažér
 - [ ] Dajána
 - [ ] Divokej horskej tymián
 - [ ] Drobná paralela

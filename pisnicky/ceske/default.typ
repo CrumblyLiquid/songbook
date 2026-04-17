@@ -10,6 +10,7 @@
 #include "blazeno.typ"
 #include "carodejnice_z_amesbury.typ"
 #include "carpe_diem.typ"
+#include "cernej_pasazer.typ"
 // #include "cerne_oci_jdete_spat.typ"
 #include "co_bylo_dal.typ"
 #include "co_jsem_mel_dnes_k_obedu.typ"
