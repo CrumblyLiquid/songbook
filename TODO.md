@@ -9,7 +9,7 @@
 - [x] Až se k nám právo vrátí
 - [x] Blaženo
 - [x] Carpe diem
-- [ ] Co bylo dál?
+- [x] Co bylo dál?
 - [ ] Co z tebe bude
 - [ ] Černej pasažér
 - [ ] Dajána
