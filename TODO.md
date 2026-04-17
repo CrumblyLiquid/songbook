@@ -14,7 +14,7 @@
 - [x] Černej pasažér
 - [x] Dajána
 - [x] Divokej horskej tymián
-- [ ] Drobná paralela
+- [x] Drobná paralela
 - [ ] Dva havrani
 - [ ] Fajn džob
 - [ ] Huddsonské šífy
