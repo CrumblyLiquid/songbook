@@ -17,7 +17,7 @@
 - [x] Drobná paralela
 - [x] Dva havrani
 - [x] Fajn džob
-- [ ] Huddsonské šífy
+- [x] Huddsonské šífy
 - [x] Hvězdář
 - [ ] Chci ti říct
 - [ ] Chci zas v tobě spát

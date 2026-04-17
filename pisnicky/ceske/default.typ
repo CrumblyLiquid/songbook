@@ -32,6 +32,7 @@
 #include "hlavne_ze_jsme_na_vzduchu.typ"
 #include "hlupaku_najdu_te.typ"
 #include "hrisna_tela_kridla_motyli.typ"
+#include "hudsonsky_sify.typ"
 #include "huslicky.typ"
 #include "hvezdar.typ"
 #include "igelit.typ"
