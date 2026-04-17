@@ -17,6 +17,7 @@
 // #include "co_kdyz.typ"
 #include "co_z_tebe_bude.typ"
 // #include "curej.typ"
+#include "dajana.typ"
 #include "delani.typ"
 #include "delfini.typ"
 #include "dva_roky_prazdnin.typ"
