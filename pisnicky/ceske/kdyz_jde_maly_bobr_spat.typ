@@ -27,11 +27,11 @@
 )
 
 #verse[
-  #c[C\#]Když jde malý bobr #c[G\#]spát, bobr #c[F\#]spát, bobr #c[G\#][spát]~\
-  #c[C\#]tak si chvilku hraje #c[G\#]rád, hraje #c[F\#]rád, hraje #c[C\#][rád]~\
-  #c[C\#]postaví se na zad#c[G\#]ní, na zad#c[F\#]ní, na zad#c[G\#][ní]~\
+  #c[C\#]Když jde malý bobr #c[G\#]spát, bobr #c[F\#]spát, bobr #c[G\#]spát\
+  #c[C\#]tak si chvilku hraje #c[G\#]rád, hraje #c[F\#]rád, hraje #c[C\#]rád\
+  #c[C\#]postaví se na zad#c[G\#]ní, na zad#c[F\#]ní, na zad#c[G\#]ní\
   #c[C\#]jenom, bobře, nespad#c[G\#]ni, jenom #c[F\#]nespad#c[C\#]ni
-]<r1>
+]<bobr-r1>
 
 #nchorus[
   #c[G\#]Prosím vás, buďte tak dobří\
@@ -46,7 +46,7 @@
   aby mu to pomoh lo, dělá glo-glo-glo
 ]
 
-#chorus(ref: <r1>)[
+#nchorus(ref: <bobr-r1>)[
   Prosím vás, buďte tak dobří...
 ]
 
@@ -57,7 +57,7 @@
   a už spinká jako dub, spinká jako dub
 ]
 
-#chorus[
+#nchorus[
   Prosím vás, buďte tak hodní\
   dělejte to jak bobři vodní\
   stejně Jana jako Jan pochodujte do hajan
@@ -70,7 +70,7 @@
   jenom, bobře, nespad ni, jenom nespadni
 ]
 
-#chorus(ref: <r1>)[
+#nchorus(ref: <bobr-r1>)[
   Prosím vás, buďte tak dobří...
 ]
 
