@@ -1,19 +1,29 @@
 #import "@local/crumblysong:0.1.0": *;
 
+#import "/style.typ": style
+#show: style
+
 #show: doc => song(
   title: [Když jde malý bobr spát],
   author: [Petr Skoumal],
-  note: [
-    #set text(size: 0.5em)
-    #set align(center)
-    _Je možné to hrát od (nezní tak hezky)\
-    D A G A, D A G D, A\
-    Nebo s capem na 4. pražci:\
-    A E D E, A E D A, E_
-  ],
+  // note: [
+  //   #set text(size: 0.5em)
+  //   #set align(center)
+  //   _Je možné to hrát od (nezní tak hezky)\
+  //   D A G A, D A G D, A\
+  //   Nebo s capem na 4. pražci:\
+  //   A E D E, A E D A, E_
+  // ],
   font_size: 0.9em,
   line_spacing: 0.5em,
+  transpose: 8,
+  capo: 4,
   doc,
+)
+
+#let nchorus = chorus.with(
+  numbered: true,
+  numbering: "1",
 )
 
 #verse[
@@ -21,9 +31,9 @@
   #c[C\#]tak si chvilku hraje #c[G\#]rád, hraje #c[F\#]rád, hraje #c[C\#][rád]~\
   #c[C\#]postaví se na zad#c[G\#]ní, na zad#c[F\#]ní, na zad#c[G\#][ní]~\
   #c[C\#]jenom, bobře, nespad#c[G\#]ni, jenom #c[F\#]nespad#c[C\#]ni
-]
+]<r1>
 
-#chorus(prefix: "R1:")[
+#nchorus[
   #c[G\#]Prosím vás, buďte tak dobří\
   #c[G\#]dělejte to jako ti bobři\
   #c[G\#]raději hned po dobrém následujte za bobrem
@@ -36,7 +46,7 @@
   aby mu to pomoh lo, dělá glo-glo-glo
 ]
 
-#chorus(prefix: "R1:")[
+#chorus(ref: <r1>)[
   Prosím vás, buďte tak dobří...
 ]
 
@@ -47,7 +57,7 @@
   a už spinká jako dub, spinká jako dub
 ]
 
-#chorus(prefix: "R2:")[
+#chorus[
   Prosím vás, buďte tak hodní\
   dělejte to jak bobři vodní\
   stejně Jana jako Jan pochodujte do hajan
@@ -60,7 +70,7 @@
   jenom, bobře, nespad ni, jenom nespadni
 ]
 
-#chorus(prefix: "R1:")[
+#chorus(ref: <r1>)[
   Prosím vás, buďte tak dobří...
 ]
 
