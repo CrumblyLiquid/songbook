@@ -37,6 +37,7 @@
 #include "hvezdar.typ"
 #include "igelit.typ"
 #include "jaro_dela_pokusy.typ"
+#include "jaro.typ"
 #include "je_mi_to_bracha.typ"
 #include "kacer.typ"
 #include "karavana_mraku.typ"

@@ -23,7 +23,7 @@
 - [ ] Chci zas v tobě spát
 - [ ] Chválím tě země má
 - [ ] Jelen
-- [ ] Jaro (Fešáci)
+- [x] Jaro (Fešáci)
 - [ ] Jdem zpátky do lesů
 - [ ] Jericho
 - [ ] Konvička
