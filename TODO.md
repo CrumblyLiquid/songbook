@@ -15,7 +15,7 @@
 - [x] Dajána
 - [x] Divokej horskej tymián
 - [x] Drobná paralela
-- [ ] Dva havrani
+- [x] Dva havrani
 - [ ] Fajn džob
 - [ ] Huddsonské šífy
 - [x] Hvězdář

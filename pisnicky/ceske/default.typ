@@ -22,6 +22,7 @@
 #include "delfini.typ"
 #include "divokej_hoskej_tymian.typ"
 #include "drobna_paralela.typ"
+#include "dva_havrani.typ"
 #include "dva_roky_prazdnin.typ"
 #include "dve_mala_kridla.typ"
 #include "eldorado.typ"
