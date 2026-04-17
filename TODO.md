@@ -63,7 +63,7 @@
 - [ ] Sovy v mazutu
 - [ ] Studený nohy
 - [ ] Svaz českých bohémů
-- [ ] Svobodná zem
+- [x] Svobodná zem
 - [ ] Šrouby a matice
 - [x] To ta Heľpa
 - [ ] Topič u piána
