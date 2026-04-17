@@ -26,6 +26,7 @@
 #include "dva_roky_prazdnin.typ"
 #include "dve_mala_kridla.typ"
 #include "eldorado.typ"
+#include "fajn_dzob.typ"
 #include "hejkal.typ"
 #include "hej_teto.typ"
 #include "hlavne_ze_jsme_na_vzduchu.typ"

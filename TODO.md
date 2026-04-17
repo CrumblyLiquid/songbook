@@ -16,7 +16,7 @@
 - [x] Divokej horskej tymián
 - [x] Drobná paralela
 - [x] Dva havrani
-- [ ] Fajn džob
+- [x] Fajn džob
 - [ ] Huddsonské šífy
 - [x] Hvězdář
 - [ ] Chci ti říct
