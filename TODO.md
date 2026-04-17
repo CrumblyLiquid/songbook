@@ -8,7 +8,7 @@
 - [x] Ani k stáru
 - [x] Až se k nám právo vrátí
 - [x] Blaženo
-- [ ] Carpe diem
+- [x] Carpe diem
 - [ ] Co bylo dál?
 - [ ] Co z tebe bude
 - [ ] Černej pasažér
