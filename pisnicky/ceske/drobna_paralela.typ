@@ -19,7 +19,7 @@
 #chorus[
   #c[C]Nic není jako #c[G]dřív, #c[D]nic není jak #c[Emi]bejvávalo.\
   #c[C]Nic není jako #c[G]dřív, #c[D]to se nám to #c[Emi]mívávalo.\
-  #c[C]Nic není jako #c[G]dřív, #c[D]ačkoliv máš všechno #c[Emi]co si vždycky chtěla.\
+  #c[C]Nic není jako #c[G]dřív, #c[D]ačkoliv máš #c[Emi]všechno co si vždycky chtěla.\
   #c[C]Nic není jako #c[G]dřív, #c[D]ačkoliv drobná para#c[Emi]lela by tu byla.
 ]
 
