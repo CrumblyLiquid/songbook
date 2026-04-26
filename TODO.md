@@ -39,7 +39,7 @@
 - [ ] Malování
 - [ ] Marie
 - [ ] Medvědi nevědí
-- [ ] Miluju a maluju
+- [x] Miluju a maluju
 - [x] Mlýny
 - [ ] Mraky
 - [ ] Na vodě
