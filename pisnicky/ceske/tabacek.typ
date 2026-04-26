@@ -35,7 +35,7 @@
 ]
 
 #verse[
-  Volané číslo je opojené a bude,\
+  Volané číslo je odpojené a bude,\
   odpojené, žádný né, že né.\
   Volané číslo včetně mojí tváře,\
   vymažte ze svýho adresáře.

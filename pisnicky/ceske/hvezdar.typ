@@ -57,7 +57,7 @@
 #bridge[
   #rep(repeat: 3)[
     Obzor ne#c[D]klesne níž, je ráno #c[A]a ty spíš.\
-    Od vlků #c[Emi]odraná hvězdáře #c[G]Giordána...\
+    Od vlků #c[Emi]odraná hvězdáře #c[G]Giordána...
   ]
   Opouš#c[D]tíš...
 ]

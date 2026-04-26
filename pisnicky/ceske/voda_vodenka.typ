@@ -8,7 +8,7 @@
 
 #verse[
   #c[C]Voda, #c[G]voděn#c[Ami]ka
-  #c[F]hladí #c[C]obláz#c[G]ky.\
+  #s[F]hladí #c[C]obláz#c[G]ky.\
   #rep[
     #c[C]Takové je #c[C7]pohlazení,
     #c[F]takové je pohlazení
@@ -27,7 +27,7 @@
 
 #verse[
   #c[D]Když se #c[A]dvě srd#c[Hmi]ce
-  #c[G]šťastně #c[D]potka#c[A]jí,\
+  #s[G]šťastně #c[D]potka#c[A]jí,\
   #rep[
     #c[D]na voděnce #c[D7]chladné ledy,
     #c[G]na voděnce chladné ledy
