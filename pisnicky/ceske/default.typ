@@ -50,6 +50,7 @@
 #include "kocka_na_okne.typ"
 #include "kolik_je_na_svete.typ"
 // #include "komari_se_zenili.typ"
+#include "krajina_posedla_tmou.typ"
 #include "kral_a_klaun.typ"
 #include "lasko.typ"
 #include "lokomotiva.typ"

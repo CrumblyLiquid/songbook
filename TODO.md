@@ -27,7 +27,7 @@
 - [ ] Jdem zpátky do lesů
 - [ ] Jericho
 - [ ] Konvička
-- [ ] Krajina posedlá tmou
+- [x] Krajina posedlá tmou
 - [x] Král a klaun
 - [ ] Kujme pikle
 - [x] Lásko (Kryl)
