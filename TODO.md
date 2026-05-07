@@ -30,7 +30,7 @@
 - [ ] Krajina posedlá tmou
 - [x] Král a klaun
 - [ ] Kujme pikle
-- [ ] Lásko (Kryl)
+- [x] Lásko (Kryl)
 - [ ] Lodníkův lament
 - [ ] Mackie Messer
 - [x] Magdaléna

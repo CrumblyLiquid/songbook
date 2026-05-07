@@ -51,6 +51,7 @@
 #include "kolik_je_na_svete.typ"
 // #include "komari_se_zenili.typ"
 #include "kral_a_klaun.typ"
+#include "lasko.typ"
 #include "lokomotiva.typ"
 #include "magdalena.typ"
 #include "malagelo.typ"
