@@ -39,7 +39,7 @@
   Jiný zas na kříž přísahal, že její kouzla zná,\
   v noci se v černou kočku mění dívka líbezná,\
   je třeba jednou provždy ukončit ďábelské řádění,\
-  a všichni křičeli jako posedlí:"Na šibenici s ní!"
+  a všichni křičeli jako posedlí: "Na šibenici s ní!"
 ]
 
 #verse[
