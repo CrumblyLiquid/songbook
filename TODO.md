@@ -69,7 +69,7 @@
 - [ ] Topič u piána
 - [ ] V 7:25
 - [x] Včelín
-- [ ] Veď mě dál
+- [x] Veď mě dál
 - [ ] Víno
 - [ ] Vlaštovky
 - [ ] Vlak v 0.5

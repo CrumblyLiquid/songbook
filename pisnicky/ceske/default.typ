@@ -91,6 +91,7 @@
 #include "vceli_medvidci.typ"
 #include "vcelin.typ"
 #include "v_dobrem_jsme_se_sesli.typ"
+#include "ved_me_dal_cesto_ma.typ"
 #include "v_mori_je_mista_dost.typ"
 #include "voda_vodenka.typ"
 #include "voda_ziva.typ"
