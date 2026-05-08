@@ -22,7 +22,7 @@
 - [x] Chci ti říct
 - [x] Chci zas v tobě spát
 - [x] Chválím tě země má
-- [ ] Jelen
+- [x] Jelen
 - [x] Jaro (Fešáci)
 - [ ] Jdem zpátky do lesů
 - [ ] Jericho
