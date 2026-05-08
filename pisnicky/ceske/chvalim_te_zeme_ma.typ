@@ -6,67 +6,65 @@
 #show: doc => song(
   title: [Chválím tě, Země má],
   author: [Zdeněk Svěrák, Jaroslav Uhlíř],
-  font_size: 0.95em,
-  line_spacing: 0.55em,
+  font_size: 0.90em,
+  capo: 1,
   doc,
 )
 
-#let st = underline.with(offset: 0.15em, stroke: black.lighten(50%))
-
 #verse[
-  #c[E]#st[Chvá]lím tě, #c[A]#st[Ze]mě má, _(Chválím tě, země má)_\
-  #c[E]#st[tvůj] žár i #c[H]#st[mráz], _(tvůj žár i mráz,)_\
-  #c[E]#st[tvá] tráva #c[A]#st[ze]lená _(tvá tráva zelená)_\
-  #c[E]#st[dál] #c[H]#st[vá]bí #c[E]#st[nás]. _(dál vábí nás.)_
+  #c[E]Chválím tě, #c[A]Země má, _(Chválím tě, země má)_\
+  #c[E]tvůj žár i #c[H]mráz, _(tvůj žár i mráz,)_\
+  #c[E]tvá tráva #c[A]zelená _(tvá tráva zelená)_\
+  #c[E]dál #c[H]vábí #c[E]nás. _(dál vábí nás.)_
 ]
 
 #verse[
-  #st[Máš] závoj #st[z ob]laků _(Máš závoj z oblaků)_\
-  #st[bí]lých, jak #st[sníh]. _(bílých, jak sníh.)_\
-  Hvězdo #st[má], bárko #st[zá]zraků _(Hvězdo má, bárko zázraků)_\
-  #st[na] #st[ne]be#st[sích]. _(na nebesích.)_
+  #ca[E]Máš závoj #ca[A]z oblaků _(Máš závoj z oblaků)_\
+  #ca[E]bílých, jak #ca[H]sníh. _(bílých, jak sníh.)_\
+  Hvězdo #ca[E]má, bárko #ca[A]zázraků _(Hvězdo má, bárko zázraků)_\
+  #ca[E]na #ca[H]nebe#ca[E]sích. _(na nebesích.)_
 ]
 
 #chorus[
-  Ať před #c[A]#st[mou] plane#c[E]#st[tou]\
-  hvězdný #c[A]prach zame#c[H]#st[tou].
+  Ať před #c[A]mou plane#c[E]tou\
+  hvězdný #c[A]prach zame#c[H]tou.
 ]
 
 #verse[
-  #st[Dej] vláhu #st[rost]linám,\
-  #st[dej] ptákům #st[pít],\
-  prosím #st[svou] přízeň #st[dej] i nám,\
-  #st[dej] #st[mír] a #st[klid].
+  #ca[E]Dej vláhu #ca[A]rostlinám,\
+  #ca[E]dej ptákům #ca[H]pít,\
+  prosím #ca[E]svou přízeň #ca[A]dej i nám,\
+  #ca[E]dej #ca[H]mír a #ca[E]klid.
 ]
 
 #verse[
-  #st[Dej] vláhu #st[rost]linám, _(Chválím tě, Země má,)_\
-  #st[dej] ptákům #st[pít], _(tvůj žár i mráz,)_\
-  prosím #st[svou] přízeň #st[dej] i nám, _(tvá tráva zelená)_\
-  #st[dej] #st[mír] a #st[klid]. _(dál vábí nás.)_
+  #ca[E]Dej vláhu #ca[A]rostlinám, _(Chválím tě, Země má,)_\
+  #ca[E]dej ptákům #ca[H]pít, _(tvůj žár i mráz,)_\
+  #ca[E]svou přízeň #ca[A]dej i nám, _(tvá tráva zelená)_\
+  #ca[E]dej #ca[H]mír a #ca[E]klid. _(dál vábí nás.)_
 ]
 
 #verse[
-  _(Máš závoj z oblaků)_\
-  _(bílých, jak sníh.)_\
-  _(Má bárko zázraků)_\
-  _(na nebesích.)_
+  #ca[E A][~]_(Máš závoj z oblaků)_\
+  #ca[E H][~]_(bílých, jak sníh.)_\
+  #ca[E A][~]_(Má bárko zázraků)_\
+  #ca[E H E][~]_(na nebesích.)_
 ]
 
 #chorus[
-  Ať před #st[mou] _(ať před mou)_ #st[pla]netou _(planetou)_\
-  hvězdný #st[prach] _(hvězdný prach)_ zame#st[tou].
+  Ať před #ca[A]mou _(ať před mou)_ #ca[E]planetou _(planetou)_\
+  hvězdný #ca[A]prach _(hvězdný prach)_ zame#ca[H]tou.
 ]
 
 #verse[
-  #st[Dej] vláhu #st[rost]linám, _(Dej vláhu rostlinám,)_\
-  #st[dej] ptákům #st[pít], _(dej ptákům pít,)_\
-  prosím #st[svou] přízeň #st[dej] i nám, _(svou přízeň dej i nám,)_\
-  #st[dej] #st[mír] a #st[klid]. _(dej mír a klid.)_\
+  #ca[E]Dej vláhu #ca[A]rostlinám, _(Dej vláhu rostlinám,)_\
+  #ca[E]dej ptákům #ca[H]pít, _(dej ptákům pít,)_\
+  prosím #ca[E]svou přízeň #ca[A]dej i nám, _(svou přízeň dej i nám,)_\
+  #ca[E]dej #ca[H]mír a #ca[E]klid. _(dej mír a klid.)_\
 ]
 
 #verse[
-  #c[E]#st[Svou] přízeň #c[A]#st[dej] i nám,\
-  #c[E]#st[dej] #c[H]#st[mír] a #c[E]#st[klid].
+  #c[E]Svou přízeň #c[A]dej i nám,\
+  #c[E]dej #c[H]mír a #c[E]klid.
 ]
 
