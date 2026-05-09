@@ -13,6 +13,8 @@ nyní přepsaná do Typstu :)
 
 #### [Historie verzí zpěvníku](https://github.com/CrumblyLiquid/songbook/releases)
 
+<img src="./cover/cover_preview.svg" alt="Alt Text" width="300">
+
 ## Kompilace
 
 Celý zpěvník je vysázen v [Typstu](https://typst.app/),
