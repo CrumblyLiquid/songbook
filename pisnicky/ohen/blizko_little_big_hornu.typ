@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Blízko Little Big Hornu],
   author: [Michal Tučný],
+  url: "https://www.youtube.com/watch?v=xsvfFBUEmXU",
   doc,
 )
 

@@ -6,6 +6,7 @@
 #show: doc => song(
   title: [Anděl],
   author: [Karel Kryl],
+  url: "https://www.youtube.com/watch?v=KkdXbPy97OE",
   doc,
 )
 

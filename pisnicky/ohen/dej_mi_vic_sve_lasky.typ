@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Dej mi víc své lásky],
   author: [Olympic],
+  url: "https://www.youtube.com/watch?v=oq31uMlpHFo",
   doc,
 )
 

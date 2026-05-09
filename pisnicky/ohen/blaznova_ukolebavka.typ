@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Bláznova ukolébavka],
   author: [František Řebíček a Pavel Dydovič],
+  url: "https://www.youtube.com/watch?v=d-64z2ZW9Rk",
   doc,
 )
 

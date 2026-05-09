@@ -1,8 +1,12 @@
 #import "@local/crumblysong:0.1.0": *;
 
+#import "/style.typ": style;
+#show: style
+
 #show: doc => song(
   title: [Bratříčku, zavírej vrátka],
   author: [Karel Kryl],
+  url: "https://www.youtube.com/watch?v=PTjttFge_rI",
   doc,
 )
 

@@ -6,6 +6,7 @@
 #show: doc => song(
   title: [Bedna od whisky],
   author: [Miki Ryvola],
+  url: "https://www.youtube.com/watch?v=GIGd36yPCj0",
   doc,
 )
 

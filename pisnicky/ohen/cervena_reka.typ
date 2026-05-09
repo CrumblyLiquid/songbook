@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Červená řeka],
   author: [Helena Vondráčková],
+  url: "https://www.youtube.com/watch?v=0yD07CFelIs",
   doc,
 )
 

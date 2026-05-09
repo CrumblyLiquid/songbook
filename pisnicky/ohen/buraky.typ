@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Buráky],
   author: [Michal Tučný],
+  url: "https://www.youtube.com/watch?v=Pvcmj0diV1k",
   doc,
 )
 

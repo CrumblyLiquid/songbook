@@ -6,6 +6,7 @@
 #show: doc => song(
   title: [Batalion],
   author: [Spirituál kvintet],
+  url: "https://www.youtube.com/watch?v=jMTYMnMfD3w",
   doc,
 )
 

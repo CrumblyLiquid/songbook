@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Byla jedna holčička v naší ulici],
   author: [Jan Werich a Karel Vlach],
+  url: "https://www.youtube.com/watch?v=22IcgPwXFQE",
   doc,
 )
 

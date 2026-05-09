@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Černá díra],
   author: [Karel Plíhal],
+  url: "https://www.youtube.com/watch?v=0uyHDelwRHM",
   doc,
 )
 

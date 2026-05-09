@@ -6,6 +6,7 @@
 #show: doc => song(
   title: [A té Rehradice],
   author: [Lidová],
+  url: "https://www.youtube.com/watch?v=SCa29AS0VkA",
   doc,
 )
 
