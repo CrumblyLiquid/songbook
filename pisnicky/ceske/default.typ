@@ -90,6 +90,7 @@
 #include "slunecny_hrob.typ"
 #include "stary_pribeh.typ"
 #include "tabacek.typ"
+#include "tlapky_klast_potichu.typ"
 #include "to_ta_helpa.typ"
 #include "trezor.typ"
 #include "trpaslici_svatba.typ"
