@@ -16,7 +16,9 @@ jobs:
         with:
           zip-packages: requirements.json
       - name: Compile
-        run: typst compile main.typ zpevnik.pdf
+        run: |
+          typst compile standard.typ zpevnik.pdf
+          typst compile alternative.typ zpevnik-alt.pdf
       - name: Upload
         uses: actions/upload-artifact@v6
         with:
@@ -26,7 +28,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release upload latest zpevnik.pdf --clobber || \
-          gh release create latest zpevnik.pdf \
+          gh release upload latest zpevnik.pdf zpevnik-alt.pdf --clobber || \
+          gh release create latest zpevnik.pdf zpevnik-alt.pdf \
             --title "Pracovní verze" \
             --notes "Toto je nejnovější pracovní verze zpěvníku."

@@ -5,7 +5,9 @@ nyní přepsaná do Typstu :)
 
 ## Stažení
 
-#### [Pracovní verze zpěvníku](https://github.com/CrumblyLiquid/songbook/releases/download/latest/zpevnik.pdf)
+#### [Aktuální zpěvník](https://github.com/CrumblyLiquid/songbook/releases/download/latest/zpevnik.pdf)
+
+#### [Aktualní zpěvník (verze s více akordy)](https://github.com/CrumblyLiquid/songbook/releases/download/latest/zpevnik-alt.pdf)
 
 [![Download](./static/download.png)](https://github.com/CrumblyLiquid/songbook/releases/download/latest/zpevnik.pdf)
 
