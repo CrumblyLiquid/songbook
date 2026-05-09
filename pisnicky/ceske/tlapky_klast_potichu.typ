@@ -8,6 +8,7 @@
 #show: doc => song(
   title: [Tlapky klást potichu],
   author: [Marek Eben],
+  url: "https://www.youtube.com/watch?v=JKxr07P8tsg",
   note: [
     Modroočko,
     _Kiki_,
