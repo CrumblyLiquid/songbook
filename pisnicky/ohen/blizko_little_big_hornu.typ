@@ -22,10 +22,10 @@
 ]
 
 #verse[
-  Tam blízko Little Big Hornu šedivou prérií\
-  táhne generál Custer s sedmou kavalerií,\
-  marně mu stopař Bridger radí: zpátky povel dej,\
-  jedinou možnost ještě máš, život si zachovej.
+  Tam #ca[Ami]blízko Little Big Hornu šedivou prérií\
+  táh#ca[Ami]ne generál Custer s sedmou #ca[Dmi]kavalerií,\
+  mar#ca[Ami]ně mu stopař Bridger radí: #ca[Dmi]zpátky povel dej,\
+  je#ca[Ami]dinou možnost ještě máš, život si zacho#ca[A]vej.
 ]
 
 #chorus[
@@ -33,10 +33,10 @@
 ]
 
 #verse[
-  Tam blízko Little Big Hornu se vznáší smrti stín,\
-  padají jezdci z koní, výstřely z karabin,\
-  límce modrejch kabátů barví krev červená,\
-  kmen Siouxů je statečný a dobře svůj kraj zná.
+  Tam #ca[Ami]blízko Little Big Hornu se vznáší smrti stín,\
+  pa#ca[Ami]dají jezdci z koní, vý#ca[Dmi]střely z karabin,\
+  #ca[Ami]límce modrejch kabátů bar#ca[Dmi]ví krev červená,\
+  kmen #ca[Ami]Siouxů je statečný a dobře svůj kraj #ca[A]zná.
 ]
 
 #chorus[
@@ -44,10 +44,10 @@
 ]
 
 #verse[
-  Pak všechno ztichlo a jen tamtam duní nad krajem,\
-  v oblaku prachu mizí Siouxů vítězný kmen,\
-  cáry vlajky hvězdnatý po kopcích vítr vál,\
-  tam uprostřed svých vojáků leží i generál.
+  Pak #ca[Ami]všechno ztichlo a jen tamtam duní nad krajem,\
+  v ob#ca[Ami]laku prachu mizí Siou#ca[Dmi]xů vítězný kmen,\
+  #ca[Ami]cáry vlajky hvězdnatý po #ca[Dmi]kopcích vítr vál,\
+  tam #ca[Ami]uprostřed svých vojáků leží i gene#ca[A]rál.
 ]
 
 #chorus[

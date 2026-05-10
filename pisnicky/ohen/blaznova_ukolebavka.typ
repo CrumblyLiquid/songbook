@@ -22,10 +22,10 @@
 ]
 
 #verse[
-  Máš, má ovečko, dávno spát, už máme půlnoc temnou,\
-  zítra budou nám bláznů lát, že ráda snídáš se mnou,\
-  proč měl bych jim lhát, že jsem tady sám,\
-  když tebe mám rád, když tebe tu mám.
+  #ca[D]Máš, má ovečko, #ca[A]dávno spát, už #ca[G]máme půlnoc #ca[D]temnou,\
+  #ca[D]zítra budou nám #ca[A]bláznů lát, že #ca[G]ráda snídáš #ca[D]se mnou,\
+  proč #ca[A]měl bych jim lhát, že #ca[G]jsem tady sám,\
+  když #ca[A]tebe mám rád, když #ca[G]tebe tu #ca[A]mám.
 ]
 
 #chorus[

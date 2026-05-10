@@ -22,30 +22,30 @@
 ]
 
 #verse[
-  Když vyrostla holčička v naší ulici\
-  tak si vzala chlapečka s bílou čepicí.\
-  Z chlapečka se vyklubal statný kapitán,\
-  svaly měl jak Herkules, břicho jako džbán.
+  #ca[D]Když vyrostla holčička #ca[A]v naší ulici\
+  #ca[A]tak si vzala chlapečka #ca[D]s bílou čepicí.\
+  #ca[D]Z chlapečka se vyklubal #ca[A]statný kapitán,\
+  #ca[A]svaly měl jak Herkules, #ca[D]břicho jako džbán.
 ]
 
 #chorus[
-  Nosil kalhoty dole široký,\
-  vlněný tričko přes tlustý boky.\
-  Říkal jí stále moje rybičko,\
-  oba dva však měli své vlastní tričko
+  #ca[D]Nosil kalhoty #ca[A]dole široký,\
+  #ca[A]vlněný tričko #ca[D]přes tlustý boky.\
+  #ca[D]Říkal jí stále #ca[A]moje rybičko,\
+  #ca[A]oba dva však měli #ca[D]své vlastní tričko
 ]
 
 #verse[
-  Teď chodí babička naší ulicí,\
-  za ní cupe dědeček s bílou čepicí.\
-  O dědečkovi se ví, že byl admirál,\
-  že pil když byl námořníkem a že pije dál.
+  #ca[D]Teď chodí babička #ca[A]naší ulicí,\
+  #ca[A]za ní cupe dědeček #ca[D]s bílou čepicí.\
+  #ca[D]O dědečkovi se ví, #ca[A]že byl admirál,\
+  #ca[A]že pil když byl námořníkem #ca[D]a že pije dál.
 ]
 
 #chorus[
-  Nosí kalhoty dole široký,\
-  vlněný svetr přes suchý boky,\
-  Když zapadá večer za hory sluníčko,\
-  Ona čeká na něho a plete mu tričko.
+  #ca[D]Nosí kalhoty #ca[A]dole široký,\
+  #ca[A]vlněný svetr přes #ca[D]suchý boky,\
+  #ca[D]Když zapadá večer za #ca[A]hory sluníčko,\
+  #ca[A]Ona čeká na něho a #ca[D]plete mu tričko.
 ]
 

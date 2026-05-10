@@ -22,10 +22,10 @@
 ]
 
 #verse[
-  Plukovník sedí v sedle, volá:„Yankeeové jdou!“,\
-  ale mužstvo v trávě leží, prej už dál nemohou,\
-  pan plukovník se otočí a koukne do dálky,\
-  vidí slavnou armádu, jak louská buráky.
+  Plu#ca[D]kovník sedí v sedle, volá: "#ca[G]Yankeeové #ca[D]jdou!",\
+  ale #ca[D]mužstvo v trávě leží, prej #ca[E7]dál už nemo#ca[A7]hou,\
+  pan #ca[D]plukovník se otočí a #ca[G]koukne do dál#ca[D]ky,\
+  tam #ca[D]vidí slavnou armádu, jak #ca[E7]louská #ca[A7]burá#ca[D]ky.
 ]
 
 #chorus[
@@ -33,10 +33,10 @@
 ]
 
 #verse[
-  Až tahle válka skončí a jestli budem žít,\
-  svý milenky a ženy pak půjdem políbit,\
-  a když se zeptaj‘: „Hrdino, cos‘ dělal za války?“\
-  „Já flákal jsem se s kvérem a louskal buráky.“
+  Až #ca[D]tahle válka skončí a #ca[G]jestli budem #ca[D]žít,\
+  svý #ca[D]milenky a ženy pak #ca[E7]půjdem polí#ca[A7]bit,\
+  když #ca[D]zeptaj‘ se tě: "Hrdino, cos‘ #ca[G]dělal za vál#ca[D]ky?"\
+  „Já #ca[D]flákal jsem se s kvérem a #ca[E7]louskal #ca[A7]burá#ca[D]ky.“
 ]
 
 #chorus[
