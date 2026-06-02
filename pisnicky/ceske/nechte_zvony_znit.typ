@@ -17,10 +17,10 @@
 ]
 
 #verse[
-  Chtěla bych znát píseň hrozně dlouhou,\
-  vyzpívat v ní samotu mých dnů.\
-  Ty naučils mě polovinu pouhou\
-  a já prosím, nechte zvony znít.
+  #ca[C]Chtěla bych znát #ca[G]píseň hrozně #ca[C]dlouhou,\
+  #ca[C]vyzpívat v ní #ca[G]samotu mých #ca[C]dnů.\
+  Ty #ca[F]nau#ca[C]čils mě #ca[G]polo#ca[Ami]vinu #ca[G]pouhou\
+  #ca[C]a já prosím, #ca[F]nechte zvony #ca[B]znít.#ca[G]
 ]
 
 #chorus[
@@ -30,11 +30,11 @@
 
 
 #verse[
-  Přijde jednou skladatel a básník,\
-  který umí sto divnejch snů žít.\
-  Má píseň bude růst jak křehkej krápník\
-  a já prosím, nechte zvony znít,\
-  a já prosím, nechte zvony znít.
+  #ca[C]Přijde jednou #ca[G]skladatel a #ca[C]básník,\
+  #ca[C]který umí #ca[G]sto divnejch snů #ca[C]žít.\
+  Má #ca[F]píseň #ca[C]bude #ca[G]růst jak #ca[Ami]křehkej #ca[G]krápník\
+  #ca[C]a já prosím, #ca[F]nechte zvony #ca[B]znít,#ca[G]\
+  #ca[C]a já prosím, #ca[F]nechte zvony #ca[B]znít.#ca[G]
 ]
 
 #solo[
@@ -49,10 +49,10 @@
 ]
 
 #verse[
-  Přijde jednou skladatel a básník,\
-  který umí sto divnejch snů žít.\
-  Má píseň bude růst jak křehkej krápník\
-  a já prosím, nechte zvony znít,\
-  a já prosím, nechte zvony znít,\
-  a já prosím, nechte zvony zníííííííííít.
+  #ca[C]Přijde jednou #ca[G]skladatel a #ca[C]básník,\
+  #ca[C]který umí #ca[G]sto divnejch snů #ca[C]žít.\
+  Má #ca[F]píseň #ca[C]bude #ca[G]růst jak #ca[Ami]křehkej #ca[G]krápník\
+  #ca[C]a já prosím, #ca[F]nechte zvony #ca[B]znít,#ca[G]\
+  #ca[C]a já prosím, #ca[F]nechte zvony #ca[B]znít,#ca[G]\
+  #ca[C]a já prosím, #ca[F]nechte zvony #ca[B]zníííí#ca[G]íííííít.
 ]

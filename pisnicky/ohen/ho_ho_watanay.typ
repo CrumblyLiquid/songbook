@@ -8,7 +8,7 @@
 
 #verse[
   #c[D]Spinkej, můj maličký, #c[C]máš v očích #c[D]hvězdičky,\
-  dám ti je #c[C]do vlasů, tak #c[G]usínej, tak #c[D]usínej.
+  #c[D]dám ti je #c[C]do vlasů, tak #c[G]usínej, tak #c[D]usínej.
 ]
 
 #chorus[
@@ -17,8 +17,8 @@
 ]
 
 #verse[
-  Sladkou vůni nese ti noční motýl z perleti,\
-  vánek ho kolíbá, už usíná, už usíná.
+  #ca[D]Sladkou vůni nese ti #ca[C]noční motýl #ca[D]z perleti,\
+  #ca[D]vánek ho #ca[C]kolíbá, už #ca[G]usíná, už #ca[D]usíná.
 ]
 
 #chorus[
@@ -26,8 +26,8 @@
 ]
 
 #verse[
-  V lukách to zavoní, rád jezdíš na koni,\
-  má barvu havraní, jak uhání, jak uhání.
+  #ca[D]V lukách to zavoní, #ca[C]rád jezdíš #ca[D]na koni,\
+  #ca[D]má barvu #ca[C]havraní, jak #ca[G]uhání, jak #ca[D]uhání.
 ]
 
 #chorus[
@@ -35,8 +35,8 @@
 ]
 
 #verse[
-  V dlaních motýl usíná, hvězdička už zhasíná,\
-  vánek, co ji k tobě nes', až do léta ti odlétá.
+  #ca[D]V dlaních motýl usíná, #ca[C]hvězdička už #ca[D]zhasíná,\
+  #ca[D]vánek, co ji #ca[C]k tobě nes', až #ca[G]do léta ti #ca[D]odlétá.
 ]
 
 #chorus[

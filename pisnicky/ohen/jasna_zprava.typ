@@ -13,9 +13,9 @@
 ]
 
 #verse[
-  Dík tobě se vidím zvenčí,\
-  připadám si starší menší sám,\
-  kam se kouknu, kousek tebe mám.
+  #ca[G]Dík tobě se vidím zvenčí,\
+  #ca[Emi]připadám si #ca[C]starší menší #ca[D]sám,\
+  #ca[Ami]kam se kouknu, #ca[C]kousek tebe #ca[G]mám.
 ]
 
 #chorus[
@@ -27,9 +27,9 @@
 ]
 
 #verse[
-  Odešlas mi před úsvitem,\
-  mám snad bloudit vlastním bytem sám,\
-  kam se kouknu, kousek tebe mám.
+  #ca[G]Odešlas mi před úsvitem,\
+  #ca[Emi]mám snad bloudit #ca[C]vlastním bytem #ca[D]sám,\
+  #ca[Ami]kam se kouknu, #ca[C]kousek tebe #ca[G]mám.
 ]
 
 #chorus[
@@ -37,9 +37,9 @@
 ]
 
 #verse[
-  Skončili jsme jasná zpráva,\
-  není komu z okna mávat víc,\
-  jasná zpráva, rub, co nemá líc.
+  #ca[G]Skončili jsme jasná zpráva,\
+  #ca[Emi]není komu #ca[C]z okna mávat #ca[D]víc,\
+  #ca[Ami]jasná zpráva, #ca[C]rub, co nemá #ca[G]líc.
 ]
 
 #chorus[

@@ -23,10 +23,10 @@
 ]
 
 #verse[
-  Tam kde byl pláč, tam Frankie hezkou píseň měl,\
-  slzy neměl rád, chtěl se jenom smát.\
-  A když pak ranče večer tiše usínaj,\
-  Frankův zpěv jde dál, nocí s písní dál.
+  Tam kde byl #ca[G]pláč, tam Frankie #ca[C]hezkou píseň #ca[G]měl,\
+  #ca[G]slzy neměl #ca[D]rád, #ca[C]chtěl se jenom #ca[G]smát.\
+  A když pak #ca[G]ranče večer #ca[C]tiše usí#ca[G]naj,\
+  Frankův zpěv jde #ca[D]dál, #ca[C]nocí s písní #ca[G]dál.
 ]
 
 #chorus[
@@ -34,10 +34,10 @@
 ]
 
 #verse[
-  Tak Frankieho vám jednou našli, přestal žít,\
-  jeho srdce spí, tiše klidně spí.\
-  Bůh ví jak,za co, tenhle smíšek konec měl,\
-  farář píseň pěl, umíráček zněl.
+  Tak Frankie#ca[G]ho vám jednou #ca[C]našli, přestal #ca[G]žít,\
+  #ca[G]jeho srdce #ca[D]spí, #ca[C]tiše klidně #ca[G]spí.\
+  Bůh ví jak, #ca[G]za co, tenhle #ca[C]smíšek konec #ca[G]měl,\
+  farář píseň #ca[D]pěl, #ca[C]umíráček #ca[G]zněl.
 ]
 
 #chorus[

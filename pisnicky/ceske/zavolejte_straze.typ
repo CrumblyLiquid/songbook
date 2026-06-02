@@ -12,34 +12,32 @@
 ]
 
 #verse[
-  Skutálí si páže kouli velké ráže\
-  kouli velké ráže, můžete se smát
+  #ca[E]Skutálí si páže kouli velké ráže\
+  #ca[H]kouli velké ráže, #ca[E]můžete se smát
 ]
 
 #verse[
-  Vám se asi zdá, že páže nedokáže \
-  páže nedokáže ztéci pevný hrad
+  #ca[E]Vám se asi zdá, že páže nedokáže \
+  #ca[H]páže nedokáže #ca[E]ztéci pevný hrad
 ]
 
 #verse[
-  To neznáte páže, s koulí velké ráže\
-  s koulí velké ráže, může se to stát
+  #ca[E]To neznáte páže, s koulí velké ráže\
+  #ca[H]s koulí velké ráže, #ca[E]může se to stát
 ]
 
 #chorus[
-  #c[A]Vá#c[E]že#c[H]ní #c[A]do#c[E]spě#c[H][lí]~\
+  #c[A]Vá#c[E]že#c[H]ní #c[A]do#c[E]spě#c[H]lí\
   #c[A]rač#c[E]te #c[H]vstát #c[A]z poste#c[E]lí
 ]
 
 #verse[
-  Zavolejte stráže, zbláznilo se páže\
-  zbláznilo se páže,\
-  prý chce dobýt hrad
+  #ca[E]Zavolejte stráže, zbláznilo se páže\
+  #ca[H]zbláznilo se páže, #ca[E]prý chce dobýt hrad
 ]
 
 #verse[
-  To neznáte páže, s koulí velké ráže\
-  s koulí velké ráže,\
-  může se to stát
+  #ca[E]To neznáte páže, s koulí velké ráže\
+  #ca[H]s koulí velké ráže, #ca[E]může se to stát
 ]
 

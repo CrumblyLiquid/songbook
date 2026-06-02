@@ -17,8 +17,8 @@
 ]
 
 #verse[
-  Jdi si lehnout, ať už spíš, ať z toho snu něco máš,\
-  ráno, až se probudíš, polibek mi taky dáš.
+  #ca[D]Jdi si lehnout, #ca[G]ať už spíš, #ca[Emi]ať z toho snu #ca[A]něco máš,\
+  #ca[D]ráno, až se #ca[G]probudíš, #ca[Emi]polibek mi #ca[A]taky dáš.
 ]
 
 #chorus[
@@ -26,8 +26,8 @@
 ]
 
 #verse[
-  Rozhoď vlasy na polštář a sni o mně krásnej sen,\
-  nebo ráno nepoznáš, že je tady nový den.
+  #ca[D]Rozhoď vlasy #ca[G]na polštář #ca[Emi]a sni o mně #ca[A]krásnej sen,\
+  #ca[D]nebo ráno #ca[G]nepoznáš, #ca[Emi]že je tady #ca[A]nový den.
 ]
 
 #chorus[

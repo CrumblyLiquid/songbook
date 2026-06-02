@@ -2,7 +2,7 @@
 
 #show: doc => song(
   title: [Každý ví, že nad kouzla není (2018)],
-  font_size: 0.9em,
+  font_size: 0.89em,
   line_spacing: 0.5em,
   doc,
 )

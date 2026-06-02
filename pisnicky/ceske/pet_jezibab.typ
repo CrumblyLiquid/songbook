@@ -17,15 +17,15 @@
 ]
 
 #verse[
-  Pět ježibab s jedním uchem\
-  jako hejno letí vzduchem,\
-  letí, letí v letu svačí\
-  pět ježibab na tryskáči.
+  #ca[Dmi]Pět ježibab #ca[A]s jedním u#ca[Dmi]chem\
+  #ca[Dmi]jako hejno #ca[A]letí vzdu#ca[Dmi]chem,\
+  #ca[F]letí, letí #ca[C]v letu sva#ca[F]čí\
+  #ca[Dmi]pět ježibab #ca[A]na tryská#ca[Dmi]či.
 ]
 
 #verse[
-  Pět ježibab s jedním nosem\
-  volá na mě: "Arnošt, pojď sem!"\
-  A když nejdu, tak se štětí,\
-  pět ježibab na koštěti.
+  #ca[Dmi]Pět ježibab #ca[A]s jedním no#ca[Dmi]sem\
+  #ca[Dmi]volá na mě: "#ca[A]Arnošt, pojď #ca[Dmi]sem!"\
+  #ca[F]A když nejdu, #ca[C]tak se ště#ca[F]tí,\
+  #ca[Dmi]pět ježibab #ca[A]na koště#ca[Dmi]ti.
 ]

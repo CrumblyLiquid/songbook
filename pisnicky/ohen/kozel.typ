@@ -18,24 +18,24 @@
 ]
 
 #verse[
-  Jednoho dne (_jednoho dne_)\
-  se kozel splet (_se kozel splet_)\
-  rudé tričko (_rudé tričko_)\
-  pánovi sněd (_pánovi sněd_)\
-  když to pán zřel (_když to pán zřel_)\
-  zařval Jéje! (_zařval Jéje!_)\
-  svázal kozla (_svázal kozla_)\
-  na koleje (_na koleje_).
+  Jednoho #ca[G]dne (_jednoho dne_)\
+  se kozel #ca[C]splet (_se kozel splet_)\
+  rudé trič#ca[D7]ko (_rudé tričko_)\
+  pánovi #ca[G]sněd (_pánovi sněd_)\
+  když to pán #ca[G]zřel (_když to pán zřel_)\
+  zařval Jé#ca[C]je! (_zařval Jéje!_)\
+  svázal koz#ca[D7]la (_svázal kozla_)\
+  na kole#ca[G]je (_na koleje_).
 ]
 
 #verse[
-  Zapískal vlak (_zapískal vlak_)\
-  kozel se lek (_kozel se lek_)\
-  to je má smrt (_to je má smrt_)\
-  mečel Mek mek! (_mečel mek mek!_)\
-  jak tak mečel (_jak tak mečel_)\
-  vykašlal pak (_vykašlal pak_)\
-  rudé tričko (_rudé tričko_)\
-  čímž stopnul vlak (_čímž stopnul vlak_).
+  Zapískal #ca[G]vlak (_zapískal vlak_)\
+  kozel se #ca[C]lek (_kozel se lek_)\
+  to je má #ca[D7]smrt (_to je má smrt_)\
+  mečel Mek #ca[G]mek! (_mečel mek mek!_)\
+  jak tak me#ca[G]čel (_jak tak mečel_)\
+  vykašlal #ca[C]pak (_vykašlal pak_)\
+  rudé trič#ca[D7]ko (_rudé tričko_)\
+  čímž stopnul #ca[G]vlak (_čímž stopnul vlak_).
 ]
 
