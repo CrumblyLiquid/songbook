@@ -97,6 +97,7 @@
 #include "trezor.typ"
 #include "trpaslici_svatba.typ"
 #include "tygr.typ"
+#include "v_725.typ"
 #include "vceli_medvidci.typ"
 #include "vcelin.typ"
 #include "v_dobrem_jsme_se_sesli.typ"
