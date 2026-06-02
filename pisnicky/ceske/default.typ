@@ -82,6 +82,7 @@
 #include "princezna_ze_mlejna.typ"
 // #include "prouzek.typ"
 #include "pulnocni.typ"
+#include "rande.typ"
 // #include "rock_n_roll_pro_beethovena.typ"
 #include "saro.typ"
 #include "sedmnact_dnu.typ"
