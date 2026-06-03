@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Je mi to brácha],
   author: [Mucha],
+  url: "https://www.youtube.com/watch?v=BSZ2poHKxc0",
   line_spacing: 0.5em,
   font_size: 0.9em,
   doc,

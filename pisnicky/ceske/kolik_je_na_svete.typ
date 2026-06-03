@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Kolik je na světě],
   author: [Petr Skoumal],
+  url: "https://www.youtube.com/watch?v=Gv5nGQjttEA",
   doc,
 )
 

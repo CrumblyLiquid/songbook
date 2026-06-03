@@ -3,6 +3,8 @@
 #show: doc => song(
   title: [Kdyby se v komnatách],
   author: [Zdeněk Svěrák a Jaroslav Uhlíř],
+  url: "https://www.youtube.com/watch?v=XdSr_MPtCqU",
+  transpose: 5,
   doc,
 )
 
@@ -22,10 +24,10 @@
 ]
 
 #verse[
-  Kde není muzika, tam duše naříká \
-  Tam je neveselo, tam je truchlivo \
-  Chtěla bych dvůr pestrý, kde znějí orchestry \
-  Kde není neveselo, žádné truchlivo
+  #ca[G]Kde není muzika, #ca[Dmi]tam duše naříká \
+  #ca[C]Tam je neveselo, tam je #ca[G]truchlivo \
+  #ca[G]Chtěla bych dvůr pestrý, #ca[Dmi]kde znějí orchestry \
+  #ca[C]Kde není neveselo, žádné #ca[G]truchlivo
 ]
 
 #chorus[

@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Lokomotiva],
   author: [Poletíme?],
+  url: "https://www.youtube.com/watch?v=iKpdb2ffNHE",
   line_spacing: 0.6em,
   doc,
 )

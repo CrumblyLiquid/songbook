@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Kačer],
   author: [Vilém Čok],
+  url: "https://www.youtube.com/watch?v=GhOaS5Aa1mw",
   doc,
 )
 

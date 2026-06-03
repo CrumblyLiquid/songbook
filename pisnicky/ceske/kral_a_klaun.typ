@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Král a klaun],
   author: [Karel Kryl],
+  url: "https://www.youtube.com/watch?v=rFQrmL61QWA",
   line_spacing: 0.5em,
   font_size: 0.90em,
   doc,

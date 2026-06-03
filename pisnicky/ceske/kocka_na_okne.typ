@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Kočka na okně],
   author: [Jiří Suchý, Jiří Šlitr],
+  url: "https://www.youtube.com/watch?v=0oSJTbVHvVw",
   doc,
 )
 

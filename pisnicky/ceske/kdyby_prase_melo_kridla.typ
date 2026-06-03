@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Kdyby prase mělo křídla],
   author: [Pavel Šrut],
+  url: "https://www.youtube.com/watch?v=Q4Qy8YmJl2c",
   doc,
 )
 
