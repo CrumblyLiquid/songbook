@@ -3,18 +3,19 @@
 #show: doc => song(
   title: [Dobrodružství s Bohem panem],
   author: [Marta Kubišová],
+  url: "https://www.youtube.com/watch?v=hL6_5FIneE4",
   doc,
 )
 
-// TODO: Číslování refrénů
+#let chorus = chorus.with(numbered: true, numbering: "1")
 
 #verse[
   #c[Hmi]Je půlnoc nádherná #c[A]spí i lucerna,\
   #c[G]tys mě opustil #c[F\#]ospalou.\
-  Tu v #c[Hmi]hloubi zahrady #c[A]cítím úklady\
-  s #c[G]píštalou #c[F\#]někdo sem #c[Hmi]kráčí.
+  Tu #c[Hmi]v hloubi zahrady #c[A]cítím úklady\
+  #c[G]s píštalou #c[F\#]někdo sem #c[Hmi]kráčí.
 ]
-// R1\
+
 #chorus[
   #c[D]Hrál náramně #c[A]krásně a na mě\
   #c[G]tíha podivná #c[F\#]doléhá.\
@@ -23,30 +24,30 @@
 ]
 
 #verse[
-  Pak náhle pomalu skládá píšťalu,\
-  krok a slušně se uklání.\
-  Jsem rázem ztracená, co to znamená\
-  odháním strach a on praví:
+  #ca[Hmi]Pak náhle pomalu #ca[A]skládá píšťalu,\
+  #ca[G]krok a slušně se #ca[F\#]uklání.\
+  #ca[Hmi]Jsem rázem ztracená, #ca[A]co to znamená\
+  #ca[G]odháním #ca[F\#]strach a on #ca[Hmi]praví:
 ]
-// R2\
+
 #chorus[
-  Pan jméno mé, mám už renomé,\
-  Pan se jmenuju a jsem Bůh\
-  Pan Bůh všech stád vás má, slečno, rád.\
-  Jen Pan je pro vás ten pravý.
+  #ca[D]Pan jméno mé, #ca[A]mám už renomé,\
+  #ca[G]Pan se jmenuju #ca[F\#]a jsem Bůh\
+  #ca[D]Pan Bůh všech stád #ca[A]vás má, slečno, rád.\
+  #ca[G]Jen Pan je #ca[F\#]pro vás ten #ca[Hmi]pravý.
 ]
 
 #verse[
-  Ráno raníčko ach má písničko,\
-  Pan mi zmizel i s píšťalou.\
-  Od Pana pro pána o vše obrána\
-  ospalou najde mě máti.
+  #ca[Hmi]Ráno raníčko #ca[A]ach má písničko,\
+  #ca[G]Pan mi zmizel i #ca[F\#]s píšťalou.\
+  #ca[Hmi]Od Pana pro pána #ca[A]o vše obrána\
+  #ca[G]ospalou #ca[F\#]najde mě #ca[Hmi]máti.
 ]
-// R3\
+
 #chorus[
-  Hrál a ve tmě krásně podved mě,\
-  kam jsem to dala oči kam?\
-  Pan pěkný Bůh, já teď nazdařbůh\
-  počítám dal a má dáti.
+  #ca[D]Hrál a ve tmě #ca[A]krásně podved mě,\
+  #ca[G]kam jsem to dala #ca[F\#]oči kam?\
+  #ca[D]Pan pěkný Bůh, #ca[A]já teď nazdařbůh\
+  #ca[G]počítám #ca[F\#]dal a má #ca[Hmi]dáti.
 ]
 

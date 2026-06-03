@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Ferda jede na kole],
   author: [Jiří Schmitzer],
+  url: "https://www.youtube.com/watch?v=gTqdVd0Wyos",
   doc,
 )
 
@@ -14,37 +15,37 @@
 ]
 
 #verse[
-  Svalilo se s heknutím, zakvičelo leknutím,\
-  Ferda jede na kole, Ferda jede pryč.\
-  Prase to je těžký, zvlášť, když spadne z vejšky,\
-  Ferda jede na kole, veze na něm rýč.
+  #ca[D]Svalilo se s heknutím, #ca[A]zakvičelo leknutím,\
+  #ca[D]Ferda jede na kole, #ca[A]Ferda jede #ca[D]pryč.\
+  #ca[D]Prase to je těžký, #ca[A]zvlášť, když spadne z vejšky,\
+  #ca[D]Ferda jede na kole, #ca[A]veze na něm #ca[D]rýč.
 ]
 
 #verse[
-  Kdo to prase postaví, když je strašně špinavý,\
-  Ferda jede na kole, Ferda jede pryč.\
-  Postaví ho zase, ňáký jiný prase,\
-  Ferda jede na kole, veze na něm rýč.
+  #ca[D]Kdo to prase postaví, #ca[A]když je strašně špinavý,\
+  #ca[D]Ferda jede na kole, #ca[A]Ferda jede #ca[D]pryč.\
+  #ca[D]Postaví ho zase, #ca[A]ňáký jiný prase,\
+  #ca[D]Ferda jede na kole, #ca[A]veze na něm #ca[D]rýč.
 ]
 
 #verse[
-  Až to prase bude stát, můžem se ho otázat,\
-  Ferda jede na kole, Ferda jede pryč.\
-  Co se vlastně semlelo, že se prase skácelo,\
-  Ferda jede na kole, veze na něm rýč.
+  #ca[D]Až to prase bude stát, #ca[A]můžem se ho otázat,\
+  #ca[D]Ferda jede na kole, #ca[A]Ferda jede #ca[D]pryč.\
+  #ca[D]Co se vlastně semlelo, #ca[A]že se prase skácelo,\
+  #ca[D]Ferda jede na kole, #ca[A]veze na něm #ca[D]rýč.
 ]
 
 #verse[
-  Prase, to nic neřeklo, kviklo a pak uteklo,\
-  Ferda jede na kole, Ferda jede pryč.\
-  Tím pádem je prakticky, ztracené už navždycky,\
-  Ferda jede na kole, veze na něm rýč.
+  #ca[D]Prase, to nic neřeklo, #ca[A]kviklo a pak uteklo,\
+  #ca[D]Ferda jede na kole, #ca[A]Ferda jede #ca[D]pryč.\
+  #ca[D]Tím pádem je prakticky, #ca[A]ztracené už navždycky,\
+  #ca[D]Ferda jede na kole, #ca[A]veze na něm #ca[D]rýč.
 ]
 
 #verse[
-  No a nyní závěrem, k hlavnímu se doberem,\
-  Ferda jede na kole, Ferda jede pryč.\
-  Není těžký do louže, spadnout a to protože,\
-  Ferda jede na kole, veze na něm rýč.
+  #ca[D]No a nyní závěrem, #ca[A]k hlavnímu se doberem,\
+  #ca[D]Ferda jede na kole, #ca[A]Ferda jede #ca[D]pryč.\
+  #ca[D]Není těžký do louže, #ca[A]spadnout a to protože,\
+  #ca[D]Ferda jede na kole, #ca[A]veze na něm #ca[D]rýč.
 ]
 

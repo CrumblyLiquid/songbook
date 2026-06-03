@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Gorale],
   author: [Lidová],
+  url: "https://www.youtube.com/watch?v=7IkBaeCHXfk",
   doc,
 )
 
@@ -16,29 +17,29 @@
 ]
 
 #verse[
-  Za lasami za gorami,\
-  pobiłi się dwaj gorale ciupagami.\
+  #ca[D]Za lasami #ca[G]za gorami #ca[A]za dolina#ca[D]mi,\
+  #ca[D]pobiłi się #ca[G]dwaj gorale #ca[A]ciupaga#ca[D]mi.\
   #rep[
-    Hej gorale, nie bijta się,\
-    ma goralka dwoje oczu podzielita się.
+    #ca[D]Hej gora#ca[G]le, #ca[A]nie bijta #ca[D]się,\
+    #ca[D]ma goralka #ca[G]dwoje oczu #ca[A]podzielita #ca[D]się.
   ]
 ]
 
 #verse[
-  Za lasami za gorami,\
-  pobiłi się dwaj gorale ciupagami.\
+  #ca[D]Za lasami #ca[G]za gorami #ca[A]za dolina#ca[D]mi,\
+  #ca[D]pobiłi się #ca[G]dwaj gorale #ca[A]ciupaga#ca[D]mi.\
   #rep[
-    Hej gorale, nie bijta się,\
-    ma goralka wielke serce podzielita się.
+    #ca[D]Hej gora#ca[G]le, #ca[A]nie bijta #ca[D]się,\
+    #ca[D]ma goralka #ca[G]wielke serce #ca[A]podzielita #ca[D]się.
   ]
 ]
 
 #verse[
-  Za lasami za gorami,\
-  pobiłi się dwaj gorale ciupagami.\
+  #ca[D]Za lasami #ca[G]za gorami #ca[A]za dolina#ca[D]mi,\
+  #ca[D]pobiłi się #ca[G]dwaj gorale #ca[A]ciupaga#ca[D]mi.\
   #rep[
-    Hej gorale, nie bijta się,\
-    ma goralka z przodu z tyłu podzielita się.
+    #ca[D]Hej gora#ca[G]le, #ca[A]nie bijta #ca[D]się,\
+    #ca[D]ma goralka #ca[G]z przodu z tyłu #ca[A]podzielita #ca[D]się.
   ]
 ]
 

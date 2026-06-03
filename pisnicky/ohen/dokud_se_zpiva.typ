@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Dokud se zpívá],
   author: [Jaromír Nohavica],
+  url: "https://www.youtube.com/watch?v=TyjVthBxrg4",
   doc,
 )
 
@@ -17,31 +18,43 @@
 ]
 
 #verse[
-  Ve stánku koupím si housku a slané tyčky,\
-  srdce mám pro lásku a hlavu pro písničky,\
-  ze školy dobře vím, co by se dělat mělo,\
-  ale dokud se zpívá, ještě se neumřelo, hóhó.
+  #ca[C]Ve stánku #ca[Emi]koupím si #ca[Dmi7]housku a #ca[F]slané tyč#ca[C]ky,
+  #ca[Emi Dmi7 G]\
+  #ca[C]srdce mám #ca[Emi]pro lásku #ca[Dmi7]a hlavu #ca[F]pro písnič#ca[C]ky,
+  #ca[Emi Dmi7 G]\
+  #ca[F]ze školy #ca[G]dobře vím, #ca[C]co by se dělat mě#ca[Ami]lo, #ca[G]\
+  ale #ca[F]dokud se #ca[G]zpívá, #ca[F]ještě se #ca[G]neumře#ca[C]lo,
+  #ca[Emi][~] #sa[Dmi7]hó#sa[G]hó.
 ]
 
 #verse[
-  Do alba jízdenek lepím si další jednu,\
-  vyjel jsem před chvílí, konec je v nedohlednu,\
-  za oknem míhá se život jak leporelo,\
-  ale dokud se zpívá, ještě se neumřelo, hóhó.
+  #ca[C]Do alba #ca[Emi]jízdenek #ca[Dmi7]lepím si #ca[F]další jed#ca[C]nu,
+  #ca[Emi Dmi7 G]\
+  #ca[C]vyjel jsem #ca[Emi]před chvílí, #ca[Dmi7]konec je #ca[F]v nedohled#ca[C]nu,
+  #ca[Emi Dmi7 G]\
+  #ca[F]za oknem #ca[G]míhá se #ca[C]život jak lepore#ca[Ami]lo, #ca[G]\
+  ale #ca[F]dokud se #ca[G]zpívá, #ca[F]ještě se #ca[G]neumře#ca[C]lo,
+  #ca[Emi][~] #sa[Dmi7]hó#sa[G]hó.
 ]
 
 #verse[
-  Stokrát jsem prohloupil a stokrát platil draze,\
-  houpe to, houpe to na housenkové dráze,\
-  i kdyby supi se slítali na mé tělo,\
-  tak dokud se zpívá, ještě se neumřelo, hóhó.
+  #ca[C]Stokrát jsem #ca[Emi]prohloupil #ca[Dmi7]a stokrát #ca[F]platil dra#ca[C]ze,
+  #ca[Emi Dmi7 G]\
+  #ca[C]houpe to, #ca[Emi]houpe to #ca[Dmi7]na housen#ca[F]kové drá#ca[C]ze,
+  #ca[Emi Dmi7 G]\
+  #ca[F]i kdyby #ca[G]supi se #ca[C]slítali na mé tě#ca[Ami]lo, #ca[G]\
+  tak #ca[F]dokud se #ca[G]zpívá, #ca[F]ještě se #ca[G]neumře#ca[C]lo,
+  #ca[Emi][~] #sa[Dmi7]hó#sa[G]hó.
 ]
 
 #verse[
-  Z Těšína vyjíždí vlaky až na kraj světa,\
-  zvedl jsem telefon a ptám se: "Lidi, jste tam?"\
-  z veliké dálky do uší mi zaznělo,\
-  že dokud se zpívá, ještě se neumřelo, hóhó\
-  že dokud se zpívá ještě se neumřelo.
+  #ca[C]Z Těšína #ca[Emi]vyjíždí #ca[Dmi7]vlaky až #ca[F]na kraj svě#ca[C]ta,
+  #ca[Emi Dmi7 G]\
+  #ca[C]zvedl jsem #ca[Emi]telefon a #ca[Dmi7]ptám se: "#ca[F]Lidi, jste #ca[C]tam?"
+  #ca[Emi Dmi7 G]\
+  #ca[F]z veliké #ca[G]dálky do #ca[C]uší mi zazně#ca[Ami]lo, #ca[G]\
+  že #ca[F]dokud se #ca[G]zpívá, #ca[F]ještě se #ca[G]neumře#ca[C]lo,
+  #ca[Emi][~] #sa[Dmi7]hó#sa[G]hó\
+  že #ca[F]dokud se #ca[G]zpívá, #ca[F]ještě se #ca[G]neumře#ca[C]lo.
 ]
 

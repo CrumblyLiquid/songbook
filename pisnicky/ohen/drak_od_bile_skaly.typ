@@ -3,10 +3,10 @@
 #show: doc => song(
   title: [Drak od Bílé skály],
   author: [Rangers - Plavci],
+  url: "https://www.youtube.com/watch?v=ey3Rvsf-s9w",
   doc,
 )
 
-// TODO: Uvozovky
 #chorus[
   #c[G]Drak od bílé #c[Hmi]skály byl #c[C]kdysi moří #c[G]král,\
   však #c[C]posledních pár #c[G]stole#c[Emi]tí ten #c[A7]drak by si jen #c[D7]hrál,\
@@ -29,12 +29,12 @@
 ]
 
 #verse[
-  Drak ten žije stále, ale chlapci stárnou dál,\
-  hračky, šavle, sítě, míč ustoupí jiným hrám,\
-  léta běží dále, kluk už nechodí si hrát,\
-  na cestách pak drakovi chybí kamarád.\
-  Až půjdeš k bílé skále, kde drak čeká léta už,\
-  řekni: "Draku, pojď si hrát", ať kluk jsi, i když muž.
+  #ca[G]Drak ten žije #ca[Hmi]stále, ale #ca[C]chlapci stárnou #ca[G]dál,\
+  #ca[C]hračky, šavle, #ca[G]sítě, #ca[Emi]míč u#ca[A7]stoupí jiným #ca[D7]hrám,\
+  #ca[G]léta běží #ca[Hmi]dále, kluk už #ca[C]nechodí si #ca[G]hrát,\
+  #ca[C]na cestách pak #ca[G]drako#ca[Emi]vi #sa[A7]chybí kama#ca[D7]rád.\
+  Až #ca[G]půjdeš k bílé #ca[Hmi]skále, kde #ca[C]drak čeká léta #ca[G]už,\
+  #ca[C]řekni: "Draku, #ca[G]pojď si #ca[Emi]hrát", ať #ca[A7]kluk jsi, #ca[D7]i když #ca[G]muž.
 ]
 
 #chorus[
