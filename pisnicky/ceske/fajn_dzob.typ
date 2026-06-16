@@ -6,6 +6,7 @@
 #show: doc => song(
   title: [Fajn džob],
   author: [Hop Trop],
+  url: "https://www.youtube.com/watch?v=jePV6H6Ndac",
   doc,
 )
 

@@ -6,6 +6,7 @@
 #show: doc => song(
   title: [Divokej hoskej tymián],
   author: [Žalman],
+  url: "https://www.youtube.com/watch?v=wi9sZ5waMTo",
   doc,
 )
 

@@ -24,9 +24,9 @@
 
 #chorus[
   Poví#w[Hmi]dej, #s[G]jestli se ti po mně #c[A]stýská\
-  #c[C]Když jdeš večer #c[G]spát\
+  #c[C] Když jdeš večer #c[G]spát\
   #c[G]Jestli když večer se #c[A]blýská\
-  #c[C]Nepřestala ses #c[G]bát
+  #c[C] Nepřestala ses #c[G]bát
 ]
 
 #verse[

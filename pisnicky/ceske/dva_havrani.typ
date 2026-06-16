@@ -6,6 +6,7 @@
 #show: doc => song(
   title: [Dva havrani],
   author: [Asonance],
+  url: "https://www.youtube.com/watch?v=aqof1RDQ-zI",
   doc,
 )
 
