@@ -3,7 +3,7 @@
 #show: doc => song(
   title: [Nad stádem koní],
   author: [Buty],
-  cols: 2,
+  columns: 2,
   doc,
 )
 

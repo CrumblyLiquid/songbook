@@ -3,7 +3,7 @@
 #show: doc => song(
   title: [Mikymauz],
   author: [Jaromír Nohavica],
-  cols: 2,
+  columns: 2,
   line_spacing: 0.5em,
   font_size: 0.8em,
   doc,

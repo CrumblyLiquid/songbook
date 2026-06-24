@@ -4,8 +4,8 @@
   title: [Lemon Tree],
   author: [Fool's Garden],
   font_size: 0.85em,
-  col_gutter: 0.25em,
-  cols: 2,
+  columns: 2,
+  gutter: 0.25em,
   doc,
 )
 

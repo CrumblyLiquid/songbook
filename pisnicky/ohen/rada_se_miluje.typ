@@ -21,8 +21,8 @@
 ]
 
 #verse[
-  Psáno je v nebeské režii, a to hned na první stránce,\
-  že naše duše nás přežijí v jinačí tělesný schránce.
+  #ca[F]Psáno je v nebeské #ca[C]režii, #ca[F]a to hned na první #ca[C]strán#ca[E]ce,\
+  #ca[Ami]že naše duše nás #ca[G]přeži#ca[C]jí #ca[F]v jinačí #ca[Emi]tělesný #ca[Ami]schránce.
 ]
 
 #chorus[
@@ -30,8 +30,8 @@
 ]
 
 #verse[
-  Úplně na konci paseky, tam, kde se ozvěna tříští,\
-  sedí šnek ve snacku pro šneky - snad její podoba příští.
+  #ca[F]Úplně na konci #ca[C]paseky, #ca[F]tam, kde se ozvěna #ca[C]tříš#ca[E]tí,\
+  #ca[Ami]sedí šnek ve snacku #ca[G]pro šne#ca[C]ky - #ca[F]snad její #ca[Emi]podoba #ca[Ami]příští.
 ]
 
 #chorus[

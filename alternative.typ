@@ -2,4 +2,4 @@
 
 #hide_alt_chords.update(false)
 
-#include "./main.typ"
+#include "./spine.typ"

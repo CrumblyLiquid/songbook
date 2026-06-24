@@ -3,7 +3,9 @@
 #place(top, dy: -1000pt)[
   = Písničky k ohni
 ]
+
 #include "ohen/default.typ"
+
 #place(top, dy: -1000pt)[
   = ČaČua hymny
 ]

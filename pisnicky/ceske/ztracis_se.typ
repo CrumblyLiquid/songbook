@@ -5,7 +5,7 @@
   author: [Marek Ztracený],
   line_spacing: 0.5em,
   font_size: 0.9em,
-  cols: 2,
+  columns: 2,
   doc,
 )
 

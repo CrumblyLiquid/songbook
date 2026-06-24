@@ -10,9 +10,9 @@
 )
 
 #verse[
-  #c[Dmi]Na jaře se vrací #c[C]od podzima lis#c[Dmi]tí,\
+  #c[Dmi]Na jaře se vrací #c[C]od podzima listí,#c[Dmi]\
   #c[Dmi]mraky místo ptáků #c[C]krouží nad Závis#c[Dmi]tí,\
-  #c[Dmi]kdyby jsi se někdy #c[C]ke mně chtěla vrá#c[Dmi]tit,\
+  #c[Dmi]kdyby jsi se někdy #c[C]ke mně chtěla vrátit,#c[Dmi]\
   #c[Dmi]nesměla bys, lásko, #c[C]moje srdce ztra#c[G]tit.\
 ]
 
@@ -26,10 +26,10 @@
 ]
 
 #verse[
-  Voda teče k moři, po kamenech skáče,\
-  jednou hráze boří, jindy tiše pláče.\
-  Někdy mám ten pocit, i když roky plynou.\
-  Že vidím tvůj odraz, dole pod hladinou.
+  #ca[Dmi]Voda teče k moři, #ca[C]po kamenech skáče,#ca[Dmi]\
+  #ca[Dmi]jednou hráze boří, #ca[C]jindy tiše pláče.#ca[Dmi]\
+  #ca[Dmi]Někdy mám ten pocit, #ca[C]i když roky plynou.#ca[Dmi]\
+  #ca[Dmi]Že vidím tvůj odraz, #ca[C]dole pod hladinou.#ca[G]
 ]
 
 #chorus[
@@ -37,10 +37,10 @@
 ]
 
 #verse[
-  Na jaře se vrací, listí od podzima.\
-  Čas se někam ztrácí, brzo bude zima.\
-  Svět přikryje ticho, tečka za příběhem.\
-  Kdo pozná, čí kosti, zapadaly sněhem.
+  #ca[Dmi]Na jaře se vrací, #ca[C]listí od podzima.#ca[Dmi]\
+  #ca[Dmi]Čas se někam ztrácí, #ca[C]brzo bude zima.#ca[Dmi]\
+  #ca[Dmi]Svět přikryje ticho, #ca[C]tečka za příbě#ca[Dmi]hem.\
+  #ca[Dmi]Kdo pozná, čí kosti, #ca[C]zapadaly sně#ca[G]hem.
 ]
 
 #chorus[

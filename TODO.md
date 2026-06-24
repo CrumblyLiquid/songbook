@@ -24,20 +24,20 @@
 - [x] Chválím tě země má
 - [x] Jelen
 - [x] Jaro (Fešáci)
-- [ ] Jdem zpátky do lesů
-- [ ] Jericho
+- [x] Jdem zpátky do lesů
+- [x] Jericho
 - [ ] Konvička
 - [x] Krajina posedlá tmou
 - [x] Král a klaun
-- [ ] Kujme pikle
+- [x] Kujme pikle
 - [x] Lásko (Kryl)
-- [ ] Lodníkův lament
-- [ ] Mackie Messer
+- [x] Lodníkův lament
+- [x] Mackie Messer
 - [x] Magdaléna
 - [x] Malagelo
-- [ ] Malotraktorem
-- [ ] Malování
-- [ ] Marie
+- [x] Malotraktorem
+- [x] Malování
+- [x] Marie
 - [ ] Medvědi nevědí
 - [x] Miluju a maluju
 - [x] Mlýny

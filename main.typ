@@ -1,17 +1,15 @@
-#import "./cover/cacua.typ" as cacua
-#import "./style.typ": style
+#document("standard.pdf")[
+  #import "@local/crumblysong:0.1.0": *;
 
-#cacua.front
+  #hide_alt_chords.update(true)
 
-#[
-  #set text(size: 1.25em)
-  #outline(title: [Obsah])
-]
+  #include "./spine.typ"
+] <standard>
 
-#[
-  #counter(page).update(0)
-  #show: style
-  #include "./pisnicky/default.typ"
-]
+#document("alternative.pdf")[
+  #import "@local/crumblysong:0.1.0": *;
 
-#cacua.back
+  #hide_alt_chords.update(false)
+
+  #include "./spine.typ"
+] <alternative>
