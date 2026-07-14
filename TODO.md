@@ -42,7 +42,7 @@
 - [ ] Medvědi nevědí
 - [x] Miluju a maluju
 - [x] Mlýny
-- [ ] Mraky
+- [x] Mraky
 - [x] Na sever
 - [ ] Na vodě
 - [ ] Nebe peklo ráj
