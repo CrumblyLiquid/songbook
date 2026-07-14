@@ -78,7 +78,7 @@
 - [ ] Z diplomky nemám nic
 - [ ] Za svou pravdou stát
 - [ ] Zakázané uvolnění
-- [ ] Zpátky do lesů
+- [x] Zpátky do lesů
 
 Anglické:
 - [ ] All eyes on me
