@@ -3,6 +3,7 @@
 #include "amazonka.typ"
 #include "amerika.typ"
 #include "ani_k_staru.typ"
+#include "antidepresivni_rybicka.typ"
 #include "az_se_k_nam_pravo_vrati.typ"
 // #include "az.typ"
 #include "barbora_pise_z_tabora.typ"
