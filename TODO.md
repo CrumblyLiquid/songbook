@@ -72,7 +72,7 @@
 - [x] Včelín
 - [x] Veď mě dál
 - [ ] Víno
-- [ ] Vlaštovky
+- [x] Vlaštovky
 - [ ] Vlak v 0.5
 - [ ] Voda už je svařená
 - [ ] Z diplomky nemám nic
