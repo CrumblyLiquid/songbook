@@ -101,6 +101,7 @@
 #include "saro.typ"
 #include "sedi_topic_u_piana.typ"
 #include "sedmnact_dnu.typ"
+#include "sila_starejch_vin.typ"
 #include "sipkova_ruzenka.typ"
 #include "skladanka.typ"
 #include "skritkove_zednici.typ"

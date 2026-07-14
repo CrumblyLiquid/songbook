@@ -59,7 +59,7 @@
 - [ ] Ráno jedu dál
 - [ ] Rozvíjej se poupátko
 - [x] Sedmnáct dnů
-- [ ] Síla starejch vín
+- [x] Síla starejch vín
 - [ ] Snadné je žít
 - [ ] Sovy v mazutu
 - [ ] Studený nohy
