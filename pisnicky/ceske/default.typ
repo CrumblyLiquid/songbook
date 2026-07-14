@@ -81,6 +81,7 @@
 #include "na_hotelu_v_olomouci.typ"
 // #include "nahrobni_kamen.typ"
 // #include "na_majak_mi_sploucha.typ"
+#include "na_sever.typ"
 #include "nechte_zvony_znit.typ"
 #include "netusim.typ"
 #include "pet_jezibab.typ"

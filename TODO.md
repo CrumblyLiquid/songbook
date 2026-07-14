@@ -43,7 +43,7 @@
 - [x] Miluju a maluju
 - [x] Mlýny
 - [ ] Mraky
-- [ ] Na sever
+- [x] Na sever
 - [ ] Na vodě
 - [ ] Nebe peklo ráj
 - [x] Nechte zvony znít
