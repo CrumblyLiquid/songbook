@@ -61,7 +61,7 @@
 - [x] Sedmnáct dnů
 - [x] Síla starejch vín
 - [ ] Snadné je žít
-- [ ] Sovy v mazutu
+- [x] Sovy v mazutu
 - [ ] Studený nohy
 - [ ] Svaz českých bohémů
 - [x] Svobodná zem

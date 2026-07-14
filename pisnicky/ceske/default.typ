@@ -106,6 +106,7 @@
 #include "skladanka.typ"
 #include "skritkove_zednici.typ"
 #include "slunecny_hrob.typ"
+#include "sovy_v_mazutu.typ"
 #include "stary_pribeh.typ"
 #include "tabacek.typ"
 #include "tlapky_klast_potichu.typ"
