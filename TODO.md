@@ -30,6 +30,7 @@
 - [x] Krajina posedlá tmou
 - [x] Král a klaun
 - [x] Kujme pikle
+- [ ] Kurtizána
 - [x] Lásko (Kryl)
 - [x] Lodníkův lament
 - [x] Mackie Messer
@@ -42,6 +43,7 @@
 - [x] Miluju a maluju
 - [x] Mlýny
 - [ ] Mraky
+- [ ] Na sever
 - [ ] Na vodě
 - [ ] Nebe peklo ráj
 - [x] Nechte zvony znít
@@ -54,7 +56,6 @@
 - [ ] Pojď se mnou lásko má
 - [x] Pověste ho vejš
 - [ ] Proklínám
-- [ ] První signální
 - [ ] Ráno jedu dál
 - [ ] Rozvíjej se poupátko
 - [x] Sedmnáct dnů
@@ -66,8 +67,8 @@
 - [x] Svobodná zem
 - [ ] Šrouby a matice
 - [x] To ta Heľpa
-- [ ] Topič u piána
-- [ ] V 7:25
+- [x] Topič u piána
+- [x] V 7:25
 - [x] Včelín
 - [x] Veď mě dál
 - [ ] Víno

@@ -96,6 +96,7 @@
 #include "rande.typ"
 // #include "rock_n_roll_pro_beethovena.typ"
 #include "saro.typ"
+#include "sedi_topic_u_piana.typ"
 #include "sedmnact_dnu.typ"
 #include "sipkova_ruzenka.typ"
 #include "skladanka.typ"
