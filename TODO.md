@@ -55,7 +55,7 @@
 - [ ] Pod dubem, za dubem
 - [ ] Pojď se mnou lásko má
 - [x] Pověste ho vejš
-- [ ] Proklínám
+- [x] Proklínám
 - [ ] Ráno jedu dál
 - [ ] Rozvíjej se poupátko
 - [x] Sedmnáct dnů

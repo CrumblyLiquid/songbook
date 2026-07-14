@@ -93,6 +93,7 @@
 #include "povidej.typ"
 #include "pramen_zdravi_z_posazavi.typ"
 #include "princezna_ze_mlejna.typ"
+#include "proklinam.typ"
 // #include "prouzek.typ"
 #include "pulnocni.typ"
 #include "rande.typ"
