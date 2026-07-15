@@ -16,48 +16,47 @@
 ]
 
 #verse[
-  Mají se bezvadně, vyspí se moc,\
-  půl roku trvá tam polární noc,\
+  #ca[D]Mají se #ca[Emi]bezvadně, #ca[A]vyspí se #ca[D]moc,\
+  #ca[D]půl roku #ca[Emi]trvá tam #ca[A]polární #ca[D]noc,\
   #rep[
-    na jaře vzbudí se a vyběhnou ven,\
-    půl roku trvá tam polární den.
+    #ca[D]na jaře #ca[Emi]vzbudí se a #ca[G]vyběhnou #ca[D]ven,\
+    #ca[D]půl roku #ca[Emi]trvá tam #ca[A]polární #ca[D]den.
   ]
 ]
 
 #verse[
-  Když sněhu napadne nad kotníky,\
-  hrávají s medvědy na četníky,\
+  #ca[D]Když sněhu #ca[Emi]napadne #ca[A]nad kotní#ca[D]ky,\
+  #ca[D]hrávají #ca[Emi]s medvědy #ca[A]na četní#ca[D]ky,\
   #rep[
-    medvědi těžko jsou k poražení,\
-    neboť medvědy ve sněhu vidět není.
+    #ca[D]medvědi #ca[Emi]těžko jsou #ca[G]k poraže#ca[D]ní,\
+    neboť #ca[D]medvědy #ca[Emi]ve sněhu #ca[A]vidět ne#ca[D]ní.
   ]
 ]
 
 #verse[
-  Pokaždé ve středu, přesně ve dvě\
-  zaklepe na na íglů hlavní medvěd:\
-  // TODO: Uvozovky\
+  #ca[D]Pokaždé #ca[Emi]ve středu, #ca[A]přesně ve #ca[D]dvě\
+  #ca[D]zaklepe #ca[Emi]na íglů #ca[A]hlavní med#ca[D]věd:\
   #rep[
-    "Dobrý den, mohu dál na vteřinu?\
-    Nesu vám trochu ryb na svačinu."
+    "#ca[D]Dobrý den, #ca[Emi]mohu dál #ca[G]na vteři#ca[D]nu?\
+    #ca[D]Nesu vám #ca[Emi]trochu ryb #ca[A]na svači#ca[D]nu."
   ]
 ]
 
 #verse[
-  V kotlíku bublá čaj, kamna hřejí,\
-  psi venku hlídají před zloději,\
+  #ca[D]V kotlíku #ca[Emi]bublá čaj, #ca[A]kamna hře#ca[D]jí,\
+  #ca[D]psi venku #ca[Emi]hlídají #ca[A]před zlodě#ca[D]ji,\
   #rep[
-    smíchem se otřásá celé íglů,\
-    neboť medvěd jim předvádí spoustu fíglů.
+    #ca[D]smíchem se #ca[Emi]otřásá #ca[G]celé íg#ca[D]lů,\
+    neboť #ca[D]medvěd jim #ca[Emi]předvádí #ca[A]spoustu fíg#ca[D]lů.
   ]
 ]
 
 #verse[
-  Tak žijou vesele na severu,\
-  srandu si dělají z teploměrů,\
+  #ca[D]Tak žijou #ca[Emi]vesele #ca[A]na seve#ca[D]ru,\
+  #ca[D]srandu si #ca[Emi]dělají #ca[A]z teplomě#ca[D]rů,\
   #rep[
-    my bychom umrzli, jim není zima,\
-    neboť jsou doma a mezi svýma.
+    #ca[D]my bychom #ca[Emi]umrzli, jim #ca[G]není zi#ca[D]ma,\
+    #ca[D]neboť jsou #ca[Emi]doma a #ca[A]mezi svý#ca[D]ma.
   ]
 ]
 

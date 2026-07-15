@@ -8,7 +8,7 @@
 
 #verse[
   #c[Emi]Bylas' jak poslední hlt #c[F\#]vína,\
-  #c[H7]sladká a k ránu bola#c[Emi H7][vá,]~\
+  #c[H7]sladká a k ránu bola#c[Emi H7]vá,\
   #c[Emi]za nehty výčitky a #c[F\#]špína,\
   #c[H7]říkalas': dnešní noc je #c[Emi H7]tvá.
 ]
@@ -17,15 +17,15 @@
   #c[G]Co my dva z lásky vlastně #c[H]máme,\
   #c[Ami]hlubokou šachtou padá #c[H7]zdviž, já říkám "kiš-kiš",\
   #c[Emi]navrch má vždycky těžký #c[F\#]kámen\
-  #c[H7]a my jsme v koncích čím dál #c[Emi H7][blíž,]\
+  #c[H7]a my jsme v koncích čím dál #c[Emi H7]blíž,\
   #rep[#c[Emi]a me tu ha nadži vava #c[Ami]jaj dari dari #c[H7]daj.]
 ]
 
 #verse[
-  Zejtra tě potkám za svým stínem,\
-  neznámí známí v tramvaji,\
-  v cukrárně kávu s harlekýnem,\
-  hořká a sladká splývají.
+  #ca[Emi]Zejtra tě potkám za svým #ca[F\#]stínem,\
+  #ca[H7]neznámí známí v tramva#ca[Emi H7]ji,\
+  #ca[Emi]v cukrárně kávu s harle#ca[F\#]kýnem,\
+  #ca[H7]hořká a sladká splýva#ca[Emi H7]jí.
 ]
 
 #chorus[
@@ -33,21 +33,21 @@
 ]
 
 #verse[
-  Bylas' jak poslední hlt vína,\
-  zbývá jen účet zaplatit a jít,\
-  za nehty výčitky a špína\
-  a trapný průchod banalit.
+  #ca[Emi]Bylas' jak poslední hlt #ca[F\#]vína,\
+  #ca[H7]zbývá jen účet zapla#ca[Emi H7]tit a jít,\
+  #ca[Emi]za nehty výčitky a #ca[F\#]špína\
+  #ca[H7]a trapný průchod bana#ca[Emi H7]lit.
 ]
 
 #chorus[
-  Co my tři z lásky vlastně máme,\
-  hlubokou šachtou padá zdviž, co čumíš, kiš-kiš,\
-  navrch má vždycky těžký kámen\
-  a my jsme v koncích čím dál blíž,\
-  #rep[a me tu ha nadži vava jaj dari dari daj.]\
+  #ca[G]Co my tři z lásky vlastně #ca[H]máme,\
+  #ca[Ami]hlubokou šachtou padá #ca[H7]zdviž, co čumíš, kiš-kiš,\
+  #ca[Emi]navrch má vždycky těžký #ca[F\#]kámen\
+  #ca[H7]a my jsme v koncích čím dál #ca[Emi H7]blíž,\
+  #rep[#ca[Emi]a me tu ha nadži vava #ca[Ami]jaj dari dari #ca[H7]daj.]\
   #rep[
-    Navrch má vždycky těžký kámen\
-    a my jsme v koncích čím dál blíž...
+    #ca[Emi]Navrch má vždycky těžký #ca[F\#]kámen\
+    #ca[H7]a my jsme v koncích čím dál #ca[Emi H7]blíž...
   ]
 ]
 

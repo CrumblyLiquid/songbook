@@ -7,17 +7,17 @@
 )
 
 #verse[
-  #c[Ami]Zpí#w[G]vám #c[F]ptákům a #c[Emi]zvlášť #c[Ami]holubům,\
+  #c[Ami]Zpí#w[G]vám #c[F]ptákům a #c[Emi]zvlášť holu#c[Ami]bům,\
   #c[Ami]stá#w[G]val #c[F]v údolí #c[Emi]mém starý #c[Ami]dům.\
   #c[C]Ptá#c[G]ků #c[C]houf zalé#c[G]tal ke kro#c[C]vům,\
   #c[Ami]měl #s[G]jsem #c[F]rád holu#c[Emi]bích křídel #c[Ami]šum.
 ]
 
 #verse[
-  Vlídná dívka jim házela hrách,\
-  mávání perutí víří prach.\
-  Ptáci krouží a neznají strach,\
-  měl jsem rád starý dům, jeho práh.
+  #ca[Ami]Vlíd#wa[G]ná #ca[F]dívka jim #ca[Emi]házela #ca[Ami]hrách,\
+  #ca[Ami]má#wa[G]vá#wa[F]ní peru#ca[Emi]tí víří #ca[Ami]prach.\
+  #ca[C]Ptá#wa[G]ci #ca[C]krouží a #ca[G]neznají #ca[C]strach,\
+  #ca[Ami]měl #sa[G]jsem #ca[F]rád starý #ca[Emi]dům, jeho #ca[Ami]práh.
 ]
 
 #chorus[
@@ -28,17 +28,17 @@
 ]
 
 #verse[
-  Sdílný déšť vypráví okapům,\
-  bláhový, kdo hledá tenhle dům.\
-  Odrůstáš chlapeckým střevícům,\
-  neslyšíš holubích křídel šum.
+  #ca[Ami]Sdíl#wa[G]ný #ca[F]déšť vyprá#ca[Emi]ví oka#ca[Ami]pům,\
+  #ca[Ami]blá#wa[G]ho#ca[F]vý, kdo hle#ca[Emi]dá tenhle #ca[Ami]dům.\
+  #ca[C]Od#ca[G]růs#ca[C]táš chlapec#ca[G]kým střeví#ca[C]cům,\
+  #ca[Ami]ne#wa[G]sly#ca[F]šíš holu#ca[Emi]bích křídel #ca[Ami]šum.
 ]
 
 #verse[
-  Nabízej úplatou cokoli,\
-  nepojíš cukrových homolí.\
-  Můžeš mít třeba zrak sokolí,\
-  nespatříš ztracené údolí.
+  #ca[Ami]Na#wa[G]bí#wa[F]zej úpla#ca[Emi]tou coko#ca[Ami]li,\
+  #ca[Ami]ne#wa[G]po#ca[F]jíš cukro#ca[Emi]vých homo#ca[Ami]lí.\
+  #ca[C]Mů#ca[G]žeš #ca[C]mít třeba #ca[G]zrak soko#ca[C]lí,\
+  #ca[Ami]ne#wa[G]spat#ca[F]říš ztrace#ca[Emi]né údo#ca[Ami]lí.
 ]
 
 #chorus[
@@ -46,7 +46,7 @@
 ]
 
 #verse[
-  Zpívám ptákům a zvlášť holubům,\
-  stával v údolí mém starý dům ...
+  #ca[Ami]Zpí#wa[G]vám #ca[F]ptákům a #ca[Emi]zvlášť holu#ca[Ami]bům,\
+  #ca[Ami]stá#wa[G]val #ca[F]v údolí #ca[Emi]mém starý #ca[Ami]dům...
 ]
 

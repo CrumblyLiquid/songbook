@@ -21,10 +21,10 @@
 ]
 
 #verse[
-  Přiletěl se mnou černej čáp, zobákem dělal klapy klap\
-  a nad kolíbkou Elvis Presley stál,\
-  obrovskej bourák v ulici, po boku krásnou slepici\
-  a lidi šeptaj: přijel ňákej král.
+  #ca[A7]Přiletěl se mnou černej čáp, #ca[D7]zobákem dělal klapy klap\
+  a #ca[E7]nad kolíbkou Elvis Presley #ca[A7]stál,\
+  #ca[A7]obrovskej bourák v ulici, #ca[D7]po boku krásnou slepici\
+  a #ca[E7]lidi šeptaj: přijel ňákej #ca[A7]král.
 ]
 
 #chorus[
@@ -32,10 +32,10 @@
 ]
 
 #verse[
-  Pořád tak ňák nemohu, chytit štěstí za nohu\
-  a nemůžu si najít klidnej kout,\
-  bláznivý ptáci začnou řvát a nový ráno šacovat\
-  a do mě pustí vždycky silnej proud.
+  #ca[A7]Pořád tak ňák nemohu, #ca[D7]chytit štěstí za nohu\
+  a #ca[E7]nemůžu si najít klidnej #ca[A7]kout,\
+  #ca[A7]bláznivý ptáci začnou řvát #ca[D7]a nový ráno šacovat\
+  a #ca[E7]do mě pustí vždycky silnej #ca[A7]proud.
 ]
 
 #chorus[
