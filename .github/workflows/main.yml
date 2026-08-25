@@ -14,7 +14,7 @@ jobs:
       - name: Setup Typst
         uses: typst-community/setup-typst@v5
         with:
-          zip-packages: requirements.json
+          zip-packages-file: requirements.json
       - name: Compile
         run: |
           typst compile standard.typ zpevnik.pdf
