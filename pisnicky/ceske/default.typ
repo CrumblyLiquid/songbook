@@ -88,6 +88,7 @@
 #include "netusim.typ"
 #include "pet_jezibab.typ"
 // #include "pisen_proti_trudomyslnosti.typ"
+#include "podekovani.typ"
 #include "podvod.typ"
 #include "pohadka.typ"
 #include "poveste_ho_vejs.typ"
