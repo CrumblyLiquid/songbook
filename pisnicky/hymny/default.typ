@@ -15,3 +15,4 @@
 #include "malousku_nevzlykej.typ"
 #include "willy_wonka.typ"
 #include "lesni_chata.typ"
+#include "draci_od_blpske_skaly.typ"
