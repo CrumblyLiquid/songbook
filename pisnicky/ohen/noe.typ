@@ -16,16 +16,16 @@
 
 #verse[
   Adam a Eva na loži z dubového dřeva založí nový rod.\
-  Prý bude změna, dvojka verze vylepšená,\
+  Prý bude změna, dvojka verze vylepšená,
   lépe připravená na život.\
-  je to vážně k vzteku, že zrovna my,\
+  A je to vážně k vzteku, že zrovna my,\
   jak ryby na útěku poplujem horami.\
   Vousatý Noe už volá hoe-hoe opřený o trámy.
 ]
 
 #verse[
   Sloni a hroši půjdou jako vlajkonoši na čele průvodu.\
-  Výpravě z Česka bouřlivě se bude tleskat,\
+  Výpravě z Česka bouřlivě se bude tleskat,
   až přejde přes vodu.\
   #rep[
     Mé bílé holubice poleťte sem,\

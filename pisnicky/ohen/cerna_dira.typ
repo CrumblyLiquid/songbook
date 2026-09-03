@@ -30,7 +30,7 @@
 
 #verse[
   #ca[G]Hele, babi, #ca[D]nezoufej, #ca[C]moje žena #ca[G]vaří\
-  #ca[G]a jídlo se jí #ca[D]většinou #ca[C]nikdy nepo#ca[D]da#ca[G]ří,\
+  a #ca[G]jídlo se jí #ca[D]většinou #ca[C]nikdy nepo#ca[D]da#ca[G]ří,\
   #ca[Emi]půjdu díru #ca[C]nakrmit #ca[A]zbytky od #ca[D]oběda,\
   #ca[G]díra všechno #ca[D]vyvrhne, #ca[C]i našeho #ca[D]dě#ca[G]da.
 ]

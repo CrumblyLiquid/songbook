@@ -11,14 +11,14 @@
   #c[Ami]Vymyslel jsem spoustu napadů, a#c[C]ů,\
   co #c[Ami]podporujou dobrou nála#c[G]du, a#c[E]ů,\
   #c[Ami]hodit klíče do kanálu, #c[D]sjet po zadku #c[Dmi]holou skálu,\
-  #c[Ami]v noci chodit #c[E]strašit do hra#c[Ami][du,] a#s[(G)]ů.
+  #c[Ami]v noci chodit #c[E]strašit do hra#c[Ami]du.
 ]
 
 #verse[
   #ca[Ami]Dám si dvoje housle pod bradu, a#ca[C]ů,\
   v #ca[Ami]bílé plachtě chodím poza#ca[G]du, a#ca[E]ů,\
   #ca[Ami]úplně melancholicky, #ca[D]s citem pro věc #ca[Dmi]jako vždycky\
-  #ca[Ami]vyrábím tu #ca[E]hradní záha#ca[Ami][du,] a#sa[(G)]ů.
+  #ca[Ami]vyrábím tu #ca[E]hradní záha#ca[Ami][du,] a#sa[G]ů.
 ]
 
 #chorus[
@@ -32,7 +32,7 @@
   #ca[Ami]Nejlepší z těch divnejch nápadů, a#ca[C]ů,\
   mi #ca[Ami]dokonale zvednul nála#ca[G]du, a#ca[E]ů,\
   #ca[Ami]natrhám ti sedmikrásky, #ca[D]tebe celou s #ca[Dmi]tvými vlásky\
-  #ca[Ami]zamknu si na #ca[E]sedm zápa#ca[Ami][dů,] a#ca[(G)]ů.
+  #ca[Ami]zamknu si na #ca[E]sedm zápa#ca[Ami][dů,] a#ca[G]ů.
 ]
 
 #chorus[
