@@ -28,7 +28,7 @@
 #verse[
   #ca[Ami7]Vlak nám včera ujel #ca[D]ze stanice do ne#ca[G]be,\
   #ca[Ami7]málo jsi se snažil, #ca[D]málo šel jsi do se#ca[G]be,\
-  #ca[Ami7]šel jsi vlastní cestou, a to#ca[D] se zrovna neno#ca[G]sí,#ca[Emi]\
+  #ca[Ami7]šel jsi vlastní cestou, a #ca[D]to se zrovna neno#ca[G]sí,#ca[Emi]\
   i #ca[Ami7]pes, kterej chce přízeň, napřed #ca[D]svýho pána popro#ca[G]sí.#ca[D]
 ]
 
