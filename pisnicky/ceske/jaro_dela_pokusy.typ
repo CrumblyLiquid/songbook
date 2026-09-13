@@ -22,7 +22,8 @@
   teplota vzduchu, a míza do růže, (_a míza do růže_)\
   Povídám, Jaro! (_Jaro!_)\
   Je to v suchu, vichry už nedujou, (_vichry už nedujou_)\
-  Nahlas (_nahlas_) nebo v duchu, lidi se radujou, (_lidi se radujou_)
+  Nahlas (_nahlas_)\
+  nebo v duchu, lidi se radujou, (_lidi se radujou_)
 ]
 
 #verse[
@@ -39,7 +40,8 @@
   teplota vzduchu, a míza do růže, (_a míza do růže_)\
   Povídám, Jaro! (_Jaro!_)\
   Je to v suchu, vichry už nedujou, (_vichry už nedujou_)\
-  Nahlas (_nahlas_) nebo v duchu, lidi se radujou, (_lidi se radujou_)\
+  Nahlas (_nahlas_)\
+  nebo v duchu, lidi se radujou, (_lidi se radujou_)\
 
   Stromy se #c[A7]radujou, (_stromy se #c[D]radujou_)\
   Keře se radujou, (_keře se radujou_)\

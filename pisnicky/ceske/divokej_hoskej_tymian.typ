@@ -11,7 +11,7 @@
 )
 
 #verse[
-  #c[D]Dál za vozem #c[G]spolu #c[D]šlapem,\
+  Dál za #c[D]vozem #c[G]spolu #c[D]šlapem,\
   někdo #c[G]rád a někdo #c[D]zmaten,\
   kdo se #c[G]vrací, není #c[F\#mi7]sám,\
   je to #c[Emi]věc, když pro nás #c[G]voní\
