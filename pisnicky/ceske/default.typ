@@ -129,4 +129,5 @@
 #include "voda_ziva.typ"
 #include "zafukane.typ"
 #include "zavolejte_straze.typ"
+#include "z_diplomky_nemam_nic.typ"
 #include "ztracis_se.typ"
