@@ -97,6 +97,7 @@
 #include "princezna_ze_mlejna.typ"
 #include "proklinam.typ"
 // #include "prouzek.typ"
+#include "psi_balada.typ"
 #include "pulnocni.typ"
 #include "racci.typ"
 #include "rande.typ"
