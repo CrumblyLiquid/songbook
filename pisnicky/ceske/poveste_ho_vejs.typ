@@ -47,8 +47,8 @@
 ]<r2>
 
 #verse[
-  Pověste ho za tu banku, v který zruinoval svůj vklad,\
-  za to, že nikdy nevydržel na jednom místě stát.
+  Pově#ca[Emi]ste ho za tu banku, v který #ca[G]zruinoval svůj #ca[D]vklad,\
+  za to, že #ca[Ami]nikdy nevy#ca[Emi]držel na #ca[D]jednom místě #ca[Emi]stát.
 ]
 
 #nchorus(ref: <r2>)[
@@ -60,13 +60,13 @@
 ]
 
 #verse[
-  Pověste ho za tu jistou, který nesplnil svůj slib,\
-  že byl zarputilým optimistou, a tak dělal spoustu chyb
+  Pově#ca[Emi]ste ho za tu jistou, který #ca[G]nesplnil svůj #ca[D]slib,\
+  že byl #ca[Ami]zarputilým opti#ca[Emi]mistou, a tak #ca[D]dělal spoustu #ca[Emi]chyb.
 ]
 
 #verse[
-  Pověste ho, že se koukal a že hodně jed a hodně pil,\
-  že dal přednost jarním loukám a pak se oženil a pak se usadil a žil
+  Pově#ca[Emi]ste ho, že se koukal a že hodně #ca[G]jed a hodně #ca[D]pil,\
+  že dal #ca[Ami]přednost jarním #ca[Emi]loukám a pak se #ca[C]oženil a pak se #ca[H]usadil a #ca[Emi]žil.
 ]
 
 #nchorus(ref: <r2>)[

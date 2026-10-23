@@ -11,15 +11,15 @@
 #chorus[
   #c[Ami]Sáro, #c[Emi]Sáro, #c[F]v noci se mi #c[C]zdálo,\
   že #c[F]tři andělé #c[C]Boží k nám #c[F]přišli na o#c[G]běd\
-  Sáro, Sáro, jak moc a nebo málo\
-  mi chybí, abych tvojí duši mohl rozumět?
+  #ca[Ami]Sáro, #ca[Emi]Sáro, jak #ca[F]moc a nebo #ca[C]málo\
+  mi #ca[F]chybí, abych #ca[C]tvojí duši #ca[F]mohl #ca[G]rozumět?
 ]
 
 #verse[
-  Sbor kajícných mnichů jde krajinou v tichu\
-  a pro všechnu lidskou pýchu má jen přezíravý smích\
-  A z prohraných válek se vojska domů vrací\
-  Však zbraně stále burácí a bitva zuří v nich
+  #ca[Ami]Sbor kajícných #ca[Emi]mnichů #ca[F]jde krajinou #ca[C]v tichu\
+  a pro #ca[F]všechnu lidskou #ca[C]pýchu má jen #ca[F]přezíravý #ca[G]smích\
+  #ca[Ami]A z prohraných #ca[Emi]válek se #ca[F]vojska domů #ca[C]vrací\
+  Však #ca[F]zbraně stále #ca[C]burácí a #ca[F]bitva zuří #ca[G]v nich
 ]
 
 #chorus[
@@ -27,10 +27,10 @@
 ]
 
 #verse[
-  Vévoda v zámku čeká na balkóně\
-  až přivedou mu koně, a pak mává na pozdrav\
-  A srdcová dáma má v každé ruce růže\
-  Tak snadno pohřbít může sto urozených hlav
+  #ca[Ami] Vévoda #ca[Emi]v zámku #ca[F]čeká na bal#ca[C]kóně\
+  až #ca[F]přivedou mu #ca[C]koně, a pak #ca[F]mává na po#ca[G]zdrav\
+  #ca[Ami]A srdcová #ca[Emi]dáma má #ca[F]v každé ruce #ca[C]růže\
+  Tak #ca[F]snadno pohřbít #ca[C]může sto #ca[F]urozených #ca[G]hlav
 ]
 
 #chorus[
@@ -38,10 +38,10 @@
 ]
 
 #verse[
-  Královnin šašek s pusou od povidel\
-  sbírá zbytky jídel a myslí na útěk\
-  V podzemí skrytí, slepí alchymisté\
-  už objevili jistě proti povinnosti lék
+  #ca[Ami] Královnin #ca[Emi]šašek #ca[F]s pusou od po#ca[C]videl\
+  #ca[F]sbírá zbytky #ca[C]jídel a #ca[F]myslí na ú#ca[G]těk\
+  #ca[Ami]A v podzemí #ca[Emi]skrytí, #ca[F]slepí alchy#ca[C]misté\
+  už #ca[F]objevili #ca[C]jistě proti #ca[F]povinnosti #ca[G]lék
 ]
 
 #chorus[
@@ -49,17 +49,17 @@
 ]
 
 #verse[
-  Páv pod tvým oknem zpívá, sotva procit'\
-  o tajemstvích noci ve tvých zahradách\
-  A já - potulný kejklíř, co svázali mu ruce\
-  teď hraju o tvé srdce a chci mít tě na dosah
+  #ca[Ami]Páv pod tvým #ca[Emi]oknem #ca[F]zpívá, sotva #ca[C]procit'\
+  #ca[F]o tajemstvích #ca[C]noci #ca[F]ve tvých zahra#ca[G]dách\
+  A #ca[Ami]já - potulný #ca[Emi]kejklíř, co #ca[F]svázali mu #ca[C]ruce\
+  teď #ca[F]hraju o tvé #ca[C]srdce a chci #ca[F]mít tě na do#ca[G]sah
 ]
 
 #chorus[
-  Sáro, Sáro, pomalu a líně\
-  s hlavou na tvém klíně chci se probouzet\
-  Sáro, Sáro, Sáro, Sáro, rosa padá ráno\
-  a v poledne už možná bude jiný svět\
+  #ca[Ami]Sáro, #ca[Emi]Sáro, #ca[F]pomalu a #ca[C]líně\
+  #ca[F]s hlavou na tvém #ca[C]klíně #ca[F]chci se probou#ca[G]zet\
+  #ca[Ami]Sáro, Sáro, #ca[Emi]Sáro, Sáro, #ca[F]rosa padá #ca[C]ráno\
+  a #ca[F]v poledne už #ca[C]možná #ca[F]bude jiný #ca[G]svět\
   #c[F]Sáro, #c[C]Sáro, #c[F]vstávej, milá #c[C]Sáro!\
   #c[F]Andělé k nám #c[Dmi]přišli na o#c[C]běd
 ]

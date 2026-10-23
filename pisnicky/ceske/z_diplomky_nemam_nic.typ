@@ -22,7 +22,7 @@
 #verse[
   #ca[B]Zvládl #ca[B/D]jsem kurz #ca[D\#]sváře#ca[F7]cí,\
   #ca[B]uva#ca[B/D]řit si #ca[D\#]kuře#ca[F7]cí,\
-  #ca[B]stihl #ca[D7]jsem i #ca[Gmi]tele#w[B7/F]cí,\
+  #ca[B]stihl #ca[D7]jsem i #ca[Gmi]tele#wa[B7/F]cí,\
   ale #ca[D\#]z diplomky #ca[F]nemám #ca[B]nic. Nanana nanana.
 ]
 
@@ -36,14 +36,14 @@
 #verse[
   #ca[B]Seřa#ca[B/D]dil jsem #ca[D\#]koře#ca[F7]ní\
   #ca[B]podle #ca[B/D]typu #ca[D\#]slože#ca[F7]ní,\
-  #ca[B]posta#ca[D7]vil si #ca[Gmi]leše#w[B7/F]ní,\
+  #ca[B]posta#ca[D7]vil si #ca[Gmi]leše#wa[B7/F]ní,\
   ale #ca[D\#]z diplomky #ca[F]nemám #ca[B]nic.
 ]
 
 #verse[
   #ca[B]Stih jsem #ca[B/D]usnout #ca[D\#]na se#ca[F7]ně,\
   #ca[B]ocho#ca[B/D]čit si #ca[D\#]tule#ca[F7]ně,\
-  #ca[B]oho#ca[D7]lit si #ca[Gmi]hole#w[B7/F]ně,\
+  #ca[B]oho#ca[D7]lit si #ca[Gmi]hole#wa[B7/F]ně,\
   ale #ca[D\#]z diplomky #ca[F]nemám #ca[B]nic. Nanana nanana.
 ]
 
@@ -61,7 +61,7 @@
 #verse[
   #ca[B]Moti#ca[B/D]vační #ca[D\#]písnič#ca[F7]ky\
   #ca[B]pustil #ca[B/D]jsem si #ca[D\#]do smyč#ca[F7]ky,\
-  #ca[B]podpo#ca[D7]řil to #ca[Gmi]kafíč#w[B7/F]ky,\
+  #ca[B]podpo#ca[D7]řil to #ca[Gmi]kafíč#wa[B7/F]ky,\
   ale #ca[D\#]z diplomky #ca[F]nemám #ca[B]nic.
 ]
 

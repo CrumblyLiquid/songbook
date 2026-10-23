@@ -15,19 +15,19 @@
 ]
 
 #verse[
-  Do závěsů nutí se den a my máme půlnoc,\
-  cítím tvůj dech a trochu se bráním hladit tě víc,\
-  poprvé blízko, blízko tě mám\
-  a tvoje tvář je plná stop mých,\
-  začnu se bát, jestli to moje rád ti neublíží.
+  Do závě#ca[A]sů nutí se #ca[Hmi]den a my máme #ca[A]půlnoc,\
+  cítím tvůj #ca[A]dech a trochu se #ca[Hmi]bráním hladit tě #ca[A]víc,\
+  poprvé #ca[E]blízko, blízko tě mám\
+  a tvoje #ca[F\#mi]tvář je plná stop #ca[D]mých,\
+  začnu se #ca[A]bát, jestli to moje #ca[Hmi]rád ti neublí#ca[E]ží.
 ]
 
 #verse[
-  A už se mi stýská, pitomej čas, už musíš jít,\
-  uklidím okurky, polštáře, naposledy pusu ti dám,\
-  ruce si chvíli nebudu mýt,\
-  pel z tvojí kůže nechci si vzít,\
-  tak zase zítra, ty můj vánku milovaný.
+  A už se mi #ca[A]stýská, pitomej #ca[Hmi]čas, už musíš #ca[A]jít,\
+  uklidím #ca[A]okurky, polštáře, #ca[Hmi]naposledy pusu ti #ca[A]dám,\
+  ruce si #ca[E]chvíli nebudu mýt,\
+  pel z tvojí #ca[F\#mi]kůže nechci si #ca[D]vzít,\
+  tak zase #ca[A]zítra, ty můj #ca[Hmi]vánku milova#ca[E]ný.
 ]
 
 #verse[

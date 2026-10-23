@@ -6,7 +6,7 @@
   doc,
 )
 
-#solo[Em D A Em]
+#solo[A D A Emi]
 
 #verse[
   Ještě #c[Emi]spí a spí a spí, zámek #c[D]šípkový,\
@@ -22,13 +22,14 @@
   #c[Ami]zatím spí tam #c[Hmi]dál, spí tam v #c[Emi]růžích.
 ]
 
-#solo[Emi A Emi A Emi G A Emi]
+#solo[A Emi A Emi G A Emi]
 
 #verse[
-  Kdo ji ústa k ústům dá, kdo ji zachrání,\
-  kdo si dívku pobledlou, vezme za paní.\
-  Vyjdi zítra za ní a nevěř pohádkám,\
-  žádný princ už není, musíš tam jít sám.
+  #ca[Emi]Kdo ji ústa k ústům dá, kdo ji #ca[D]zachrání,\
+  #ca[Emi]kdo si dívku pobledlou, #ca[Hmi]vezme za paní.\
+  #ca[Emi]Vyjdi zítra za ní a #ca[D]nevěř pohádkám,\
+  // TODO: Optional chords
+  #ca[Emi]žádný princ už není, #ca[Hmi]musíš tam jít sám.#ca[(C)]
 ]
 
 #chorus[
@@ -36,7 +37,7 @@
 ]
 
 #verse[
-  #c[Emi]Musíš vyjít #c[D]sám, nesmíš #c[G]věřit pohád#c[C]kám,#c[(Hmi)]\
+  #c[Emi]Musíš vyjít #c[Dmi]sám, nesmíš #c[G]věřit pohád#c[C]kám,#c[(Hmi)]\
   #c[Ami]čeká dívka #c[Hmi]dál, spí tam v #c[Emi]růžích,\
-  #c[C]čeká dívka #c[Hmi]dál, spí tam v #c[E]růžích.
+  #c[C]čeká dívka #c[Hmi]dál, spí tam v #c[Esus4 E Esus2 E]růžích.
 ]

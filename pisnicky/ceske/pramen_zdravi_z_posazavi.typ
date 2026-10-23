@@ -12,8 +12,8 @@
 ]
 
 #verse[
-  Chcete-li prospěti dítěti bledému,\
-  kupte mu pramen zdraví z Posázaví.
+  Chcete-#ca[C]li prospěti dítě#ca[Ami]ti bledému,\
+  #ca[F]kupte mu #ca[G]pramen zdraví #ca[C]z Posázaví#ca[G].
 ]
 
 #verse[

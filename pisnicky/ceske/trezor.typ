@@ -14,25 +14,23 @@
 ]
 
 #chorus[
-  Na to že #c[D7]náhodně v krámě vášnivé\
-  dámě #c[G]padl jsem za tro#c[Emi]fej,\
+  Na to že #c[D7]náhodně v krámě vášnivé dámě\
+  #c[G]padl jsem za tro#c[Emi]fej,\
   #c[A7]tvrdila pevně: přijdu tě levně, #c[D7]nezoufej, ó jé, jé, jé, jé.
 ]
 
 #verse[
-  Jenže potom v naší vile chovala se zhůvěřile,\
-  aby měla správné klima, dal jsem ji do trezoru, ať v klidu dřímá.\
-  Spánku se bráním už noc pátou, ne ale žalem nad tou ztrátou,\
-  jen hynu bázní, že kasař úlovek vrátí.
-]
+  #c[G]Jenže potom v naší vile #c[C]chovala se zhůvěřile,\
+  #c[A7]aby měla správné klima, #c[D7]dal jsem ji do trezoru, ať v klidu dřímá.\
+  #c[G]Spánku se bráním už noc pátou, #c[C]ne ale žalem nad tou ztrátou,\
+  #c[D7]jen hynu bázní, že kasař úlovek #c[C]vráááááá#c[G]tí.
+]<v-nasi-vile>
 
 #chorus[
-  Na to že náhodně v krámě vášnivé\
-  dámě padl jsem za trofej,\
-  tvrdila pevně: přijdu tě levně, nezoufej, ó jé, jé, jé, jé.
+  Na to že náhodně v krámě...
 ]
 
-#verse[
-  \= 2.
+#verse(ref: <v-nasi-vile>)[
+  Jenže potom v naší vile...
 ]
 

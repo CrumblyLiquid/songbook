@@ -12,15 +12,15 @@
 ]
 
 #verse[
-  #rep[Skřítkové ze skal a skřítkové z lesa.]\
-  #rep[Pila ať pracuje, sekera tesá.]
+  #rep[#ca[C]Skřítkové #ca[F]ze skal a #ca[C]skřítkové #ca[G]z lesa.]\
+  #rep[#ca[C]Pila ať #ca[C7]pracuje, #ca[F]sekera #ca[G]tesá.]
 ]
 
 #chorus[
   #c[C]Šupy dupy dup, #c[Ami]raz dva tři hej rup!
   #c[F]Pidimužík #c[G]pracuje.\
   #c[C]Šupy dupy dup, #c[Ami]raz dva tři hej rup!
-  #c[F]Pidimužík #c[C]kutá.\
+  #c[F]Pidimu#c[G]žík #c[C]kutá.\
   #c[C]Šupy dupy dup, #c[Ami]jedli nebo dub,
   #c[F]všechno krásně #c[G]zpracuje,\
   #c[C]Šupy dupy dup, #c[Ami]raz dva tři hej rup!
@@ -39,23 +39,21 @@
 ]
 
 #verse[
-  #rep[Skřítkové, zedníci zanechte spánku.]\
-  #rep[Vezměte kladívko, lžíci a fanku.]
+  #rep[#ca[C]Skřítkové, #ca[F]zedníci #ca[C]zanechte #ca[G]spánku.]\
+  #rep[#ca[C]Vezměte #ca[C7]kladívko, #ca[F]lžíci a #ca[G]fanku.]
 ]
 
 #verse[
-  #rep[Písek se červená, vápno se bělá.]\
-  #rep[Brána je zřícená, ať stojí celá.]
+  #rep[#ca[C]Písek se #ca[F]červená, #ca[C]vápno se #ca[G]bělá.]\
+  #rep[#ca[C]Brána je #ca[C7]zřícená, #ca[F]ať stojí #ca[G]celá.]
 ]
 
 #chorus[
-  Šupy dupy dup, raz dva tři, hej rup!
-  Už to máme pod střechou.\
-  Šupy dupy dup, raz dva tři, hej rup!
-  Už to máme v suchu.\
-  Šupy dupy dup, raz dva tři, hej rup!
-  Už to máme pod střechou.\
-  šupy dupy dub, raz dva tři, hej rup!
-  Už to máme v suchu.
+  #rep[
+    #c[C]Šupy dupy dup, #c[Ami]raz dva tři, hej rup!
+    #c[F]Už to máme #c[G]pod střechou.\
+    #c[C]Šupy dupy dup, #c[Ami]raz dva tři, hej rup!
+    #c[F]Už to má#c[G]me #c[C]v suchu.
+  ]
 ]
 

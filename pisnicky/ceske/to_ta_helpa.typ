@@ -25,13 +25,13 @@
   ]
 ]
 #verse[
-  Za Janíčkom za Palíčkom krok by nespravila,\
-  za Ďuríčkom za Mišíčkom Dunaj preskočila.
+  #ca[Ami]Za Ja#ca[D]níčkom #ca[Ami]za Pa#ca[D]líčkom #ca[Ami]krok by #ca[E]nespra#ca[Ami]vila,\
+  #ca[Ami]za Ďu#ca[D]ríčkom #ca[Ami]za Mi#ca[D]šíčkom #ca[Ami]Dunaj #ca[E]presko#ca[Ami]čila.
 ]
 #chorus[
   #rep[
-    Dunaj Dunaj Dunaj Dunaj aj to širé pole,\
-    ľen za jedným ľen za jedným počešenie moje.
+    #ca[F]Dunaj Dunaj #ca[C]Dunaj Dunaj #ca[G]aj to širé #ca[C]po#ca[E]le,\
+    #ca[Ami]ľen za #ca[D]jedným #ca[Ami]ľen za #ca[D]jedným #ca[Ami]poče#wa[E]šenie #ca[Ami]moje.
   ]
 ]
 

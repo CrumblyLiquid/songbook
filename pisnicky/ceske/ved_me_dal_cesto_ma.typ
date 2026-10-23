@@ -26,10 +26,10 @@
 ]
 
 #verse[
-  Chodím dlouho, po všech cestách,\
-  všechny znám je, jen ta má mi zbývá.\
-  Je jak dívky, co jsem měl tak rád,\
-  plná žáru bývá, hned zas samý chlad.
+  #ca[G]Chodím dlouho, #ca[Emi]po všech cestách,\
+  #ca[D]všechny znám je, #ca[C]jen ta má mi #ca[G]zbývá.\
+  #ca[G]Je jak dívky, #ca[Emi]co jsem měl tak rád,\
+  #ca[D]plná žáru bývá, #ca[C]hned zas samý #ca[G]chlad.
 ]
 
 
