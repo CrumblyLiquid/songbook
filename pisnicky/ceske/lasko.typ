@@ -16,7 +16,7 @@
 
 #verse[
   #c[Ami]Pár zbytků pro krysy na misce od guláše,\
-  #c[E7]milostný dopisy s partií #w[Dmi]mariáše,\
+  #c[E7]milostný dopisy s partií #c[Dmi]mariáše,\
   #c[Dmi]před cestou dalekou zpocený boty zujem\
   #c[C]a potom pod dekou #c[E]sníme, když onanujem.
 ]
@@ -28,30 +28,30 @@
   #c[Ami]Lásko, #c[G]slunce máš na vějíři,\
   #c[Ami]lásko, #c[G]dvě třešně na talíři,\
   #c[Ami]ty ti #w[G/H~~]daru#w[Ami]ji, až #c[G]jednou se #c[Ami]vrátím.#c[E]
-]
+]<lasko>
 
 
 #verse[
-  Dvacet let necelých, odznáček na baretu,\
-  s úsměvem dospělých vytáhnem cigaretu,\
-  v opasku u boku nabitou parabelu,\
-  zpíváme do kroku pár metrů od bordelu.
+  #ca[Ami]Dvacet let necelých, odznáček na baretu,\
+  #ca[E7]s úsměvem dospělých vytáhnem #ca[Dmi]cigaretu,\
+  #ca[Dmi]v opasku u boku nabitou parabelu,\
+  #ca[C]zpíváme do kroku #ca[E]pár metrů od bordelu.
 ]
 
 
-#chorus[
+#chorus(ref: <lasko>)[
   Lásko, zavři se do pokoje...
 ]
 
 
 #verse[
-  Pár zbytků pro krysy a taška na patrony,\
-  latrína s nápisy, jež nejsou pro matróny,\
-  není čas na spaní, smrtka nám drtí palce,\
-  nežli se zchlastaní svalíme na kavalce.
+  #ca[Ami]Pár zbytků pro krysy a taška na patrony,\
+  #ca[E7]latrína s nápisy, jež nejsou pro #ca[Dmi]matróny,\
+  #ca[Dmi]není čas na spaní, smrtka nám drtí palce,\
+  #ca[C]nežli se zchlastaní #ca[E]svalíme na kavalce.
 ]
 
-#chorus[
+#chorus(ref: <lasko>)[
   Lásko, zavři se do pokoje...
 ]
 
@@ -59,7 +59,7 @@
   #c[E]Levá! Dva!
 ]
 
-#chorus[
+#chorus(ref: <lasko>)[
   Lásko, zavři se do pokoje...
 ]
 

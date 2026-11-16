@@ -3,6 +3,7 @@
 #show: doc => song(
   title: [Malé kotě],
   author: [Jiří Suchý, Jiří Šlitr],
+  transpose: -2,
   doc,
 )
 
