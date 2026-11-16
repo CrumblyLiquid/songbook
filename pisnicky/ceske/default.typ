@@ -24,6 +24,7 @@
 #include "dajana.typ"
 #include "delani.typ"
 #include "delfini.typ"
+#include "dinosaur.typ"
 #include "divokej_hoskej_tymian.typ"
 #include "drobna_paralela.typ"
 #include "dva_havrani.typ"
